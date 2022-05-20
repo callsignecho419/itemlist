@@ -33,7 +33,7 @@
     {
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -49,7 +49,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Bloodlust",
@@ -125,7 +125,7 @@
     {
       "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -141,7 +141,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Cannibal",
@@ -267,7 +267,7 @@
     {
       "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
         "wimp"
@@ -283,7 +283,7 @@
           "wimp"
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Masochist",
@@ -359,7 +359,7 @@
     {
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
         "ascetic",
@@ -377,7 +377,7 @@
           "greedy"
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Jealous",
@@ -733,7 +733,7 @@
     {
       "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -749,7 +749,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Undergrounder",
@@ -943,7 +943,7 @@
     {
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -959,7 +959,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "TorturedArtist",
@@ -16245,6 +16245,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -16267,6 +16268,7 @@
         "stats": [
           "+120.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "+9.0F Minimum comfortable temperature",
@@ -16295,6 +16297,7 @@
         "stats": [
           "+120.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "+9.0F Minimum comfortable temperature",
@@ -16323,6 +16326,7 @@
         "stats": [
           "+120.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "+9.0F Minimum comfortable temperature",
@@ -16351,6 +16355,7 @@
         "stats": [
           "+120.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "+9.0F Minimum comfortable temperature",
@@ -16379,6 +16384,7 @@
         "stats": [
           "+120.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "-99.0F Minimum comfortable temperature",
@@ -16407,6 +16413,7 @@
         "stats": [
           "+60.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1900 Market value",
           "+7.85 Move speed",
           "-108.0F Minimum comfortable temperature",
@@ -16432,6 +16439,7 @@
         "stats": [
           "+60.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1900 Market value",
           "+6.23 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -16465,7 +16473,10 @@
           "+12.0% Armor - Sharp",
           "+21.6F Minimum comfortable temperature",
           "+57.6F Maximum comfortable temperature",
-          "+100% Eating speed"
+          "+100% Eating speed",
+          "+4 Honor value",
+          "+85% Neural heat gain",
+          "+60% / day Meditation psyfocus gain"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -16491,7 +16502,8 @@
           "+21.6F Minimum comfortable temperature",
           "+57.6F Maximum comfortable temperature",
           "+115% Eating speed",
-          "+1.4 Melee hit chance"
+          "+1.4 Melee hit chance",
+          "+4 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -16508,6 +16520,7 @@
         "stats": [
           "+60.00 Mass",
           "+0% Flammability",
+          "+1000 Base XP yield",
           "+$0 Market value",
           "+5.60 Move speed",
           "+0% Toxic sensitivity",
@@ -16531,6 +16544,7 @@
         "stats": [
           "+65.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$3000 Market value",
           "+5 Honor value",
           "+75 Carrying capacity",
@@ -16567,6 +16581,7 @@
         "stats": [
           "+50.00 Mass",
           "+120% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "-18.0F Minimum comfortable temperature",
@@ -16599,6 +16614,7 @@
         "stats": [
           "+50.00 Mass",
           "+120% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.10 Move speed",
           "-36.0F Minimum comfortable temperature",
@@ -16631,6 +16647,7 @@
         "stats": [
           "+50.00 Mass",
           "+120% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+5.00 Move speed",
           "-72.0F Minimum comfortable temperature",
@@ -16663,6 +16680,7 @@
         "stats": [
           "+70.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.00 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -16695,6 +16713,7 @@
         "stats": [
           "+60.00 Mass",
           "+90% Flammability",
+          "+1000 Base XP yield",
           "+$1600 Market value",
           "+4.80 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -16727,6 +16746,7 @@
         "stats": [
           "+60.00 Mass",
           "+0% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.00 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -16759,6 +16779,7 @@
         "stats": [
           "+65.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1850 Market value",
           "+4.60 Move speed",
           "+18.0F Minimum comfortable temperature",
@@ -16791,6 +16812,7 @@
         "stats": [
           "+90.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+6.60 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -16823,6 +16845,7 @@
         "stats": [
           "+30.00 Mass",
           "+80% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+5.00 Move speed",
           "+18.0F Minimum comfortable temperature",
@@ -16855,6 +16878,7 @@
         "stats": [
           "+30.00 Mass",
           "+50% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+5.00 Move speed",
           "-540.0F Minimum comfortable temperature",
@@ -16887,6 +16911,7 @@
         "stats": [
           "+90.00 Mass",
           "+5% Flammability",
+          "+1000 Base XP yield",
           "+$2200 Market value",
           "+4.70 Move speed",
           "-36.0F Minimum comfortable temperature",
@@ -16920,6 +16945,7 @@
         "stats": [
           "+90.00 Mass",
           "+120% Flammability",
+          "+1000 Base XP yield",
           "+$2200 Market value",
           "+4.70 Move speed",
           "-99.0F Minimum comfortable temperature",
@@ -17017,6 +17043,7 @@
         "stats": [
           "+92.50 Mass",
           "+0% Flammability",
+          "+1000 Base XP yield",
           "+$8000 Market value",
           "+10.00 Move speed",
           "+0% Psychic sensitivity",
@@ -17051,6 +17078,7 @@
         "stats": [
           "+72.50 Mass",
           "+25% Flammability",
+          "+1000 Base XP yield",
           "+$6000 Market value",
           "+7.20 Move speed",
           "+10% Psychic sensitivity",
@@ -17085,6 +17113,7 @@
         "stats": [
           "+92.50 Mass",
           "+0% Flammability",
+          "+1000 Base XP yield",
           "+$4800 Market value",
           "+5.00 Move speed",
           "+15% Psychic sensitivity",
@@ -17118,6 +17147,7 @@
         "stats": [
           "+32.50 Mass",
           "+20% Flammability",
+          "+1000 Base XP yield",
           "+$1400 Market value",
           "+3.00 Move speed",
           "+30% Psychic sensitivity",
@@ -17154,6 +17184,7 @@
         "stats": [
           "+62.50 Mass",
           "+20% Flammability",
+          "+1000 Base XP yield",
           "+$2500 Market value",
           "+4.50 Move speed",
           "+20% Psychic sensitivity",
@@ -17314,6 +17345,7 @@
         "stats": [
           "+25.00 Mass",
           "+100% Flammability",
+          "+1000 Base XP yield",
           "+28.8F Minimum comfortable temperature",
           "+64.8F Maximum comfortable temperature",
           "+30 Leather amount",
@@ -17339,6 +17371,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+5.20 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17361,6 +17394,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17383,6 +17417,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17405,6 +17440,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17427,6 +17463,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17450,6 +17487,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17473,6 +17511,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -17496,6 +17535,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -17519,6 +17559,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1950 Market value",
           "+4.60 Move speed",
           "+36.0F Minimum comfortable temperature",
@@ -17542,6 +17583,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -17565,6 +17607,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+16.2F Minimum comfortable temperature",
@@ -17588,6 +17631,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+16.2F Minimum comfortable temperature",
@@ -17611,6 +17655,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1800 Market value",
           "+4.60 Move speed",
           "+0.0F Minimum comfortable temperature",
@@ -17634,6 +17679,7 @@
         "stats": [
           "+60.00 Mass",
           "+20% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.60 Move speed",
           "+21.6F Minimum comfortable temperature",
@@ -17659,6 +17705,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+5.20 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17683,6 +17730,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.20 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17706,6 +17754,7 @@
         "stats": [
           "+60.00 Mass",
           "+20% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+5.00 Move speed",
           "+3.6F Minimum comfortable temperature",
@@ -17731,6 +17780,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.80 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17754,6 +17804,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.20 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17778,6 +17829,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.00 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -17802,6 +17854,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.80 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17825,6 +17878,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.50 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17849,6 +17903,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.80 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17873,6 +17928,7 @@
         "stats": [
           "+60.00 Mass",
           "+50% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.60 Move speed",
           "-36.0F Minimum comfortable temperature",
@@ -17896,6 +17952,7 @@
         "stats": [
           "+35.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "+$1500 Market value",
           "+4.30 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17923,6 +17980,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+5.20 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17947,6 +18005,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.00 Move speed",
           "+7.2F Minimum comfortable temperature",
@@ -17969,6 +18028,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+5.20 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -17996,6 +18056,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+5.50 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -18019,6 +18080,7 @@
         "stats": [
           "+60.00 Mass",
           "+20% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+4.60 Move speed",
           "+21.6F Minimum comfortable temperature",
@@ -18044,6 +18106,7 @@
         "stats": [
           "+90.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2500 Market value",
           "+4.60 Move speed",
           "-180.0F Minimum comfortable temperature",
@@ -18074,6 +18137,7 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
+          "+1000 Base XP yield",
           "+$2000 Market value",
           "+5.20 Move speed",
           "+14.4F Minimum comfortable temperature",
@@ -18098,6 +18162,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18120,6 +18185,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18142,6 +18208,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "-72.0F Minimum comfortable temperature",
@@ -18164,6 +18231,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18186,6 +18254,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18208,6 +18277,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18230,6 +18300,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.80 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18252,6 +18323,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18274,6 +18346,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18296,6 +18369,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18322,6 +18396,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18348,6 +18423,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18374,6 +18450,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18400,6 +18477,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18426,6 +18504,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18452,6 +18531,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18478,6 +18558,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18505,6 +18586,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18532,6 +18614,7 @@
         "stats": [
           "+60.00 Mass",
           "+10% Flammability",
+          "+1000 Base XP yield",
           "-450.0F Minimum comfortable temperature",
           "+450.0F Maximum comfortable temperature",
           "+0 Leather amount",
@@ -18558,6 +18641,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18580,6 +18664,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18602,6 +18687,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18624,6 +18710,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18646,6 +18733,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18668,6 +18756,7 @@
         "stats": [
           "+60.00 Mass",
           "+0% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18691,6 +18780,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18713,6 +18803,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18735,6 +18826,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18757,6 +18849,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18779,6 +18872,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18801,6 +18895,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18823,6 +18918,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18845,6 +18941,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18867,6 +18964,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18889,6 +18987,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18911,6 +19010,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18933,6 +19033,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1000 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -18948,6 +19049,156 @@
       "defName": "O21_OR_Twilek",
       "enabled": true,
       "name": "Twi'lek",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+1000 Base XP yield",
+          "+$1800 Market value",
+          "+4.10 Move speed",
+          "+9.0F Minimum comfortable temperature",
+          "+99.0F Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+30.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Loxos are a large humanoid crossed with elephants with trunks and bluish-gray skin. Peaceful in nature, Loxos are mostly an isolationist race and most of the time refused contact with other sentient races.",
+      "defName": "FR_Alien_Loxo",
+      "enabled": true,
+      "name": "Loxo",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+1000 Base XP yield",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
+      "defName": "FR_Alien_Minotaur",
+      "enabled": true,
+      "name": "Minotaur",
+      "price": 3583
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+1000 Base XP yield",
+          "+$1500 Market value",
+          "+4.50 Move speed",
+          "+9.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+30.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Territorial strongly built large humanoid creatures, Crocodillians are profiecient in combat and living in swampy choked enviroments.",
+      "defName": "FR_Alien_Croco",
+      "enabled": true,
+      "name": "Crocodillian",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+1000 Base XP yield",
+          "+$1500 Market value",
+          "+4.80 Move speed",
+          "+9.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+25.0% Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Territorial medium sized humanoid creatures, Squamata are profiecient like their kin Crocodillians in combat and living in swampy choked enviroments.",
+      "defName": "FR_Alien_Squamata",
+      "enabled": true,
+      "name": "Squamata",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+70% Flammability",
+          "+1000 Base XP yield",
+          "+$1750 Market value",
+          "+5.60 Move speed",
+          "-14.4F Minimum comfortable temperature",
+          "+32.4F Maximum comfortable temperature",
+          "+3 Honor value",
+          "+20.0% Armor - Blunt",
+          "+50 Leather amount",
+          "+105% Global learning factor",
+          "+110% Pain shock threshold",
+          "+125% Psychic sensitivity",
+          "+85% Toxic sensitivity",
+          "+85% Plant work speed",
+          "+90% Plant harvest yield",
+          "+90.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+130% Hunting stealth",
+          "+105% General labor speed",
+          "+105% Drug synthesis speed",
+          "+105% Drug cooking speed",
+          "+110% Butchery efficiency",
+          "+115.00% Tame animal chance",
+          "+115.00% Train animal chance",
+          "+115% Animal gather speed",
+          "+90% Aiming time",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+85 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
+      "defName": "Arachne",
+      "enabled": true,
+      "name": "arachne",
       "price": 2917
     }
   ]
