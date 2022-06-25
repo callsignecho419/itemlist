@@ -12,38 +12,8 @@
     "version": "3.3.0.0"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "9.0.1"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
+    "author": "pashka",
+    "name": "Animals reskin HD",
     "steamId": null,
     "version": null
   },
@@ -60,134 +30,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
+    "author": "Wyatt Mingji Lim aka WalkingProblem",
+    "name": "[1.3] Advanced Animal Frameworks 3.95",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Forgotten Realms",
-    "steamId": "2184183669",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Social Interactions Expanded",
-    "steamId": "2439736083",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
-    "author": "leafzxg",
-    "name": "Thrumbo Extension",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": "1217001091",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Spino",
-    "name": "Megafauna",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Taranchuk and  Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Australia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Temperate Forest",
-    "steamId": "2260502331",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
+    "author": "pashka",
+    "name": "Starship Troopers Arachnids HD",
     "steamId": null,
     "version": null
   },
@@ -198,224 +48,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Vanilla Hair Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
-    "name": "Vanilla Animals Expanded — Caves",
-    "steamId": "2576512001",
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Igor Invader",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sierra",
-    "name": "RimTraits - Vanilla Trait Colors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron Vanilla Face",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.3.1"
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  dninemfive and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Swamp",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Rainforest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Boreal Forest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Ice Sheet",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Extreme Desert",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Desert",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Arid Shrubland",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Cats and Dogs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal Style Pack - Techist",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal Style Pack - Sophian",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Security pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Feral Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Federation Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Hair pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Rimsenal Hair Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17 and Kinkade",
-    "name": "[O21] Koopa Corps Invasion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] HD Pawns",
+    "name": "RimFantasy - Gemstones",
     "steamId": null,
     "version": null
   },
@@ -426,34 +66,46 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim Galaxies",
-    "steamId": "2681363470",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oracle and Erin",
-    "name": "Opossum Friends",
+    "author": "Dave-EEs",
+    "name": "99 Percent [1.3]",
     "steamId": null,
     "version": null
   },
   {
-    "author": "pashka",
-    "name": "Animals reskin HD",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
+    "name": "Vanilla Animals Expanded — Caves",
+    "steamId": "2576512001",
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Categorized Crafting Bills",
+    "steamId": "2403595130",
+    "version": "1.0.1"
+  },
+  {
+    "author": "VinaLx",
+    "name": "ResearchPal - Forked",
+    "steamId": "2351393394",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "name": "Xenohumans - Anthromorphs",
+    "steamId": "2349467636",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "9.0.1"
   },
   {
     "author": "jecrell and contributors",
@@ -462,50 +114,8 @@
     "version": "1.3.0.4"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.7.3"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.5"
-  },
-  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NotFood",
-    "name": "MendAndRecycle",
-    "steamId": "735241897",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "GHXX",
-    "name": "Tech Advancing",
-    "steamId": "735268789",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.3.2.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
-  },
-  {
-    "author": "Wyatt Mingji Lim aka WalkingProblem",
-    "name": "[1.3] Advanced Animal Frameworks 3.95",
     "steamId": null,
     "version": null
   },
@@ -516,130 +126,16 @@
     "version": null
   },
   {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.7875.31864"
-  },
-  {
-    "author": "sunny",
-    "name": "Rakkle 1.3 (unofficial update)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nymcom",
-    "name": "Laser Rifle",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gargamiel",
-    "name": "PokéWorld",
-    "steamId": "2652029657",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Windows XP",
-    "name": "Realistic Planets Continued",
-    "steamId": "2557451791",
-    "version": "1.0.7992.26516"
-  },
-  {
-    "author": "TheRugDealer",
-    "name": "PokéWorld Realistic Planets Biomes Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "moronic",
-    "name": "Arachne Race (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bradson",
-    "name": "Bradson's Main Button Icons for Vanilla Textures Expanded",
-    "steamId": "2361775777",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Kor_HellCross",
-    "name": "H.C_AnimalReskins_Complete2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.2.7365"
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "1.8.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Glowing Healroot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AsG_Alligator",
-    "name": "Monster Hunter RimWorld",
-    "steamId": "2798478679",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Halituis Amaricanous",
-    "name": "Ranamon Race Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ValiDragunova",
-    "name": "Vali's Charged Arsenal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "IcyCheeseCake",
-    "name": "TasteOfVanilla-ish Arachne Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Holgast",
-    "name": "Pokeworld Enhancements",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Falconne",
     "name": "Heat Map",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Pope Snowball",
-    "name": "Hold Open Opens Doors",
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "MarvinKosh",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.7895.35757"
   },
   {
     "author": "AtomicRavioli",
@@ -648,16 +144,22 @@
     "version": null
   },
   {
-    "author": "Farmradish",
-    "name": "Nyaron race",
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.8"
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0"
   },
   {
     "author": "The Biomes Mod Team",
@@ -678,266 +180,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Alias, Gewen and Swenzi",
-    "name": "Additional Traits (Heroes + Gods Optional)",
-    "steamId": "1621571024",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Andross",
-    "name": "Royal Thrumbos",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil | Dr_Zhivago",
-    "name": "Carry Capacity Fixed",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Rice Rice Baby",
-    "steamId": "1908712892",
-    "version": "2.2.0.0"
-  },
-  {
-    "author": "Unon",
-    "name": "No Burn Metal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Victorique,  Aurani and  Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Semi Random Research",
-    "steamId": "2375902187",
-    "version": "1.0.5"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
-    "author": "NewsofPE",
-    "name": "No Research 1.3",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "More Random Seeds",
-    "steamId": "1501463043",
-    "version": "6.0.0.0"
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Map Preview",
-    "steamId": "2800857642",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Animation",
-    "steamId": "2575938407",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Steve",
-    "name": "Better Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oblitus",
-    "name": "Animals Logic",
-    "steamId": "1098354593",
-    "version": "1.0.8084.14260"
-  },
-  {
-    "author": "Zachary Foster Forked by Crazedmonkey231",
-    "name": "Minerals [Forked]",
-    "steamId": "2793091013",
-    "version": "1.0.8137.35298"
-  },
-  {
-    "author": "Helixien and  Taranchuk",
-    "name": "ReGrowth: Expanded World Generation (Continued)",
-    "steamId": "2791768296",
-    "version": "1.3.4"
-  },
-  {
-    "author": "Team aRatoCat",
-    "name": "Ursine of the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi",
-    "name": "Colored deep resources",
-    "steamId": "2791102835",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "pashka",
-    "name": "Starship Troopers Arachnids HD",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Gemstones",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dave-EEs",
-    "name": "99 Percent [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "1trickPonyta",
-    "name": "Bed Rest For Food Poisoning",
-    "steamId": "2567901366",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "PinoChemicali and  Scherub",
-    "name": "Skilled Stonecutting [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sugi",
-    "name": "Fix Mechanoid Resource Drop",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neceros (Original) and  Mario",
-    "name": "Metal Don't Burn (UNOFFICIAL 1.3 PATCH)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Simmin",
-    "name": "Power Tools",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SalmonToastie",
-    "name": "Forgotten Realms - Minotaur",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Ding On Game Loaded",
-    "steamId": "2425530959",
-    "version": "1.3.2"
-  },
-  {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SalmonToastie",
-    "name": "Forgotten Realms - Lizardfolk",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Categorized Crafting Bills",
-    "steamId": "2403595130",
-    "version": "1.0.1"
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Do Your F****** Research",
-    "steamId": "2375193973",
-    "version": "1.0.1"
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Chill the F*** Out",
-    "steamId": "2369675899",
-    "version": "1.0.1"
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Go the F*** to Sleep",
-    "steamId": "2369307661",
-    "version": "1.0.2"
-  },
-  {
-    "author": "VinaLx",
-    "name": "ResearchPal - Forked",
-    "steamId": "2351393394",
-    "version": "1.3.0.2"
-  },
-  {
-    "author": "AveryTheKitty,  Erin and Ravenholme",
-    "name": "Xenohumans - Anthromorphs",
-    "steamId": "2349467636",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Murmur",
-    "name": "Temperature Control Unit",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ron Popeil",
-    "name": "Don't Steal My Walls!",
-    "steamId": "2058688941",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "sulusdacor,  james76543 and  Meltup",
-    "name": "Advanced Power Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Linkolas",
-    "name": "Stabilize",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Murmur",
-    "name": "Infestations Spawn in Darkness",
-    "steamId": "2017514331",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!",
+    "author": "Razar1",
+    "name": "Monstergirl Races",
     "steamId": null,
     "version": null
   },
@@ -948,10 +192,208 @@
     "version": "1.3.3136.1"
   },
   {
+    "author": "Neronix17",
+    "name": "[O21] HD Pawns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Ding On Game Loaded",
+    "steamId": "2425530959",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Outer Rim Galaxies",
+    "steamId": "2681363470",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oracle and Erin",
+    "name": "Opossum Friends",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Colored deep resources",
+    "steamId": "2791102835",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zachary Foster Forked by Crazedmonkey231",
+    "name": "Minerals [Forked]",
+    "steamId": "2793091013",
+    "version": "1.0.8137.35298"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Hair pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "leafzxg",
+    "name": "Thrumbo Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.3.2.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8190.34986"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
     "version": "1.4.6.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Rimsenal Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Murmur",
+    "name": "Temperature Control Unit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.7895.35757"
+  },
+  {
+    "author": "PinoChemicali and  Scherub",
+    "name": "Skilled Stonecutting [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "neitsa",
@@ -960,8 +402,8 @@
     "version": null
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
     "steamId": null,
     "version": null
   },
@@ -978,10 +420,22 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
     "version": "1.2.7364"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": "1331961995",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -1008,6 +462,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -1020,22 +480,178 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Diana(Kitty)",
-    "name": "Orassans",
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Pope Snowball",
+    "name": "Hold Open Opens Doors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Telkir",
-    "name": "[T] MoreFloors",
+    "author": "Alias, Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.8"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Cats and Dogs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Arid Shrubland",
+    "steamId": "1836900626",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Extreme Desert",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andross",
+    "name": "Royal Thrumbos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros (Original) and  Mario",
+    "name": "Metal Don't Burn (UNOFFICIAL 1.3 PATCH)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Go the F*** to Sleep",
+    "steamId": "2369307661",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Sugi",
+    "name": "Fix Mechanoid Resource Drop",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique,  Aurani and  Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ron Popeil",
+    "name": "Don't Steal My Walls!",
+    "steamId": "2058688941",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.1"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Boreal Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago",
+    "name": "Carry Capacity Fixed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Rainforest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Swamp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Rice Rice Baby",
+    "steamId": "1908712892",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "Unon",
+    "name": "No Burn Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "MRGames",
@@ -1044,10 +660,304 @@
     "version": null
   },
   {
-    "author": "Xeva",
-    "name": "Xeva Faction",
+    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "sulusdacor,  james76543 and  Meltup",
+    "name": "Advanced Power Plus",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Igor Invader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Chill the F*** Out",
+    "steamId": "2369675899",
+    "version": "1.0.1"
+  },
+  {
+    "author": "1trickPonyta",
+    "name": "Bed Rest For Food Poisoning",
+    "steamId": "2567901366",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien and  Taranchuk",
+    "name": "ReGrowth: Expanded World Generation (Continued)",
+    "steamId": "2791768296",
+    "version": "1.3.5"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.9.9.0"
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve",
+    "name": "Better Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.1.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Glowing Healroot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Bradson's Main Button Icons for Vanilla Textures Expanded",
+    "steamId": "2361775777",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Arkymn",
+    "name": "Graying Hair",
+    "steamId": "2807132773",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "moronic",
+    "name": "Arachne Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Windows XP",
+    "name": "Realistic Planets Continued",
+    "steamId": "2557451791",
+    "version": "1.0.7992.26516"
+  },
+  {
+    "author": "Gargamiel",
+    "name": "PokéWorld",
+    "steamId": "2652029657",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TheRugDealer",
+    "name": "PokéWorld Realistic Planets Biomes Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Pokeworld Enhancements",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AsG_Alligator",
+    "name": "Monster Hunter RimWorld",
+    "steamId": "2798478679",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Halituis Amaricanous",
+    "name": "Ranamon Race Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.7.6"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.6"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7875.31864"
+  },
+  {
+    "author": "sunny",
+    "name": "Rakkle 1.3 (unofficial update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "H.C_AnimalReskins_Complete2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Sophian",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation",
+    "steamId": "2575938407",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Semi Random Research",
+    "steamId": "2375902187",
+    "version": "1.0.5"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NewsofPE",
+    "name": "No Research 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Australia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8084.14260"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Feral Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
@@ -1056,46 +966,10 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Solar Flare Shield",
-    "steamId": "728315620",
-    "version": "1.6.0.0"
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Trading Expanded",
-    "steamId": "2785616901",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "22",
-    "name": "Virtue Framework",
-    "steamId": "2751960076",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UrDay2Die",
-    "name": "Save Our Ship 2 Meme Addon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Vanilla Genetics Expanded - More Lab Stuff",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zayl",
-    "name": "NakinRace",
-    "steamId": null,
-    "version": null
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -1104,8 +978,8 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson and  Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
+    "author": "Odeum",
+    "name": "BiomesKit",
     "steamId": null,
     "version": null
   },
@@ -1134,8 +1008,14 @@
     "version": "1.1.5"
   },
   {
-    "author": "Odeum",
-    "name": "BiomesKit",
+    "author": "Ushanka",
+    "name": "Ushankas Luciferium Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zayl",
+    "name": "NakinRace",
     "steamId": null,
     "version": null
   },
@@ -1146,9 +1026,135 @@
     "version": null
   },
   {
-    "author": "Ushanka",
-    "name": "Ushankas Luciferium Expansion",
+    "author": "Ogam",
+    "name": "Custom player icon",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ouroboros226 and  Taranchuk",
+    "name": "Half-Life Combine radio chatter",
+    "steamId": "2813195321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "HorribleNerd",
+    "name": "Androids SOS2 Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "VFE Ancients - Vaults are Eternal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Zabrak Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Twi'lek Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Factions (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Team aRatoCat",
+    "name": "Fishhumans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Neptimus7",
+    "name": "Progress Renderer",
+    "steamId": "2010777010",
+    "version": "1.3.2"
+  },
+  {
+    "author": "IcyCheeseCake",
+    "name": "TasteOfVanilla-ish Arachne Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Scorpio and  Taranchuk",
+    "name": "Resource Dictionary",
+    "steamId": "2817607528",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - The Force (Continued)",
+    "steamId": "2263227169",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "空曜 / 卜丨卜 ",
+    "name": "环·战列巡航舰 Rim·Battlecruiser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-The cartel arrives",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Meteor",
+    "steamId": "2556924961",
+    "version": "1"
   }
 ]

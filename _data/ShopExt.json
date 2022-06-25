@@ -16241,620 +16241,6 @@
       "degree": 2
     },
     {
-      "description": "There was once an infamous assassin, well known for her mastery in swordsmanship and her ghostly moves, a nightmare to all those nobles and bigwigs. By earning the title means that Timmy has perfected the melee skill.",
-      "stats": [
-        "+4 melee",
-        "-14 shooting",
-        "+14.0 melee hit chance",
-        "+14.0 melee dodge chance",
-        "+44.0% Armor - Sharp",
-        "-14% aiming time",
-        "-444.0 shooting accuracy",
-        "-44.00% social impact",
-        "+140% hunger rate multiplier",
-        "+0.40 move speed",
-        "+400% immunity gain speed",
-        "+4.0 beauty",
-        "-14% melee cooldown"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp",
-        "brawler",
-        "evilgunner",
-        "dragon",
-        "thequeen",
-        "virtuousdoctor",
-        "eagleeye",
-        "thescream",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp",
-          "brawler",
-          "evilgunner",
-          "dragon",
-          "thequeen",
-          "virtuousdoctor",
-          "eagleeye",
-          "thescream",
-          "piratelord"
-        ],
-        "stats": [
-          "+4 melee",
-          "-14 shooting",
-          "+14.0 melee hit chance",
-          "+14.0 melee dodge chance",
-          "+44.0% Armor - Sharp",
-          "-14% aiming time",
-          "-444.0 shooting accuracy",
-          "-44.00% social impact",
-          "+140% hunger rate multiplier",
-          "+0.40 move speed",
-          "+400% immunity gain speed",
-          "+4.0 beauty",
-          "-14% melee cooldown"
-        ]
-      },
-      "defName": "XTRedScorpio",
-      "name": "redscorpio",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "There was a saying about a sniper who was reluctant to kill so she aim for the knee everytime, and thus she was called The Queen. Timmy can earn this title which means that his shooting skill must has been proven many times.",
-      "stats": [
-        "+2 shooting",
-        "-2 melee",
-        "-7.0 melee hit chance",
-        "-7.0 melee dodge chance",
-        "-15% aiming time",
-        "+10.0 shooting accuracy",
-        "+15.00% negotiation ability",
-        "+2.0 beauty"
-      ],
-      "conflicts": [
-        "wimp",
-        "brawler",
-        "carefulshooter",
-        "trigger-happy",
-        "evilgunner",
-        "dragon",
-        "redscorpio",
-        "virtuousdoctor",
-        "eagleeye",
-        "thescream",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "brawler",
-          "carefulshooter",
-          "trigger-happy",
-          "evilgunner",
-          "dragon",
-          "redscorpio",
-          "virtuousdoctor",
-          "eagleeye",
-          "thescream",
-          "piratelord"
-        ],
-        "stats": [
-          "+2 shooting",
-          "-2 melee",
-          "-7.0 melee hit chance",
-          "-7.0 melee dodge chance",
-          "-15% aiming time",
-          "+10.0 shooting accuracy",
-          "+15.00% negotiation ability",
-          "+2.0 beauty"
-        ]
-      },
-      "defName": "XTTheQueen",
-      "name": "thequeen",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "There was once a warrior who encounter 13 knights all by his own and later become the leader of reble and leading it's army invaded the kingdom, thus , getting the name Dragon. Timmy can win this title, means that his battle skill is remarkable.",
-      "stats": [
-        "Social fighting mental state disabled.",
-        "-20% flammability",
-        "+50.0% Armor - Blunt",
-        "+40% pain shock threshold",
-        "-70% global work speed",
-        "x50% incoming damage multiplier"
-      ],
-      "conflicts": [
-        "wimp",
-        "tough",
-        "evilgunner",
-        "thequeen",
-        "redscorpio",
-        "virtuousdoctor",
-        "eagleeye",
-        "thescream",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "tough",
-          "evilgunner",
-          "thequeen",
-          "redscorpio",
-          "virtuousdoctor",
-          "eagleeye",
-          "thescream",
-          "piratelord"
-        ],
-        "stats": [
-          "Social fighting mental state disabled.",
-          "-20% flammability",
-          "+50.0% Armor - Blunt",
-          "+40% pain shock threshold",
-          "-70% global work speed",
-          "x50% incoming damage multiplier"
-        ]
-      },
-      "defName": "XTDragon",
-      "name": "dragon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "There was a legend of a SWAT whose gun kata was tricky and deadly like a devil, therefore got the name Evil Gunner. Timmy can earn this title means that his battle skill was outstanding.",
-      "stats": [
-        "+5.0 melee hit chance",
-        "+5.0 melee dodge chance",
-        "-25% aiming time",
-        "+5.0 shooting accuracy",
-        "+20% psychic sensitivity"
-      ],
-      "conflicts": [
-        "wimp",
-        "brawler",
-        "carefulshooter",
-        "trigger-happy",
-        "dragon",
-        "thequeen",
-        "redscorpio",
-        "virtuousdoctor",
-        "eagleeye",
-        "thescream",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "brawler",
-          "carefulshooter",
-          "trigger-happy",
-          "dragon",
-          "thequeen",
-          "redscorpio",
-          "virtuousdoctor",
-          "eagleeye",
-          "thescream",
-          "piratelord"
-        ],
-        "stats": [
-          "+5.0 melee hit chance",
-          "+5.0 melee dodge chance",
-          "-25% aiming time",
-          "+5.0 shooting accuracy",
-          "+20% psychic sensitivity"
-        ]
-      },
-      "defName": "XTEvilGunner",
-      "name": "evilgunner",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Once a revengeful designer with gifts, after shooting his first love right in her head, he is now a doctor devoted into charity in order to redeem himself. Timmy with this title is meaning that Timmy is gifted in medicne and craftsmanship.",
-      "stats": [
-        "+60% global learning factor",
-        "+38% mental break threshold",
-        "+30% research speed",
-        "+7% general labor speed",
-        "+7% mechanoid shredding speed",
-        "+15% drug synthesis speed",
-        "+15% medical tend quality",
-        "+15% medical tend speed",
-        "+15% medical operation speed",
-        "+30% medical surgery success chance"
-      ],
-      "conflicts": [
-        "toosmart",
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile",
-        "dragon",
-        "thequeen",
-        "redscorpio",
-        "evilgunner",
-        "eagleeye",
-        "thescream",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "toosmart",
-          "iron-willed",
-          "steadfast",
-          "nervous",
-          "volatile",
-          "dragon",
-          "thequeen",
-          "redscorpio",
-          "evilgunner",
-          "eagleeye",
-          "thescream",
-          "piratelord"
-        ],
-        "stats": [
-          "+60% global learning factor",
-          "+38% mental break threshold",
-          "+30% research speed",
-          "+7% general labor speed",
-          "+7% mechanoid shredding speed",
-          "+15% drug synthesis speed",
-          "+15% medical tend quality",
-          "+15% medical tend speed",
-          "+15% medical operation speed",
-          "+30% medical surgery success chance"
-        ]
-      },
-      "defName": "XTVirtuousDoctor",
-      "name": "virtuousdoctor",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "There was once a mad sniper called Eagle Eye who, by his extraordinary shooting skill, only aiming for others' genital organ. Timmy can get this title means his shooting skill is extraordinary.",
-      "stats": [
-        "+2 shooting",
-        "-4.0 melee hit chance",
-        "-4.0 melee dodge chance",
-        "-15% aiming time",
-        "+8.0 shooting accuracy",
-        "+10.00% social impact",
-        "+1.0 beauty"
-      ],
-      "conflicts": [
-        "wimp",
-        "brawler",
-        "carefulshooter",
-        "trigger-happy",
-        "evilgunner",
-        "dragon",
-        "redscorpio",
-        "virtuousdoctor",
-        "thequeen",
-        "thescream",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "brawler",
-          "carefulshooter",
-          "trigger-happy",
-          "evilgunner",
-          "dragon",
-          "redscorpio",
-          "virtuousdoctor",
-          "thequeen",
-          "thescream",
-          "piratelord"
-        ],
-        "stats": [
-          "+2 shooting",
-          "-4.0 melee hit chance",
-          "-4.0 melee dodge chance",
-          "-15% aiming time",
-          "+8.0 shooting accuracy",
-          "+10.00% social impact",
-          "+1.0 beauty"
-        ]
-      },
-      "defName": "XTEagleEye",
-      "name": "eagleeye",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Once there was a serial killer who was called the Scream, because of his extreme ugliness, he torture and killed many handsome people and crafted them into some kind of sickness art as a protest to the God. Timmy must be a psychopath and really good at craftsmanship to earn this title.",
-      "stats": [
-        "Fire starting spree mental state disabled.",
-        "Giving up and leaving mental state disabled.",
-        "Binging on drug mental state disabled.",
-        "Binging on drug mental state disabled.",
-        "Wandering in psychosis mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Binging on food mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Sitting alone mental state disabled.",
-        "Confused wandering mental state disabled.",
-        "Panic fleeing mental state disabled.",
-        "Social fighting mental state disabled.",
-        "+3 crafting",
-        "+3 artistic",
-        "+70% general labor speed",
-        "+30% mental break threshold",
-        "-70% psychic sensitivity",
-        "-20.00% social impact",
-        "-2.0 beauty"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf",
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile",
-        "dragon",
-        "thequeen",
-        "redscorpio",
-        "evilgunner",
-        "eagleeye",
-        "virtuousdoctor",
-        "piratelord"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf",
-          "iron-willed",
-          "steadfast",
-          "nervous",
-          "volatile",
-          "dragon",
-          "thequeen",
-          "redscorpio",
-          "evilgunner",
-          "eagleeye",
-          "virtuousdoctor",
-          "piratelord"
-        ],
-        "stats": [
-          "Fire starting spree mental state disabled.",
-          "Giving up and leaving mental state disabled.",
-          "Binging on drug mental state disabled.",
-          "Binging on drug mental state disabled.",
-          "Wandering in psychosis mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Binging on food mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Sitting alone mental state disabled.",
-          "Confused wandering mental state disabled.",
-          "Panic fleeing mental state disabled.",
-          "Social fighting mental state disabled.",
-          "+3 crafting",
-          "+3 artistic",
-          "+70% general labor speed",
-          "+30% mental break threshold",
-          "-70% psychic sensitivity",
-          "-20.00% social impact",
-          "-2.0 beauty"
-        ]
-      },
-      "defName": "XTTheScream",
-      "name": "thescream",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "There was once a pirate lord who invade every planet and every faction that he feels like to. No one dare to stand and against him, however, there were seven warrior who challenged him. After a whole night of battle, the pirate lord was defeated. his battle skill must be getting out of control to earn this title.",
-      "stats": [
-        "+3 melee",
-        "+3 shooting",
-        "+8.0 melee hit chance",
-        "+8.0 melee dodge chance",
-        "-10% aiming time",
-        "+8.0 shooting accuracy",
-        "+50.0% Armor - Sharp",
-        "+50.0% Armor - Blunt",
-        "+50.0% Armor - Heat",
-        "-80% flammability",
-        "+100% pain shock threshold",
-        "+0.20 move speed",
-        "-30% melee cooldown",
-        "x70% incoming damage multiplier"
-      ],
-      "conflicts": [
-        "tough",
-        "wimp",
-        "brawler",
-        "evilgunner",
-        "dragon",
-        "thequeen",
-        "virtuousdoctor",
-        "eagleeye",
-        "thescream",
-        "redscorpio"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xeva Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "tough",
-          "wimp",
-          "brawler",
-          "evilgunner",
-          "dragon",
-          "thequeen",
-          "virtuousdoctor",
-          "eagleeye",
-          "thescream",
-          "redscorpio"
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 shooting",
-          "+8.0 melee hit chance",
-          "+8.0 melee dodge chance",
-          "-10% aiming time",
-          "+8.0 shooting accuracy",
-          "+50.0% Armor - Sharp",
-          "+50.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "-80% flammability",
-          "+100% pain shock threshold",
-          "+0.20 move speed",
-          "-30% melee cooldown",
-          "x70% incoming damage multiplier"
-        ]
-      },
-      "defName": "XTPirateLord",
-      "name": "piratelord",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a strong heart.",
-      "stats": [
-        "+10.0% Virtue Chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Virtue Framework",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+10.0% Virtue Chance"
-        ]
-      },
-      "defName": "VF_Trait_Virtue",
-      "name": "strongheart",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a weak heart.",
-      "stats": [
-        "-10.0% Virtue Chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Virtue Framework",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-10.0% Virtue Chance"
-        ]
-      },
-      "defName": "VF_Trait_Virtue_Weak",
-      "name": "weakheart",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
         "x30% incoming damage multiplier"
@@ -16885,9 +16271,9 @@
       "degree": 0
     },
     {
-      "description": "Timmy has resonate with nature.",
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
       "stats": [
-        "Natural meditation focus type allowed."
+
       ],
       "conflicts": [
 
@@ -16897,22 +16283,628 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Unknown",
+        "mod": "Star Wars - The Force (Continued)",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "Natural meditation focus type allowed."
+
         ]
       },
-      "defName": "VF_Trait_Virtue_Nature",
-      "name": "naturalresonance",
+      "defName": "PJ_ForceSensitive",
+      "name": "forcesensitive",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0
+      "degree": 1
+    },
+    {
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forceapprentice",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediknight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedimaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediconsular",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithinquisitor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithlord",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithmaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graypadawan",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "grayjedi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graymaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graysage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
     }
   ],
   "races": [
@@ -17030,489 +17022,6 @@
       "enabled": true,
       "name": "Jackal",
       "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+20% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+21.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+25% Mental break threshold",
-          "+80% Global learning factor",
-          "+80.00% Negotiation ability",
-          "+80.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of humanoids that resemble spiders and are typically found in the Underdark.",
-      "defName": "O21_FR_Chitine",
-      "enabled": true,
-      "name": "Chitine",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.",
-      "defName": "O21_FR_DarkElf",
-      "enabled": true,
-      "name": "Dark Elf",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1000 Base XP yield",
-          "+$1750 Market value",
-          "+4.20 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+3 Honor value",
-          "+200% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
-      "defName": "O21_FR_Dwarf",
-      "enabled": true,
-      "name": "Dwarf",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+20% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+3.6F Minimum comfortable temperature",
-          "+57.6F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+20% Mental break threshold",
-          "+80% Global learning factor",
-          "+150% Animal gather speed",
-          "+150% Plant work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.",
-      "defName": "O21_FR_Firbolg",
-      "enabled": true,
-      "name": "Firbolg",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.80 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+110% Psychic sensitivity",
-          "+110% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.",
-      "defName": "O21_FR_Gith",
-      "enabled": true,
-      "name": "Gith",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+100% Psychic sensitivity",
-          "+120% Mining speed",
-          "+120% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.",
-      "defName": "O21_FR_Goblin",
-      "enabled": true,
-      "name": "Goblin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1000 Base XP yield",
-          "+$1750 Market value",
-          "+4.00 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+3 Honor value",
-          "+115% Hunger rate multiplier",
-          "+120% Hunting stealth"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.",
-      "defName": "O21_FR_Halfling",
-      "enabled": true,
-      "name": "Halfling",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.80 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+115% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.",
-      "defName": "O21_FR_HalfOrc",
-      "enabled": true,
-      "name": "Half-Orc",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.50 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+100% Psychic sensitivity",
-          "+120% Mining speed",
-          "+90% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.",
-      "defName": "O21_FR_Hobgoblin",
-      "enabled": true,
-      "name": "Hobgoblin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.80 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+7% Hunger rate multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Illithids or \"Mind Flayers\" were humanoid in appearance but with an octopus-like, ridged head with four tentacles surrounding a lamprey-like mouth. They were warm-blooded amphibians, whose blood had a silvery-white color.\n\nTheir hands had long, reddish fingers and lacked the index finger, and their feet were two-toed and webbed. Illithid eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some githyanki scholars attributed to the fact that their alien anatomy focused light in a strange way. Their vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.",
-      "defName": "O21_FR_Illithid",
-      "enabled": true,
-      "name": "Illithid",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+50% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "-36.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+40% Hunger rate multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.",
-      "defName": "O21_FR_Killoren",
-      "enabled": true,
-      "name": "Killoren",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+35.00 Mass",
-          "+10% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+4.30 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+20.0% Armor - Blunt",
-          "+35.0% Armor - Sharp",
-          "+15.0% Armor - Heat",
-          "+120% Global work speed",
-          "+120% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.",
-      "defName": "O21_FR_Kobold",
-      "enabled": true,
-      "name": "Kobold",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.",
-      "defName": "O21_FR_MoonElf",
-      "enabled": true,
-      "name": "Moon Elf",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.00 Move speed",
-          "+7.2F Minimum comfortable temperature",
-          "+57.6F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+130% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.",
-      "defName": "O21_FR_Orc",
-      "enabled": true,
-      "name": "Orc",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty",
-          "+120% Global learning factor",
-          "+120.00% Negotiation ability",
-          "+120.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
-      "defName": "O21_FR_SunElf",
-      "enabled": true,
-      "name": "Sun Elf",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+5.50 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+40% Hunger rate multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.",
-      "defName": "O21_FR_Tabaxi",
-      "enabled": true,
-      "name": "Tabaxi",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+20% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+21.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+45% Mental break threshold",
-          "+110% Global learning factor",
-          "+115.00% Negotiation ability",
-          "+120.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.",
-      "defName": "O21_FR_Tiefling",
-      "enabled": true,
-      "name": "Tiefling",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2500 Market value",
-          "+4.60 Move speed",
-          "-180.0F Minimum comfortable temperature",
-          "+180.0F Maximum comfortable temperature",
-          "+300% Pain shock threshold",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+40.0% Armor - Blunt",
-          "+35.0% Armor - Sharp",
-          "+15.0% Armor - Heat",
-          "+120% Global work speed",
-          "+10000% Immunity gain speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.",
-      "defName": "O21_FR_Warforged",
-      "enabled": true,
-      "name": "Warforged",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1000 Base XP yield",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "+14.4F Minimum comfortable temperature",
-          "+50.4F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+115% Psychic sensitivity",
-          "+80% Mining speed",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.",
-      "defName": "O21_FR_WoodElf",
-      "enabled": true,
-      "name": "Wood Elf",
-      "price": 3333
     },
     {
       "data": {
@@ -18613,266 +18122,6 @@
     {
       "data": {
         "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+1000 Base XP yield",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+70% Global work speed",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+39.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "price": 5000
-    },
-    {
-      "data": {
-        "stats": [
-          "+120.00 Mass",
-          "+100% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+2 Honor value",
-          "+100% Global learning factor",
-          "+120 Carrying capacity",
-          "+75 Meat amount",
-          "+2.0 Melee hit chance",
-          "+2.0 Melee dodge chance",
-          "+90% Incoming damage multiplier",
-          "+120% Plant harvest yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The most common and adaptable Ursine species, it is hard to truly describe their unique traits as what makes them unique is that they tread the middle ground, able to adapt to almost any environment and situation. Researchers would be quick to point out there are technically many further sub groups including such ursines as the Grizzly and Kodiak. But most still put these in the general Brown ursine group as they are just the small adaptations that have cropped up because of their environment, but are still largely similar.\nPrior to large tribes forming these Ursines were quite solitary, preferring to live alone. But with the rise of the Ursine tribes it is now not uncommon to see Brown Ursines make up the majority of a tribe's population.",
-      "defName": "GS_Bear_Brown",
-      "enabled": true,
-      "name": "Brown Ursin",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+120.00 Mass",
-          "+100% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+2 Honor value",
-          "+100% Global learning factor",
-          "+120 Carrying capacity",
-          "+75 Meat amount",
-          "+2.0 Melee hit chance",
-          "+2.0 Melee dodge chance",
-          "+90% Incoming damage multiplier",
-          "+120% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Long thought extinct by those in the core worlds, out here in the rim the practically Legendary Cave Ursine still wanders and makes its home. These typically massive Ursine are rare on many worlds, though some still have larger populations. Wherever the Cave Ursine joins a tribe with its kin, it often finds itself in the position of mighty warrior or even leadership positions because of its sheer might, something the peaceful tribes value greatly to ward off potential aggressors and defend them from the plethora of threats out here in the rim.\nThough their genes have now mixed with their other kin in the larger tribes, the Cave Ursine is thought to be the progenitor of all Ursine kind, and a pure blooded Cave Ursine will easily tower over their fellow brothers and sisters of other sub groups. These two factors have given some of their kind practically demi-god status in certain societies. Though in the grand scheme such worship is quite rare.",
-      "defName": "GS_Bear_Cave",
-      "enabled": true,
-      "name": "Cave Ursin",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+120.00 Mass",
-          "+100% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+2 Honor value",
-          "+100% Global learning factor",
-          "+120 Carrying capacity",
-          "+75 Meat amount",
-          "+2.0 Melee hit chance",
-          "+2.0 Melee dodge chance",
-          "+90% Incoming damage multiplier",
-          "+120% Plant harvest yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Amongst the smallest of the Ursines, the Luna Ursine are, perhaps unsurprisingly, typically the most timid of the lot. In a society that although not aggressive still values strength for the safety of the tribe, these are often on the lower ends of the hierarchy. Though it is always worth noting as the different subspecies have mixed together this disparity in size has been reduced drastically in comparison to before. \nThe Luna Ursine are good scavengers, and surprisingly clever amongst their kin, as they often have to be to make up for being physically smaller. Although adaptable, they do share a habitat preference with their animal likeness in that they are fond of forested areas that are relatively inaccessible. A preference guided by survival more so than anything.\nAs the name would suggest it is at the very least believed by the Ursine that this subspecies have an innate connection with the moon, or moons depending on the rimworld. This has lended them some favorability despite their size, and some of them choose to take up roles of spiritual guidance because of it.",
-      "defName": "GS_Bear_Luna",
-      "enabled": true,
-      "name": "Luna Ursin",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+120.00 Mass",
-          "+100% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+2 Honor value",
-          "+100% Global learning factor",
-          "+120 Carrying capacity",
-          "+75 Meat amount",
-          "+2.0 Melee hit chance",
-          "+2.0 Melee dodge chance",
-          "+90% Incoming damage multiplier",
-          "+120% Plant harvest yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Though originally these highly specialized Ursine had a very particular diet of almost only bamboo, as they have evolved, traveled, and gathered with their fellow Ursine kin the Pandas have been able to grow out of this habit and their bodies more used to other diets.\nGenerally Pandas are incredibly solitary, even in large tribes it is not uncommon to see these individuals construct their homes on the outskirts of settlements to give them more privacy.\nThis behavior, as well as being very docile and single minded, have lended them a certain leaning towards roles of spiritual guidance, like monks, druids, shamans, or other such roles. Where they are one of the primary advocates of peaceful behavior in the tribe.\nBut do not think these defenseless creatures, if provocet sufficiently you will find they are still very much Ursine at their core, and will not hesitate to maul someone overstepping their boundaries if they consider it necessary.",
-      "defName": "GS_Bear_Panda",
-      "enabled": true,
-      "name": "Panda Ursin",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+120.00 Mass",
-          "+100% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-99.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+2 Honor value",
-          "+100% Global learning factor",
-          "+120 Carrying capacity",
-          "+75 Meat amount",
-          "+2.0 Melee hit chance",
-          "+2.0 Melee dodge chance",
-          "+90% Incoming damage multiplier",
-          "+120% Research speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Though often seen by outsiders as amongst the most aggressive of the Ursines, the reality is that they are actually quite passive, like their other kin they prefer to avoid conflict when possible. They’re not very territorial either and will often not be bothered when others are around. however they are adept hunters, because they evolved and adapted to arctic areas with very little other food sources, in their natural habitat they are entirely carnivorous. And have become excellent ambush hunters to survive.\nThis has made them excellent hunters in tribes that eat meat, or guards/skirmishers in those that don’t. Which is why they are often seen as more aggressive.\nAs could probably be expected given their nature, the Polar ursine are typically larger than most other Ursine races. Though such differences have been somewhat mitigated as they have intermingled with their other kin to form larger tribes.",
-      "defName": "GS_Bear_Polar",
-      "enabled": true,
-      "name": "Polar Ursin",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+10% Flammability",
-          "+1000 Base XP yield",
-          "+$2150 Market value",
-          "+4.10 Move speed",
-          "-18.0F Minimum comfortable temperature",
-          "+63.0F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+100% Psychic sensitivity",
-          "+110% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
-      "defName": "FR_Alien_Minotaur",
-      "enabled": true,
-      "name": "Minotaur",
-      "price": 3583
-    },
-    {
-      "data": {
-        "stats": [
-          "+35.00 Mass",
-          "+10% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+4.50 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+81.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Sharp",
-          "+20.0% Armor - Heat",
-          "+110% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Territorial strongly built large humanoid creatures, Crocodillians are profiecient in combat and living in swampy choked enviroments.",
-      "defName": "FR_Alien_Croco",
-      "enabled": true,
-      "name": "Crocodillian",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+35.00 Mass",
-          "+10% Flammability",
-          "+1000 Base XP yield",
-          "+$1500 Market value",
-          "+4.80 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+81.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+100% Psychic sensitivity",
-          "+25.0% Armor - Blunt",
-          "+40.0% Armor - Sharp",
-          "+20.0% Armor - Heat",
-          "+110% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Territorial medium sized humanoid creatures, Squamata are profiecient like their kin Crocodillians in combat and living in swampy choked enviroments.",
-      "defName": "FR_Alien_Squamata",
-      "enabled": true,
-      "name": "Squamata",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
           "+60.00 Mass",
           "+70% Flammability",
           "+1000 Base XP yield",
@@ -19799,7 +19048,7 @@
           "+1.0 Beauty",
           "-40.00% Social impact",
           "-10.0 Shooting accuracy",
-          "-10% Aiming time",
+          "-7% Aiming time",
           "+10 Minimum handling skill",
           "+40% Mental break threshold",
           "+95% Pain shock threshold",
@@ -19822,6 +19071,239 @@
       "enabled": true,
       "name": "Nakin",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.61 Move speed",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+5.0% Armor - Blunt",
+          "+12.0% Armor - Sharp",
+          "+21.6F Minimum comfortable temperature",
+          "+57.6F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+100% Eating speed",
+          "+4 Honor value",
+          "+85% Neural heat gain",
+          "+60% / day Meditation psyfocus gain"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The resulting type of Android when Crystalloids were used as a template. This exceedingly rare variant of androids are not quite like a Crystalloid nor a standard Android.",
+      "defName": "Alien_CrystalloidAndroid",
+      "enabled": true,
+      "name": "crystalloid android",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+1000 Base XP yield",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+90.0F Maximum comfortable temperature",
+          "+20% Toxic sensitivity",
+          "+135% Immunity gain speed",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1000 Base XP yield",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+540.0F Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "+1000 Base XP yield",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-360.0F Minimum comfortable temperature",
+          "+900.0F Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "-0.4 Melee dodge chance",
+          "+100.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+30% Flammability",
+          "+1000 Base XP yield",
+          "+$2000 Market value",
+          "+6.42 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tribal warrior race, though generally peaceful.",
+      "defName": "Alien_Zabrak",
+      "enabled": true,
+      "name": "Zabrak",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+1000 Base XP yield",
+          "+$2000 Market value",
+          "+6.00 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+95% Psychic sensitivity",
+          "+120% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race known for grace, agility, and beauty.",
+      "defName": "Alien_Twilek",
+      "enabled": true,
+      "name": "Twilek",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+120.00 Mass",
+          "+100% Flammability",
+          "+1000 Base XP yield",
+          "+$1500 Market value",
+          "+4.80 Move speed",
+          "-27.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+3 Honor value",
+          "+120% Global learning factor",
+          "+120 Carrying capacity",
+          "+75 Leather amount",
+          "+2.0 Melee hit chance",
+          "+2.0 Melee dodge chance",
+          "+90% Incoming damage multiplier",
+          "+30% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of aquatic humanoid-race that resemble humans in shape only.\nIt is built within their very genetic codes that they hold sovereignty over humanoids, as the apex of evolution. They have strong bigotry against humans, and pretty much every single other humanoid race out there that isn't themselves. They prefer areas with lots of water, as they are natural-born swimmers, able to cross large bodies of water easily and benefit greatly from rain. Similar to the Selachimorpha (shark-classification) species, common outside of the Rim, they have razor-sharp teeth, able to rip bones directly from the flesh without breaking a sweat. Although these teeth are quite fragile, they are able to regrow naturally after a couple of days. Physically, they're bigger and stronger than most common humans, able to take one on in a fair fight without any problem, imagine a normal person fighting against a walking shark. Unfortunately, Fishhuman and their Selachimorpha cousin both suffer a similar problem; their body cannot process vegetables, fruits, or any non-meat product.",
+      "defName": "GS_FishHuman",
+      "enabled": true,
+      "name": "Fishmen",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+1000 Base XP yield",
+          "+$3200 Market value",
+          "+4.00 Move speed",
+          "+32.4F Maximum comfortable temperature",
+          "+3.6F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 5333
     }
   ]
 }
