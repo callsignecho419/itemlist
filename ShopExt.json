@@ -19274,6 +19274,30 @@
       "enabled": true,
       "name": "KX Security Droid",
       "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+1000 Base XP yield",
+          "+20% Psychic sensitivity",
+          "+$2000 Market value",
+          "+5.50 Move speed",
+          "-7.2F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+115% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Its an Umbreon! it is recognisable by its black fur and yellow rings. its red eyes remind some people of evil while its glowing rings is a sign of hope to others.\n\t\n+ Due to moonlight, umbreons have the insight for researching.\n+ Slightly faster than humans.\n+ Their fur insulates them a bit.\n+ 20% more HP than humans.\n+ Not bothered by darkness.\n~ Low sensitivity for psychic effects.\n~ higher chance for nightowl trait.\n~ Uses their claws!\n~ Slightly smaller than humans.\n- Needs a little more food.",
+      "defName": "K5_UmbreonRace",
+      "enabled": true,
+      "name": "umbreon",
+      "price": 3333
     }
   ]
 }

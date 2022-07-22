@@ -12151,12 +12151,6 @@
 		"defname": "ATK_Felinemorph"
 	},
 	{
-		"abr": "femaleroyalthrumbohorn",
-		"price": 2667,
-		"category": "Items",
-		"defname": "RoyalThrumbo_HornFemale"
-	},
-	{
 		"abr": "feraligatr",
 		"price": 1000,
 		"category": "Animals",
@@ -14837,12 +14831,6 @@
 		"price": 417,
 		"category": "Animals",
 		"defname": "PW_Makuhita"
-	},
-	{
-		"abr": "maleroyalthrumbohorn",
-		"price": 2667,
-		"category": "Items",
-		"defname": "RoyalThrumbo_HornMale"
 	},
 	{
 		"abr": "mammothtusk",
@@ -21661,36 +21649,6 @@
 		"defname": "AA_EggRoyalAveFertilized"
 	},
 	{
-		"abr": "royalthrumbo",
-		"price": 13333,
-		"category": "Animals",
-		"defname": "RoyalThrumbo"
-	},
-	{
-		"abr": "royalthrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RoyalThrumbo"
-	},
-	{
-		"abr": "royalthrumbomilk",
-		"price": 333,
-		"category": "Animal products",
-		"defname": "RoyalThrumbo_Milk"
-	},
-	{
-		"abr": "royalthrumbowool",
-		"price": 30,
-		"category": "Wools",
-		"defname": "RoyalThrumbo_Wool"
-	},
-	{
-		"abr": "royalthrumbofur",
-		"price": 40,
-		"category": "Leathers",
-		"defname": "RoyalThrumbo_Leather"
-	},
-	{
 		"abr": "ruby",
 		"price": 42,
 		"category": "Gemstones",
@@ -27373,12 +27331,6 @@
 		"defname": "Moyo_CartelPistol"
 	},
 	{
-		"abr": "cartelsmg",
-		"price": 1892,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CartelSMG"
-	},
-	{
 		"abr": "cartelstrikergear",
 		"price": 2917,
 		"category": "Moyo Apparel",
@@ -30005,7 +29957,181 @@
 		"price": 2475,
 		"category": "Ranged weapons",
 		"defname": "Gun_OrassanGrenadeLauncher"
-	}
+	},
+	{
+		"abr": "arcthrower",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_ArcThrower"
+	},
+	{
+		"abr": "beamautopistol",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamAutopistol"
+	},
+	{
+		"abr": "beamcannon",
+		"price": 6583,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamCannon"
+	},
+	{
+		"abr": "beampistol",
+		"price": 1617,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamPistol"
+	},
+	{
+		"abr": "boltcaster",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BoltCaster"
+	},
+	{
+		"abr": "conventionalassaultrifle",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVRifle"
+	},
+	{
+		"abr": "conventionalautopistol",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_TemplarPistol"
+	},
+	{
+		"abr": "conventionalcannon",
+		"price": 1967,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVCannon"
+	},
+	{
+		"abr": "conventionalgrenadelauncher",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVGrenadeLauncher"
+	},
+	{
+		"abr": "conventionalpistol",
+		"price": 323,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVPistol"
+	},
+	{
+		"abr": "conventionalshotgun",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVShotgun"
+	},
+	{
+		"abr": "conventionalsniperrifle",
+		"price": 1317,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVSniperRifle"
+	},
+	{
+		"abr": "giantstartortoise",
+		"price": 583,
+		"category": "Animals",
+		"defname": "ZTT_GiantStarTortoise"
+	},
+	{
+		"abr": "giantstartortoiseegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "ZTT_EggGiantStarTortoiseFertilized"
+	},
+	{
+		"abr": "goombameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Goomba"
+	},
+	{
+		"abr": "heavyautocannon",
+		"price": 1950,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVHeavyAutocannon"
+	},
+	{
+		"abr": "kal-7bullpup",
+		"price": 725,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVBullpup"
+	},
+	{
+		"abr": "kal-90bullpup",
+		"price": 3117,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamBullpup"
+	},
+	{
+		"abr": "koopafire",
+		"price": 2,
+		"category": "Ranged weapons",
+		"defname": "O21_KoopaFire"
+	},
+	{
+		"abr": "koopahammer",
+		"price": 2,
+		"category": "Ranged weapons",
+		"defname": "O21_KoopaHammer"
+	},
+	{
+		"abr": "koopameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Koopa"
+	},
+	{
+		"abr": "mageball",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GhostMSB"
+	},
+	{
+		"abr": "magecloth",
+		"price": 50,
+		"category": "Textiles",
+		"defname": "MageCloth"
+	},
+	{
+		"abr": "magelauncher",
+		"price": 4333,
+		"category": "Ranged weapons",
+		"defname": "MageRifle"
+	},
+	{
+		"abr": "medikit",
+		"price": 250,
+		"category": "Drugs",
+		"defname": "XCOM_Medikit"
+	},
+	{
+		"abr": "mudturtle",
+		"price": 333,
+		"category": "Animals",
+		"defname": "ZTT_MudTurtle"
+	},
+	{
+		"abr": "mudturtleegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "ZTT_EggMudTurtleFertilized"
+	},
+	{
+		"abr": "paintedsnapvineturtle",
+		"price": 400,
+		"category": "Animals",
+		"defname": "ZTT_PaintedSnapvine"
+	},
+	{
+		"abr": "paintedsnapvineturtleegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "ZTT_EggPaintedSnapvineFertilized"
+	},
 	],
-	"total": 5001
+	"total": 5095
 }
