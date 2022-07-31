@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "CallsignEcho419s Inkworld Puchase List"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: A custom version of Toolkit's item list to support all the latest features of Utils, edited for Callsignecho419s usage.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'sirrandoo'
+baseurl: '/CallsignEcho419s-Inkworld-Item-List' # the subpath of your site, e.g. /blog
+url: 'https://callsignecho419.github.io/CallsignEcho419s-Inkworld-Item-List/' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'CallsignEcho419'
+github_username: 'callsignecho419'
 
 # Item list settings
 #
