@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -218,7 +228,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -227,12 +237,12 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 3000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 4000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -312,12 +322,12 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 1800,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
-		"price": 20000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -426,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 87
 }
