@@ -228,7 +228,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -288,7 +288,7 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
@@ -327,7 +327,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 20000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
