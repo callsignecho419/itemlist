@@ -1916,13 +1916,13 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 55,
+		"price": 400,
 		"category": "Animals",
 		"defname": "Squirrel"
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 100,
 		"category": "Animals",
 		"defname": "Rat"
 	},
@@ -3661,12 +3661,6 @@
 		"defname": "O21_OR_ThermalDetonatorBelt"
 	},
 	{
-		"abr": "opossum",
-		"price": 617,
-		"category": "Animals",
-		"defname": "ERN_Opossum"
-	},
-	{
 		"abr": "carbonjumpsuit",
 		"price": 550,
 		"category": "Apparel",
@@ -4727,420 +4721,6 @@
 		"price": 4583,
 		"category": "Misc",
 		"defname": "AirConditioningUnit"
-	},
-	{
-		"abr": "mechaniteunderarmor",
-		"price": 600,
-		"category": "Armor",
-		"defname": "VFE_MechaniteUnderArmor"
-	},
-	{
-		"abr": "mechanitepants",
-		"price": 525,
-		"category": "Armor",
-		"defname": "VFE_MechanitePants"
-	},
-	{
-		"abr": "factoryhopper",
-		"price": 130,
-		"category": "Production",
-		"defname": "VFEM_HeavyHopper"
-	},
-	{
-		"abr": "steelextractor",
-		"price": 9658,
-		"category": "Production",
-		"defname": "VFEM_ElectronicsFabricationFactory_SteelExtractor"
-	},
-	{
-		"abr": "componentassembler",
-		"price": 14983,
-		"category": "Production",
-		"defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler"
-	},
-	{
-		"abr": "advancedassembler",
-		"price": 6725,
-		"category": "Production",
-		"defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler"
-	},
-	{
-		"abr": "chemfuelclarifier",
-		"price": 7233,
-		"category": "Production",
-		"defname": "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier"
-	},
-	{
-		"abr": "mechanizedweaponsmith",
-		"price": 8233,
-		"category": "Production",
-		"defname": "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith"
-	},
-	{
-		"abr": "artilleryfoundry",
-		"price": 6517,
-		"category": "Production",
-		"defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry"
-	},
-	{
-		"abr": "textilerecycler",
-		"price": 5450,
-		"category": "Production",
-		"defname": "VFEM_WearablesAndTextileFactory_TextileRecycler"
-	},
-	{
-		"abr": "autoloom",
-		"price": 8100,
-		"category": "Production",
-		"defname": "VFEM_WearablesAndTextileFactory_AutoLoom"
-	},
-	{
-		"abr": "synthreadsynthesizer",
-		"price": 9867,
-		"category": "Production",
-		"defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer"
-	},
-	{
-		"abr": "meatgrinder",
-		"price": 6292,
-		"category": "Production",
-		"defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder"
-	},
-	{
-		"abr": "conveyoroven",
-		"price": 5883,
-		"category": "Production",
-		"defname": "VFEM_ProvisionsPackagingFactory_ConveyorOven"
-	},
-	{
-		"abr": "neutroamineinfuser",
-		"price": 9233,
-		"category": "Production",
-		"defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser"
-	},
-	{
-		"abr": "medicinegranulator",
-		"price": 5658,
-		"category": "Production",
-		"defname": "VFEM_MedicinalCompoundingFactory_MedicineGranulator"
-	},
-	{
-		"abr": "drugpowderizer",
-		"price": 7200,
-		"category": "Production",
-		"defname": "VFEM_MedicinalCompoundingFactory_DrugPowderizer"
-	},
-	{
-		"abr": "automaticdrill",
-		"price": 7708,
-		"category": "Production",
-		"defname": "VFEM_MasonryAndMetallicsFactory_AutomaticDrill"
-	},
-	{
-		"abr": "masonrysaw",
-		"price": 6708,
-		"category": "Production",
-		"defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw"
-	},
-	{
-		"abr": "plasteelforge",
-		"price": 11142,
-		"category": "Production",
-		"defname": "VFEM_MasonryAndMetallicsFactory_PlasteelForge"
-	},
-	{
-		"abr": "versatileassembler",
-		"price": 6625,
-		"category": "Production",
-		"defname": "VFEM_VersatileAssembler"
-	},
-	{
-		"abr": "autocrane",
-		"price": 6642,
-		"category": "Production",
-		"defname": "VFEM_Autocrane"
-	},
-	{
-		"abr": "autocleanerchargingstation",
-		"price": 1433,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_AutocleanerBase"
-	},
-	{
-		"abr": "autohaulerchargingstation",
-		"price": 1183,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_AutohaulerBase"
-	},
-	{
-		"abr": "autominerchargingstation",
-		"price": 1225,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_AutominerBase"
-	},
-	{
-		"abr": "combatmechanoidchargingstation",
-		"price": 3033,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_CombatBase"
-	},
-	{
-		"abr": "riotmechanoidchargingstation",
-		"price": 4350,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_RiotBase"
-	},
-	{
-		"abr": "mobileturretchargingstation",
-		"price": 4350,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_TurretBase"
-	},
-	{
-		"abr": "autosower",
-		"price": 4675,
-		"category": "Misc",
-		"defname": "VFE_Mechanoids_Autosower"
-	},
-	{
-		"abr": "autoharvester",
-		"price": 3767,
-		"category": "Misc",
-		"defname": "VFE_Mechanoids_Autoharvester"
-	},
-	{
-		"abr": "autostriderchargingstation",
-		"price": 1600,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_AutostriderBase"
-	},
-	{
-		"abr": "auto-medicchargingstation",
-		"price": 1600,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_AutoMedicBase"
-	},
-	{
-		"abr": "raidermechanoidchargingstation",
-		"price": 3792,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_RaiderBase"
-	},
-	{
-		"abr": "autobroadcasterchargingstation",
-		"price": 1433,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_AutobroadcasterBase"
-	},
-	{
-		"abr": "pyromechanoidchargingstation",
-		"price": 5292,
-		"category": "Production",
-		"defname": "VFE_Mechanoids_PyroBase"
-	},
-	{
-		"abr": "mechanoidshipengines",
-		"price": 675,
-		"category": "Misc",
-		"defname": "VFE_MechanoidEngines"
-	},
-	{
-		"abr": "smallmechanoidshipengines",
-		"price": 625,
-		"category": "Misc",
-		"defname": "VFE_MechanoidEnginesSmall"
-	},
-	{
-		"abr": "heavystructuralbeam",
-		"price": 48,
-		"category": "Misc",
-		"defname": "VFE_MechanoidBeamHeavy"
-	},
-	{
-		"abr": "lightstructuralbeam",
-		"price": 48,
-		"category": "Misc",
-		"defname": "VFE_MechanoidBeamLight"
-	},
-	{
-		"abr": "reactor",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_MechanoidReactor"
-	},
-	{
-		"abr": "terraformer",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_MechanoidTerraformer"
-	},
-	{
-		"abr": "heavymachinery",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_HeavyMachinery"
-	},
-	{
-		"abr": "cargocontainer",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_CargoContainer"
-	},
-	{
-		"abr": "trooperstorage",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_TrooperStorage"
-	},
-	{
-		"abr": "hullrepairmodule",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_HullRepairModule"
-	},
-	{
-		"abr": "mechanoidbarrier",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_MechanoidBarrier"
-	},
-	{
-		"abr": "mechanoidassemblypod",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_AssemblyPod"
-	},
-	{
-		"abr": "mechanoidfoundry",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_AssemblyFoundry"
-	},
-	{
-		"abr": "cargohold",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_CargoHold"
-	},
-	{
-		"abr": "mechanoidlandingbeacon",
-		"price": 5,
-		"category": "Misc",
-		"defname": "VFE_MechLandingBeacon"
-	},
-	{
-		"abr": "conduitpylon",
-		"price": 792,
-		"category": "Misc",
-		"defname": "VFE_ConduitPylon"
-	},
-	{
-		"abr": "supercomputer",
-		"price": 3258,
-		"category": "Production",
-		"defname": "VFE_Supercomputer"
-	},
-	{
-		"abr": "longrangemissilelauncher",
-		"price": 4017,
-		"category": "Misc",
-		"defname": "VFE_LongRangeMissileLauncher"
-	},
-	{
-		"abr": "chargeblasterturret",
-		"price": 3242,
-		"category": "Security",
-		"defname": "VFE_Turret_AutoChargeBlaster"
-	},
-	{
-		"abr": "chargelanceturret",
-		"price": 3242,
-		"category": "Security",
-		"defname": "VFE_Turret_AutoChargeLance"
-	},
-	{
-		"abr": "infernocannonturret",
-		"price": 3367,
-		"category": "Security",
-		"defname": "VFE_Turret_AutoInfernoCannon"
-	},
-	{
-		"abr": "auto-mortar",
-		"price": 2433,
-		"category": "Security",
-		"defname": "VFE_Turret_AutoMortar"
-	},
-	{
-		"abr": "autoteslaturret",
-		"price": 3733,
-		"category": "Misc",
-		"defname": "VFE_Turret_AutoTesla"
-	},
-	{
-		"abr": "mechanitelfreinforcer",
-		"price": 10617,
-		"category": "Misc",
-		"defname": "VFE_MechaniteLFReinforcer"
-	},
-	{
-		"abr": "indoctrinationpod",
-		"price": 7917,
-		"category": "Misc",
-		"defname": "VFE_IndoctrinationPod"
-	},
-	{
-		"abr": "mechanoidconstructionlamp",
-		"price": 425,
-		"category": "Misc",
-		"defname": "VFE_MechanoidConstructionLamp"
-	},
-	{
-		"abr": "liquidfreezer",
-		"price": 7483,
-		"category": "Furniture",
-		"defname": "VFE_MechanoidLiquidFreezer"
-	},
-	{
-		"abr": "blightautorepeller",
-		"price": 3850,
-		"category": "Misc",
-		"defname": "VFE_BlightAutoRepeller"
-	},
-	{
-		"abr": "mechanoidcomponent",
-		"price": 517,
-		"category": "Manufactured",
-		"defname": "VFE_ComponentMechanoid"
-	},
-	{
-		"abr": "processedmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "VFEM_ProcessedMeat"
-	},
-	{
-		"abr": "smallinfernospewer",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_InfernoSpewerSmall"
-	},
-	{
-		"abr": "infernospewer",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_InfernoSpewer"
-	},
-	{
-		"abr": "advancedinfernospewer",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_AdvancedInfernoSpewer"
-	},
-	{
-		"abr": "advancedinfernocannon",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_AdvancedInfernoCannon"
 	},
 	{
 		"abr": "smokegrenades",
@@ -7039,18 +6619,6 @@
 		"defname": "AncientMail"
 	},
 	{
-		"abr": "andrewsarchus",
-		"price": 3808,
-		"category": "Animals",
-		"defname": "Andrewsarchus"
-	},
-	{
-		"abr": "andrewsarchusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Andrewsarchus"
-	},
-	{
 		"abr": "animusstone",
 		"price": 8325,
 		"category": "Misc",
@@ -7181,24 +6749,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_OR_Aqualish"
-	},
-	{
-		"abr": "arachnidcarapace",
-		"price": 42,
-		"category": "Raw resources",
-		"defname": "ArachnidCarapace"
-	},
-	{
-		"abr": "arachnidexoskeleton",
-		"price": 9,
-		"category": "Leathers",
-		"defname": "Leather_Arachnids"
-	},
-	{
-		"abr": "arachnidleg",
-		"price": 79,
-		"category": "Items",
-		"defname": "ArachnidLeg"
 	},
 	{
 		"abr": "arbok",
@@ -7633,18 +7183,6 @@
 		"defname": "PW_Aron"
 	},
 	{
-		"abr": "arthropleura",
-		"price": 1617,
-		"category": "Animals",
-		"defname": "Arthropleura"
-	},
-	{
-		"abr": "arthropleuraegg(fert.)",
-		"price": 203,
-		"category": "Eggs (fert.)",
-		"defname": "EggArthropleuraFertilized"
-	},
-	{
 		"abr": "articuno",
 		"price": 1067,
 		"category": "Animals",
@@ -7673,12 +7211,6 @@
 		"price": 165,
 		"category": "Animals",
 		"defname": "Astromite"
-	},
-	{
-		"abr": "aurochs",
-		"price": 1433,
-		"category": "Animals",
-		"defname": "Aurochs"
 	},
 	{
 		"abr": "automaticrifle",
@@ -8089,34 +7621,10 @@
 		"defname": "SpellOf_BloodMoon"
 	},
 	{
-		"abr": "bloodoranges",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Oranges"
-	},
-	{
 		"abr": "blowgun",
 		"price": 153,
 		"category": "Ranged weapons",
 		"defname": "Gun_Blowgun"
-	},
-	{
-		"abr": "blubber",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_Whale"
-	},
-	{
-		"abr": "bluecrab",
-		"price": 181,
-		"category": "Animals",
-		"defname": "BiomesIslands_BlueCrab"
-	},
-	{
-		"abr": "bluecrabegg(fert.)",
-		"price": 62,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggBlueCrabFertilized"
 	},
 	{
 		"abr": "bluefungus",
@@ -8125,22 +7633,10 @@
 		"defname": "AB_BlueRawFungus"
 	},
 	{
-		"abr": "blueseasnailegg(fert.)",
-		"price": 32,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_BlueSeaSnailFertilized"
-	},
-	{
 		"abr": "bluefuzz",
 		"price": 12,
 		"category": "Leathers",
 		"defname": "Leather_Bluefuzz"
-	},
-	{
-		"abr": "bombardierbug",
-		"price": 16,
-		"category": "Animal",
-		"defname": "Arachnid_BombardierBug"
 	},
 	{
 		"abr": "bonsly",
@@ -8159,12 +7655,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Boomrat"
-	},
-	{
-		"abr": "boomwhale",
-		"price": 2958,
-		"category": "Animals",
-		"defname": "BiomesIslands_BoomWhale"
 	},
 	{
 		"abr": "borealsardine",
@@ -8455,12 +7945,6 @@
 		"defname": "PW_Castform"
 	},
 	{
-		"abr": "castoroides",
-		"price": 1583,
-		"category": "Animals",
-		"defname": "Castoroides"
-	},
-	{
 		"abr": "catmeat",
 		"price": 4,
 		"category": "Meat",
@@ -8501,18 +7985,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "ATK_Cervinemorph"
-	},
-	{
-		"abr": "chalicotherium",
-		"price": 2233,
-		"category": "Animals",
-		"defname": "Chalicotherium"
-	},
-	{
-		"abr": "chalicotheriummeat",
-		"price": 4,
-		"category": "Meat",
-		"defname": "Meat_Chalicotherium"
 	},
 	{
 		"abr": "chansey",
@@ -9067,18 +8539,6 @@
 		"defname": "PW_Cloyster"
 	},
 	{
-		"abr": "cluttercrab",
-		"price": 683,
-		"category": "Animals",
-		"defname": "BiomesIslands_ClutterCrab"
-	},
-	{
-		"abr": "cluttercrabegg(fert.)",
-		"price": 92,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggClutterCrabFertilized"
-	},
-	{
 		"abr": "coagulator",
 		"price": 1508,
 		"category": "Bionic",
@@ -9205,12 +8665,6 @@
 		"defname": "CoolerRib"
 	},
 	{
-		"abr": "coralblocks",
-		"price": 1,
-		"category": "Stone blocks",
-		"defname": "BiomesIslands_BlocksCoral"
-	},
-	{
 		"abr": "coralcoconuts",
 		"price": 7,
 		"category": "Vegetarian",
@@ -9283,12 +8737,6 @@
 		"defname": "Meat_Cougar"
 	},
 	{
-		"abr": "crabmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_RimCrab"
-	},
-	{
 		"abr": "crabshell",
 		"price": 7,
 		"category": "Leathers",
@@ -9335,12 +8783,6 @@
 		"price": 1042,
 		"category": "Animals",
 		"defname": "PW_Crobat"
-	},
-	{
-		"abr": "crocodilemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Quinkana"
 	},
 	{
 		"abr": "croconaw",
@@ -9395,12 +8837,6 @@
 		"price": 592,
 		"category": "Animals",
 		"defname": "PW_Cyndaquil"
-	},
-	{
-		"abr": "daeodon",
-		"price": 2542,
-		"category": "Animals",
-		"defname": "Daeodon"
 	},
 	{
 		"abr": "dakotaraptor",
@@ -9497,18 +8933,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Deinocheirus"
-	},
-	{
-		"abr": "deinotherium",
-		"price": 3008,
-		"category": "Animals",
-		"defname": "Deinotherium"
-	},
-	{
-		"abr": "deinotheriumtusk",
-		"price": 1017,
-		"category": "Items",
-		"defname": "DeinotheriumTusk"
 	},
 	{
 		"abr": "delcatty",
@@ -9613,12 +9037,6 @@
 		"defname": "Meat_Deviljho"
 	},
 	{
-		"abr": "devil'sclawleaves",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Devilsclaw"
-	},
-	{
 		"abr": "dewgong",
 		"price": 908,
 		"category": "Animals",
@@ -9679,36 +9097,6 @@
 		"defname": "Meat_Dilophosaurus"
 	},
 	{
-		"abr": "dinocrocuta",
-		"price": 2192,
-		"category": "Animals",
-		"defname": "Dinocrocuta"
-	},
-	{
-		"abr": "dinocrocutameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dinocrocuta"
-	},
-	{
-		"abr": "dinopithecus",
-		"price": 2000,
-		"category": "Animals",
-		"defname": "Dinopithecus"
-	},
-	{
-		"abr": "dinornis",
-		"price": 2917,
-		"category": "Animals",
-		"defname": "Dinornis"
-	},
-	{
-		"abr": "dinornisegg(fert.)",
-		"price": 116,
-		"category": "Eggs (fert.)",
-		"defname": "EggDinornisFertilized"
-	},
-	{
 		"abr": "dinosaurfuzz",
 		"price": 5,
 		"category": "Leathers",
@@ -9743,18 +9131,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Diplodocus"
-	},
-	{
-		"abr": "diprotodon",
-		"price": 2100,
-		"category": "Animals",
-		"defname": "Diprotodon"
-	},
-	{
-		"abr": "diprotodonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Diprotodon"
 	},
 	{
 		"abr": "direwolf",
@@ -9809,24 +9185,6 @@
 		"price": 567,
 		"category": "Animals",
 		"defname": "PW_Doduo"
-	},
-	{
-		"abr": "doedicurus",
-		"price": 1800,
-		"category": "Animals",
-		"defname": "Doedicurus"
-	},
-	{
-		"abr": "doedicurusmeat",
-		"price": 4,
-		"category": "Meat",
-		"defname": "Meat_Doedicurus"
-	},
-	{
-		"abr": "doedicurusshell",
-		"price": 1358,
-		"category": "Items",
-		"defname": "DoedicurusShell"
 	},
 	{
 		"abr": "dogmeat",
@@ -10093,24 +9451,6 @@
 		"defname": "PW_Ekans"
 	},
 	{
-		"abr": "elasmotherium",
-		"price": 2142,
-		"category": "Animals",
-		"defname": "Elasmotherium"
-	},
-	{
-		"abr": "elasmotheriumhorn",
-		"price": 2458,
-		"category": "Items",
-		"defname": "ElasmotheriumHorn"
-	},
-	{
-		"abr": "elasmotheriumwool",
-		"price": 8,
-		"category": "Wools",
-		"defname": "ElasmotheriumWool"
-	},
-	{
 		"abr": "elbowblade",
 		"price": 4975,
 		"category": "Prosthetic",
@@ -10297,12 +9637,6 @@
 		"defname": "Gun_EMPRifle"
 	},
 	{
-		"abr": "empgrenadebelt",
-		"price": 4300,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeEMPBelt"
-	},
-	{
 		"abr": "emptorpedo",
 		"price": 2275,
 		"category": "Torpedoes",
@@ -10331,12 +9665,6 @@
 		"price": 3025,
 		"category": "Scrolls",
 		"defname": "SpellOf_Shapeshift"
-	},
-	{
-		"abr": "enhydriodon",
-		"price": 2100,
-		"category": "Animals",
-		"defname": "Enhydriodon"
 	},
 	{
 		"abr": "entanglementmanifold",
@@ -10451,18 +9779,6 @@
 		"price": 983,
 		"category": "Animals",
 		"defname": "PW_Feraligatr"
-	},
-	{
-		"abr": "fiddlercrab",
-		"price": 174,
-		"category": "Animals",
-		"defname": "BiomesIslands_FiddlerCrab"
-	},
-	{
-		"abr": "fiddlercrabegg(fert.)",
-		"price": 59,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggFiddlerCrabFertilized"
 	},
 	{
 		"abr": "fieldhand",
@@ -10585,36 +9901,6 @@
 		"defname": "PW_FireStone"
 	},
 	{
-		"abr": "fireflybug",
-		"price": 742,
-		"category": "Animal",
-		"defname": "Arachnid_FireFlyBug"
-	},
-	{
-		"abr": "fishfood",
-		"price": 2,
-		"category": "Foods",
-		"defname": "BiomesIslands_FishFood"
-	},
-	{
-		"abr": "fishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_WhiteShark"
-	},
-	{
-		"abr": "fishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_GreenEel"
-	},
-	{
-		"abr": "fishskin",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "BiomesIslands_Leather_Fishskin"
-	},
-	{
 		"abr": "flaaffy",
 		"price": 617,
 		"category": "Animals",
@@ -10643,12 +9929,6 @@
 		"price": 908,
 		"category": "Animals",
 		"defname": "PW_Flareon"
-	},
-	{
-		"abr": "flashgrenadebelt",
-		"price": 4300,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeFlashBelt"
 	},
 	{
 		"abr": "fleshgolem",
@@ -10717,12 +9997,6 @@
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
-		"abr": "fraggrenadebelt",
-		"price": 358,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeFragBelt"
-	},
-	{
 		"abr": "frigidswimmer",
 		"price": 3,
 		"category": "Alien raw fish",
@@ -10775,18 +10049,6 @@
 		"price": 1642,
 		"category": "Caches",
 		"defname": "O21_OR_CacheGalacticRepublic"
-	},
-	{
-		"abr": "galapagostortoise",
-		"price": 575,
-		"category": "Animals",
-		"defname": "BiomesIslands_GalapagosTortoise"
-	},
-	{
-		"abr": "galapagostortoiseegg(fert.)",
-		"price": 54,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggGalapagosTortoiseFertilized"
 	},
 	{
 		"abr": "gallade",
@@ -10979,42 +10241,6 @@
 		"price": 575,
 		"category": "Animals",
 		"defname": "PW_Gible"
-	},
-	{
-		"abr": "gigantaconda",
-		"price": 733,
-		"category": "Animals",
-		"defname": "BiomesIslands_Gigantaconda"
-	},
-	{
-		"abr": "gigantacondaegg(fert.)",
-		"price": 147,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggGigantacondaFertilized"
-	},
-	{
-		"abr": "gigantacondameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_Gigantaconda"
-	},
-	{
-		"abr": "gigantophis",
-		"price": 4225,
-		"category": "Animals",
-		"defname": "Gigantophis"
-	},
-	{
-		"abr": "gigantophisegg(fert.)",
-		"price": 294,
-		"category": "Eggs (fert.)",
-		"defname": "EggGigantophisFertilized"
-	},
-	{
-		"abr": "gigantopithecus",
-		"price": 2342,
-		"category": "Animals",
-		"defname": "Gigantopithecus"
 	},
 	{
 		"abr": "gigantoraptor",
@@ -11227,12 +10453,6 @@
 		"defname": "SpellOf_BrandVitality"
 	},
 	{
-		"abr": "gomphotaria",
-		"price": 3283,
-		"category": "Animals",
-		"defname": "Gomphotaria"
-	},
-	{
 		"abr": "gorebyss",
 		"price": 883,
 		"category": "Animals",
@@ -11303,36 +10523,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_GreatJagras"
-	},
-	{
-		"abr": "greatwhiteshark",
-		"price": 2375,
-		"category": "Animals",
-		"defname": "BiomesIslands_WhiteShark"
-	},
-	{
-		"abr": "greeneel",
-		"price": 322,
-		"category": "Animals",
-		"defname": "BMT_GreenEel"
-	},
-	{
-		"abr": "greengecko",
-		"price": 319,
-		"category": "Animals",
-		"defname": "BiomesIslands_GreenGecko"
-	},
-	{
-		"abr": "greengeckoegg(fert.)",
-		"price": 46,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggGreenGeckoFertilized"
-	},
-	{
-		"abr": "greengeckomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_GreenGecko"
 	},
 	{
 		"abr": "greenshell",
@@ -11423,12 +10613,6 @@
 		"price": 9,
 		"category": "Alien raw fish",
 		"defname": "VCEF_HabdakLongfin"
-	},
-	{
-		"abr": "hammerheadshark",
-		"price": 1283,
-		"category": "Animals",
-		"defname": "BiomesIslands_Hammerhead"
 	},
 	{
 		"abr": "hampers",
@@ -11581,18 +10765,6 @@
 		"defname": "PW_Heracross"
 	},
 	{
-		"abr": "hermitcrab",
-		"price": 177,
-		"category": "Animals",
-		"defname": "BiomesIslands_HermitCrab"
-	},
-	{
-		"abr": "hermitcrabegg(fert.)",
-		"price": 57,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggHermitCrabFertilized"
-	},
-	{
 		"abr": "high-explosivetorpedo",
 		"price": 2267,
 		"category": "Torpedoes",
@@ -11699,12 +10871,6 @@
 		"price": 508,
 		"category": "Animals",
 		"defname": "PW_Hoothoot"
-	},
-	{
-		"abr": "hopperbug",
-		"price": 583,
-		"category": "Animal",
-		"defname": "Arachnid_HopperBug"
 	},
 	{
 		"abr": "hoppip",
@@ -12073,24 +11239,6 @@
 		"defname": "PW_Jolteon"
 	},
 	{
-		"abr": "josephoartigasia",
-		"price": 1917,
-		"category": "Animals",
-		"defname": "Josephoartigasia"
-	},
-	{
-		"abr": "josephoartigasiameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Josephoartigasia"
-	},
-	{
-		"abr": "josephoartigasiawool",
-		"price": 6,
-		"category": "Wools",
-		"defname": "JosephoartigasiaWool"
-	},
-	{
 		"abr": "jumppack",
 		"price": 2800,
 		"category": "Utility",
@@ -12160,12 +11308,6 @@
 		"abr": "kangaroomeat",
 		"price": 3,
 		"category": "Meat",
-		"defname": "Meat_Procoptodon"
-	},
-	{
-		"abr": "kangaroomeat",
-		"price": 3,
-		"category": "Meat",
 		"defname": "Meat_AEXP_Kangaroo"
 	},
 	{
@@ -12191,12 +11333,6 @@
 		"price": 4,
 		"category": "Monster leathers",
 		"defname": "Leather_Kelbi"
-	},
-	{
-		"abr": "kelpbed",
-		"price": 119,
-		"category": "Furniture",
-		"defname": "BiomesIslands_AquaticKelpBed"
 	},
 	{
 		"abr": "kestodon",
@@ -12265,24 +11401,6 @@
 		"defname": "PW_Kirlia"
 	},
 	{
-		"abr": "kiwi",
-		"price": 125,
-		"category": "Animals",
-		"defname": "BiomesIslands_KiwiBird"
-	},
-	{
-		"abr": "kiwiegg(fert.)",
-		"price": 41,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggKiwiFertilized"
-	},
-	{
-		"abr": "kiwimeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_KiwiBird"
-	},
-	{
 		"abr": "kneespike",
 		"price": 4975,
 		"category": "Prosthetic",
@@ -12299,24 +11417,6 @@
 		"price": 608,
 		"category": "Animals",
 		"defname": "PW_Koffing"
-	},
-	{
-		"abr": "komododragon",
-		"price": 433,
-		"category": "Animals",
-		"defname": "BMT_KomodoDragon"
-	},
-	{
-		"abr": "komododragonegg(fert.)",
-		"price": 29,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggKomodoDragonFertilized"
-	},
-	{
-		"abr": "komododragonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_KomodoDragon"
 	},
 	{
 		"abr": "krabby",
@@ -12523,18 +11623,6 @@
 		"defname": "LearningAssistant"
 	},
 	{
-		"abr": "leatherbackturtle",
-		"price": 783,
-		"category": "Animals",
-		"defname": "BiomesIslands_LeatherbackTurtle"
-	},
-	{
-		"abr": "leatherbackturtleegg(fert.)",
-		"price": 64,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggLeatherbackTurtleFertilized"
-	},
-	{
 		"abr": "ledian",
 		"price": 708,
 		"category": "Animals",
@@ -12619,18 +11707,6 @@
 		"defname": "PW_Lileep"
 	},
 	{
-		"abr": "limepeelangelfish",
-		"price": 23,
-		"category": "Animals",
-		"defname": "BiomesIslands_LimepeelAngelfish"
-	},
-	{
-		"abr": "limepeelangelfishegg(fert.)",
-		"price": 16,
-		"category": "Eggs (fert.)",
-		"defname": "EggLimepeelAngelfishFertilized"
-	},
-	{
 		"abr": "limestonegolem",
 		"price": 2442,
 		"category": "Animal",
@@ -12647,12 +11723,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Lion"
-	},
-	{
-		"abr": "lizardmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Megalania"
 	},
 	{
 		"abr": "locustarmor",
@@ -12785,18 +11855,6 @@
 		"price": 592,
 		"category": "Animals",
 		"defname": "PW_Machop"
-	},
-	{
-		"abr": "macrauchenia",
-		"price": 1658,
-		"category": "Animals",
-		"defname": "Macrauchenia"
-	},
-	{
-		"abr": "macraucheniameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Macrauchenia"
 	},
 	{
 		"abr": "magby",
@@ -13087,18 +12145,6 @@
 		"defname": "PW_Makuhita"
 	},
 	{
-		"abr": "mammothtusk",
-		"price": 1108,
-		"category": "Items",
-		"defname": "MammothTusk"
-	},
-	{
-		"abr": "mammothwool",
-		"price": 6,
-		"category": "Wools",
-		"defname": "MammothWool"
-	},
-	{
 		"abr": "mamoswine",
 		"price": 1033,
 		"category": "Animals",
@@ -13177,12 +12223,6 @@
 		"defname": "PW_Mankey"
 	},
 	{
-		"abr": "mantaray",
-		"price": 2425,
-		"category": "Animals",
-		"defname": "BiomesIslands_MantaRay"
-	},
-	{
 		"abr": "mantine",
 		"price": 908,
 		"category": "Animals",
@@ -13211,24 +12251,6 @@
 		"price": 475,
 		"category": "Animals",
 		"defname": "PW_Marill"
-	},
-	{
-		"abr": "marineiguana",
-		"price": 202,
-		"category": "Animals",
-		"defname": "BiomesIslands_MarineIguana"
-	},
-	{
-		"abr": "marineiguanaegg(fert.)",
-		"price": 41,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggMarineIguanaFertilized"
-	},
-	{
-		"abr": "marineiguanameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_MarineIguana"
 	},
 	{
 		"abr": "marksmanrifle",
@@ -13361,66 +12383,6 @@
 		"price": 1625,
 		"category": "Special",
 		"defname": "MediumFossilTrophy"
-	},
-	{
-		"abr": "megalania",
-		"price": 2917,
-		"category": "Animals",
-		"defname": "Megalania"
-	},
-	{
-		"abr": "megalaniaegg(fert.)",
-		"price": 154,
-		"category": "Eggs (fert.)",
-		"defname": "EggMegalaniaFertilized"
-	},
-	{
-		"abr": "megaloceros",
-		"price": 1817,
-		"category": "Animals",
-		"defname": "Megaloceros"
-	},
-	{
-		"abr": "megalocerosantlers",
-		"price": 2167,
-		"category": "Items",
-		"defname": "MegalocerosAntlers"
-	},
-	{
-		"abr": "megalochelys",
-		"price": 2342,
-		"category": "Animals",
-		"defname": "Megalochelys"
-	},
-	{
-		"abr": "megalochelysegg(fert.)",
-		"price": 260,
-		"category": "Eggs (fert.)",
-		"defname": "EggMegalochelysFertilized"
-	},
-	{
-		"abr": "megamantis",
-		"price": 165,
-		"category": "Animals",
-		"defname": "BiomesIslands_Megamantis"
-	},
-	{
-		"abr": "megamantisegg(fert.)",
-		"price": 42,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggMegamantisFertilized"
-	},
-	{
-		"abr": "meganeura",
-		"price": 1192,
-		"category": "Animals",
-		"defname": "Meganeura"
-	},
-	{
-		"abr": "meganeuraegg(fert.)",
-		"price": 116,
-		"category": "Eggs (fert.)",
-		"defname": "EggMeganeuraFertilized"
 	},
 	{
 		"abr": "meganium",
@@ -13639,12 +12601,6 @@
 		"defname": "Meat_Mizutsune"
 	},
 	{
-		"abr": "molotovbelt",
-		"price": 332,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeMolotovBelt"
-	},
-	{
 		"abr": "moltres",
 		"price": 1083,
 		"category": "Animals",
@@ -13697,18 +12653,6 @@
 		"price": 933,
 		"category": "Animals",
 		"defname": "PW_MrMime"
-	},
-	{
-		"abr": "muckfrill",
-		"price": 24,
-		"category": "Animals",
-		"defname": "BMT_Muckfrill"
-	},
-	{
-		"abr": "muckfrillegg(fert.)",
-		"price": 19,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggMuckfrillFertilized"
 	},
 	{
 		"abr": "mudsplashercarp",
@@ -13991,18 +12935,6 @@
 		"price": 1,
 		"category": "Stone blocks",
 		"defname": "AB_BlocksObsidian"
-	},
-	{
-		"abr": "obsidianfin",
-		"price": 24,
-		"category": "Animals",
-		"defname": "BMT_Obsidianfin"
-	},
-	{
-		"abr": "obsidianfinegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggObsidianfinFertilized"
 	},
 	{
 		"abr": "octillery",
@@ -14665,46 +13597,10 @@
 		"defname": "PW_Omastar"
 	},
 	{
-		"abr": "omegadodo",
-		"price": 683,
-		"category": "Animals",
-		"defname": "BiomesIslands_OmegaDodo"
-	},
-	{
-		"abr": "omegadodoegg(fert.)",
-		"price": 86,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggOmegaDodoFertilized"
-	},
-	{
-		"abr": "omegadodoegg(unfert.)",
-		"price": 87,
-		"category": "Eggs (unfert.)",
-		"defname": "BiomesIslands_EggOmegaDodoUnfertilized"
-	},
-	{
-		"abr": "omegadodomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_OmegaDodo"
-	},
-	{
 		"abr": "onix",
 		"price": 758,
 		"category": "Animals",
 		"defname": "PW_Onix"
-	},
-	{
-		"abr": "orangepeelangelfish",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_OrangepeelAngelfish"
-	},
-	{
-		"abr": "orangepeelangelfishegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggOrangepeelAngelfishFertilized"
 	},
 	{
 		"abr": "orbofconviction",
@@ -14743,28 +13639,10 @@
 		"defname": "OrbitalTargeterMechFall"
 	},
 	{
-		"abr": "orchidbasslet",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_OrchidBasslet"
-	},
-	{
-		"abr": "orchidbassletegg(fert.)",
-		"price": 18,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggOrchidBassletFertilized"
-	},
-	{
 		"abr": "organicoptimizingnanobots",
 		"price": 1508,
 		"category": "Organic optimizer",
 		"defname": "EPOE_OrganicOptimizingNanobots"
-	},
-	{
-		"abr": "ottermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Enhydriodon"
 	},
 	{
 		"abr": "ottermeat",
@@ -14807,18 +13685,6 @@
 		"price": 3000,
 		"category": "Scrolls",
 		"defname": "SpellOf_HolyWrath"
-	},
-	{
-		"abr": "palaeeudyptes",
-		"price": 1725,
-		"category": "Animals",
-		"defname": "Palaeeudyptes"
-	},
-	{
-		"abr": "palaeeudyptesegg(fert.)",
-		"price": 226,
-		"category": "Eggs (fert.)",
-		"defname": "EggPalaeeudyptesFertilized"
 	},
 	{
 		"abr": "palkia",
@@ -16537,12 +15403,6 @@
 		"defname": "Meat_Paolumu"
 	},
 	{
-		"abr": "paraceratherium",
-		"price": 5225,
-		"category": "Animals",
-		"defname": "Paraceratherium"
-	},
-	{
 		"abr": "paragon'shelm",
 		"price": 1508,
 		"category": "Magic apparel",
@@ -16577,18 +15437,6 @@
 		"price": 725,
 		"category": "Animals",
 		"defname": "PW_Parasect"
-	},
-	{
-		"abr": "parrotfish",
-		"price": 194,
-		"category": "Animals",
-		"defname": "BMT_Parrotfish"
-	},
-	{
-		"abr": "parrotfishegg(fert.)",
-		"price": 47,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggParrotfishFertilized"
 	},
 	{
 		"abr": "pebblemit",
@@ -16685,12 +15533,6 @@
 		"price": 883,
 		"category": "Animals",
 		"defname": "PW_Phione"
-	},
-	{
-		"abr": "phoebaniarat",
-		"price": 59,
-		"category": "Animals",
-		"defname": "BiomesIslands_PhoebaniaRat"
 	},
 	{
 		"abr": "phoenixarmor",
@@ -16795,18 +15637,6 @@
 		"defname": "AA_CactusMeat"
 	},
 	{
-		"abr": "plasmabug",
-		"price": 5825,
-		"category": "Animal",
-		"defname": "Arachnid_PlasmaBug"
-	},
-	{
-		"abr": "plasmagrenadierbug",
-		"price": 750,
-		"category": "Animal",
-		"defname": "Arachnid_PlasmaGrenadierBug"
-	},
-	{
 		"abr": "plasmasword",
 		"price": 3850,
 		"category": "Melee weapons",
@@ -16829,18 +15659,6 @@
 		"price": 808,
 		"category": "Prosthetic",
 		"defname": "MG_PlasteelHorn"
-	},
-	{
-		"abr": "platybelodon",
-		"price": 2192,
-		"category": "Animals",
-		"defname": "Platybelodon"
-	},
-	{
-		"abr": "platybelodontusk",
-		"price": 492,
-		"category": "Items",
-		"defname": "PlatybelodonTusk"
 	},
 	{
 		"abr": "platypusmeat",
@@ -18445,12 +17263,6 @@
 		"defname": "AB_ProcessedResin"
 	},
 	{
-		"abr": "procoptodon",
-		"price": 1692,
-		"category": "Animals",
-		"defname": "Procoptodon"
-	},
-	{
 		"abr": "propanebag",
 		"price": 1,
 		"category": "Alien raw fish",
@@ -18643,12 +17455,6 @@
 		"defname": "Meat_PukeiPukei"
 	},
 	{
-		"abr": "pulmonoscorpius",
-		"price": 1742,
-		"category": "Animals",
-		"defname": "Pulmonoscorpius"
-	},
-	{
 		"abr": "pumpkins",
 		"price": 2,
 		"category": "Vegetarian",
@@ -18671,18 +17477,6 @@
 		"price": 858,
 		"category": "Animals",
 		"defname": "PW_Purugly"
-	},
-	{
-		"abr": "purussaurus",
-		"price": 5358,
-		"category": "Animals",
-		"defname": "Purussaurus"
-	},
-	{
-		"abr": "purussaurusegg(fert.)",
-		"price": 333,
-		"category": "Eggs (fert.)",
-		"defname": "EggPurussaurusFertilized"
 	},
 	{
 		"abr": "quagsire",
@@ -18719,18 +17513,6 @@
 		"price": 750,
 		"category": "Animals",
 		"defname": "PW_Quilava"
-	},
-	{
-		"abr": "quinkana",
-		"price": 3617,
-		"category": "Animals",
-		"defname": "Quinkana"
-	},
-	{
-		"abr": "quinkanaegg(fert.)",
-		"price": 149,
-		"category": "Eggs (fert.)",
-		"defname": "EggQuinkanaFertilized"
 	},
 	{
 		"abr": "qwilfish",
@@ -18931,18 +17713,6 @@
 		"defname": "Meat_AEXP_RedPanda"
 	},
 	{
-		"abr": "redsnapper",
-		"price": 492,
-		"category": "Animals",
-		"defname": "BiomesIslands_RedSnapper"
-	},
-	{
-		"abr": "redsnapperegg(fert.)",
-		"price": 62,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggRedSnapperFertilized"
-	},
-	{
 		"abr": "redspore",
 		"price": 383,
 		"category": "Animals",
@@ -19085,18 +17855,6 @@
 		"price": 975,
 		"category": "Animals",
 		"defname": "PW_Rhyperior"
-	},
-	{
-		"abr": "rimcrab",
-		"price": 176,
-		"category": "Animals",
-		"defname": "BiomesIslands_RimCrab"
-	},
-	{
-		"abr": "rimcrabegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggRimCrabFertilized"
 	},
 	{
 		"abr": "ringofblood",
@@ -19303,18 +18061,6 @@
 		"defname": "Holodeck_AI"
 	},
 	{
-		"abr": "sardine",
-		"price": 24,
-		"category": "Animals",
-		"defname": "BiomesIslands_Sardine"
-	},
-	{
-		"abr": "sardineegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "EggSardineFertilized"
-	},
-	{
 		"abr": "sauropodleather",
 		"price": 6,
 		"category": "Leathers",
@@ -19345,12 +18091,6 @@
 		"defname": "PW_Scizor"
 	},
 	{
-		"abr": "scorpionbug",
-		"price": 5825,
-		"category": "Animal",
-		"defname": "Arachnid_ScorpionBug"
-	},
-	{
 		"abr": "scrollofspiritbinding",
 		"price": 467,
 		"category": "Magic artifacts",
@@ -19369,64 +18109,10 @@
 		"defname": "EPIA_ScytherBlade"
 	},
 	{
-		"abr": "seaotter",
-		"price": 417,
-		"category": "Animals",
-		"defname": "BMT_SeaOtter"
-	},
-	{
-		"abr": "seaottermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_SeaOtter"
-	},
-	{
-		"abr": "seasnail",
-		"price": 167,
-		"category": "Animals",
-		"defname": "BiomesIslands_BlueSeaSnail"
-	},
-	{
-		"abr": "seaturtle",
-		"price": 1275,
-		"category": "Animals",
-		"defname": "BiomesIslands_SeaTurtle"
-	},
-	{
-		"abr": "seaturtleegg(fert.)",
-		"price": 59,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggSeaTurtleFertilized"
-	},
-	{
-		"abr": "seaturtlemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_SeaTurtle"
-	},
-	{
 		"abr": "seadra",
 		"price": 792,
 		"category": "Animals",
 		"defname": "PW_Seadra"
-	},
-	{
-		"abr": "seagull",
-		"price": 158,
-		"category": "Animals",
-		"defname": "BiomesIslands_Seagull"
-	},
-	{
-		"abr": "seagullegg(fert.)",
-		"price": 47,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggSeagullFertilized"
-	},
-	{
-		"abr": "seagullmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_Seagull"
 	},
 	{
 		"abr": "seaking",
@@ -19537,12 +18223,6 @@
 		"defname": "TM_Artifact_ClassExtraction"
 	},
 	{
-		"abr": "sharkskin",
-		"price": 9,
-		"category": "Leathers",
-		"defname": "BiomesIslands_Leather_Sharkskin"
-	},
-	{
 		"abr": "sharpedo",
 		"price": 983,
 		"category": "Animals",
@@ -19583,12 +18263,6 @@
 		"price": 658,
 		"category": "Animals",
 		"defname": "PW_Shellos"
-	},
-	{
-		"abr": "shetlandpony",
-		"price": 975,
-		"category": "Animals",
-		"defname": "BiomesIslands_ShetlandPony"
 	},
 	{
 		"abr": "shieldcore",
@@ -19651,12 +18325,6 @@
 		"defname": "AA_ShockGoat"
 	},
 	{
-		"abr": "short-facedbear",
-		"price": 3075,
-		"category": "Animals",
-		"defname": "ShortfacedBear"
-	},
-	{
 		"abr": "shroomish",
 		"price": 542,
 		"category": "Animals",
@@ -19697,24 +18365,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_OR_Sith"
-	},
-	{
-		"abr": "sivatherium",
-		"price": 3175,
-		"category": "Animals",
-		"defname": "Sivatherium"
-	},
-	{
-		"abr": "sivatheriummeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Sivatherium"
-	},
-	{
-		"abr": "sivatheriummilk",
-		"price": 12,
-		"category": "Animal products",
-		"defname": "SivatheriumMilk"
 	},
 	{
 		"abr": "skarmory",
@@ -19981,12 +18631,6 @@
 		"defname": "PW_Slugma"
 	},
 	{
-		"abr": "slurrymaster",
-		"price": 1467,
-		"category": "Animals",
-		"defname": "VFE_Mech_Slurrymaster"
-	},
-	{
 		"abr": "slurrypede",
 		"price": 1075,
 		"category": "Animals",
@@ -20041,24 +18685,6 @@
 		"defname": "PW_Smeargle"
 	},
 	{
-		"abr": "smilodon",
-		"price": 1883,
-		"category": "Animals",
-		"defname": "Smilodon"
-	},
-	{
-		"abr": "smilodonfangs",
-		"price": 1392,
-		"category": "Items",
-		"defname": "SmilodonFangs"
-	},
-	{
-		"abr": "smokegrenadebelt",
-		"price": 177,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeSmokeBelt"
-	},
-	{
 		"abr": "smokegrenades",
 		"price": 293,
 		"category": "Grenades",
@@ -20069,18 +18695,6 @@
 		"price": 567,
 		"category": "Animals",
 		"defname": "PW_Smoochum"
-	},
-	{
-		"abr": "snailmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_BlueSeaSnail"
-	},
-	{
-		"abr": "snakemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Titanoboa"
 	},
 	{
 		"abr": "sneasel",
@@ -20165,12 +18779,6 @@
 		"price": 1317,
 		"category": "Natural",
 		"defname": "Spine"
-	},
-	{
-		"abr": "spineappleslices",
-		"price": 5,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Pineapples"
 	},
 	{
 		"abr": "spinedgow",
@@ -20461,12 +19069,6 @@
 		"defname": "PW_Sudowoodo"
 	},
 	{
-		"abr": "advancedfabricationbench",
-		"price": 3833,
-		"category": "Misc",
-		"defname": "Table_PJ_Bench"
-	},
-	{
 		"abr": "advancedsensors",
 		"price": 8825,
 		"category": "Misc",
@@ -20483,18 +19085,6 @@
 		"price": 1758,
 		"category": "Misc",
 		"defname": "AB_AlcyoniteSolar"
-	},
-	{
-		"abr": "alliancepilothelmet(blue)",
-		"price": 68,
-		"category": "Headgear",
-		"defname": "PJ_RebPilot_H_Blue"
-	},
-	{
-		"abr": "alliancepilothelmet(red)",
-		"price": 152,
-		"category": "Headgear",
-		"defname": "PJ_RebPilot_H_Red"
 	},
 	{
 		"abr": "ancientbone",
@@ -20543,12 +19133,6 @@
 		"price": 11192,
 		"category": "Misc",
 		"defname": "Ship_Engine_Archotech"
-	},
-	{
-		"abr": "arachnidattacktunnel",
-		"price": 2,
-		"category": "Misc",
-		"defname": "ArachnidAttackTunnel"
 	},
 	{
 		"abr": "archotechhullcorner(1x1)",
@@ -20659,18 +19243,6 @@
 		"defname": "O21_OR_PM_SuperBattleDroid"
 	},
 	{
-		"abr": "barky'sclanarmor",
-		"price": 10483,
-		"category": "Apparel",
-		"defname": "PJ_BarkMandoArmor"
-	},
-	{
-		"abr": "basicvibrocell",
-		"price": 2975,
-		"category": "Vibroblade motors",
-		"defname": "PJ_VibroMotorNorm"
-	},
-	{
 		"abr": "betharianborer",
 		"price": 6000,
 		"category": "Misc",
@@ -20689,12 +19261,6 @@
 		"defname": "O21_OR_PM_CommandoDroid"
 	},
 	{
-		"abr": "camojacket",
-		"price": 277,
-		"category": "Apparel",
-		"defname": "PJ_Reb_CamoJacket"
-	},
-	{
 		"abr": "cannonturret",
 		"price": 2317,
 		"category": "Misc",
@@ -20707,22 +19273,10 @@
 		"defname": "ShipCapacitor"
 	},
 	{
-		"abr": "climateadjuster",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_ClimateAdjuster"
-	},
-	{
 		"abr": "cloakingdevice",
 		"price": 5475,
 		"category": "Misc",
 		"defname": "ShipCloakingDevice"
-	},
-	{
-		"abr": "compositearmor",
-		"price": 6325,
-		"category": "Apparel",
-		"defname": "PJ_CompArmor"
 	},
 	{
 		"abr": "count-downactivator",
@@ -20743,28 +19297,10 @@
 		"defname": "CrittersleepCasket"
 	},
 	{
-		"abr": "cryovibrocell",
-		"price": 5308,
-		"category": "Vibroblade motors",
-		"defname": "PJ_CryoCell"
-	},
-	{
 		"abr": "cryptonest",
 		"price": 3667,
 		"category": "Misc",
 		"defname": "Cryptonest"
-	},
-	{
-		"abr": "customjedirobe",
-		"price": 467,
-		"category": "Apparel",
-		"defname": "PJ_JFac_Robe"
-	},
-	{
-		"abr": "customsithrobes",
-		"price": 467,
-		"category": "Apparel",
-		"defname": "PJ_SithFac_Robe"
 	},
 	{
 		"abr": "damagedairlock",
@@ -20773,82 +19309,16 @@
 		"defname": "ShipAirlockWrecked"
 	},
 	{
-		"abr": "dc-15blasterrifle",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_DC15Rifle"
-	},
-	{
-		"abr": "deathtrooperarmor",
-		"price": 7142,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorDT"
-	},
-	{
-		"abr": "deathtrooperarmor(cmd)",
-		"price": 7108,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorDTC"
-	},
-	{
 		"abr": "destroyerdroid",
 		"price": 3,
 		"category": "Misc",
 		"defname": "O21_OR_PM_DestroyerDroid"
 	},
 	{
-		"abr": "dh-17blasterpistol",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "PJ_DH17Blaster"
-	},
-	{
-		"abr": "dl-44blaster",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_DL44blaster"
-	},
-	{
-		"abr": "dlt-19heavyblasterrifle",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_DLT19Rifle"
-	},
-	{
-		"abr": "dxr-6blastercarbine",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_DXR6Carb"
-	},
-	{
-		"abr": "e-11blasterrifle",
-		"price": 1008,
-		"category": "Ranged weapons",
-		"defname": "PJ_E11Blaster"
-	},
-	{
-		"abr": "echanivibrosword",
-		"price": 4783,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibrosword"
-	},
-	{
-		"abr": "ee-3blastercarbine",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_EE3Carbine"
-	},
-	{
 		"abr": "emergencypurgeport",
 		"price": 1767,
 		"category": "Misc",
 		"defname": "ShipPurgePort"
-	},
-	{
-		"abr": "emidynamo",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_EMIDynamo"
 	},
 	{
 		"abr": "epicureandelight",
@@ -20879,12 +19349,6 @@
 		"price": 21,
 		"category": "Misc",
 		"defname": "AB_ExoticWall"
-	},
-	{
-		"abr": "experimentalvibrocell",
-		"price": 8550,
-		"category": "Vibroblade motors",
-		"defname": "PJ_XXCell"
 	},
 	{
 		"abr": "gallatrossbones",
@@ -21049,96 +19513,6 @@
 		"defname": "ShipHullfoamTile"
 	},
 	{
-		"abr": "hypersonicvibrocell",
-		"price": 4817,
-		"category": "Vibroblade motors",
-		"defname": "PJ_SonicCell"
-	},
-	{
-		"abr": "imperialcommandcap",
-		"price": 442,
-		"category": "Headgear",
-		"defname": "PJ_ImpHat"
-	},
-	{
-		"abr": "imperialcommandcap",
-		"price": 425,
-		"category": "Headgear",
-		"defname": "PJ_ImpHatBrn"
-	},
-	{
-		"abr": "imperialcommandcap(black)",
-		"price": 433,
-		"category": "Headgear",
-		"defname": "PJ_ImpHatB"
-	},
-	{
-		"abr": "imperialcommandcap(dark)",
-		"price": 375,
-		"category": "Headgear",
-		"defname": "PJ_ImpSTOHat"
-	},
-	{
-		"abr": "imperialcredit",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "PJ_ImperialCredit"
-	},
-	{
-		"abr": "imperialisbuniform(outer)",
-		"price": 155,
-		"category": "Apparel",
-		"defname": "PJ_ImpUniformISBSHELL"
-	},
-	{
-		"abr": "imperialnavyhelm",
-		"price": 425,
-		"category": "Headgear",
-		"defname": "PJ_ImpNavyH"
-	},
-	{
-		"abr": "imperialnavyuniform(inner-black)",
-		"price": 152,
-		"category": "Apparel",
-		"defname": "PJ_ImpUniformBlack"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-black)",
-		"price": 177,
-		"category": "Apparel",
-		"defname": "PJ_ImpUniformBlackSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-brown)",
-		"price": 154,
-		"category": "Apparel",
-		"defname": "PJ_ImpUniformBrownSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-dark)",
-		"price": 167,
-		"category": "Apparel",
-		"defname": "PJ_ImpNAVYSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-green)",
-		"price": 162,
-		"category": "Apparel",
-		"defname": "PJ_ImpUniformGrnSHELL"
-	},
-	{
-		"abr": "imperialuniformbodysuit(inner-mesh)",
-		"price": 147,
-		"category": "Apparel",
-		"defname": "PJ_ImpUniform"
-	},
-	{
-		"abr": "jawaionrifle",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_JawaIon"
-	},
-	{
 		"abr": "johnson-tanakadrive",
 		"price": 14317,
 		"category": "Misc",
@@ -21199,12 +19573,6 @@
 		"defname": "ShipTurret_Laser"
 	},
 	{
-		"abr": "launcherpistol",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_LauncherP"
-	},
-	{
 		"abr": "lifesupportsystem",
 		"price": 4750,
 		"category": "Misc",
@@ -21215,30 +19583,6 @@
 		"price": 3,
 		"category": "Misc",
 		"defname": "O21_OR_PM_MagnaGuardDroid"
-	},
-	{
-		"abr": "mandoarmor",
-		"price": 9475,
-		"category": "Apparel",
-		"defname": "PJ_MandoArmor"
-	},
-	{
-		"abr": "mandohelm",
-		"price": 2558,
-		"category": "Headgear",
-		"defname": "PJ_MandoHelm"
-	},
-	{
-		"abr": "mandoveteranarmor",
-		"price": 10425,
-		"category": "Apparel",
-		"defname": "PJ_VetMandoArmor"
-	},
-	{
-		"abr": "mandovibrocleaver",
-		"price": 5233,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibrocleaver"
 	},
 	{
 		"abr": "mechassembler",
@@ -21313,12 +19657,6 @@
 		"defname": "ShipInside_PassiveVentMechanoid"
 	},
 	{
-		"abr": "modifiedshirt",
-		"price": 194,
-		"category": "Apparel",
-		"defname": "PJ_RebCollarShirt"
-	},
-	{
 		"abr": "moomoomilk",
 		"price": 3,
 		"category": "Animal products",
@@ -21329,12 +19667,6 @@
 		"price": 14083,
 		"category": "Misc",
 		"defname": "Ship_Engine_Large"
-	},
-	{
-		"abr": "nym'sslugthrower",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_NymSlug"
 	},
 	{
 		"abr": "orassanshield",
@@ -21379,106 +19711,16 @@
 		"defname": "ActivatorProximity"
 	},
 	{
-		"abr": "psychicdroner",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_PsychicDroner"
-	},
-	{
-		"abr": "psychicsuppressor",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_PsychicSuppressor"
-	},
-	{
 		"abr": "railgunturret",
 		"price": 2592,
 		"category": "Misc",
 		"defname": "ShipTurret_Kinetic"
 	},
 	{
-		"abr": "rebelalliancehelmet",
-		"price": 151,
-		"category": "Headgear",
-		"defname": "PJ_RebHat"
-	},
-	{
-		"abr": "rebelallianceofficeruniform",
-		"price": 1125,
-		"category": "Apparel",
-		"defname": "PJ_RebOfficer"
-	},
-	{
-		"abr": "rebelb-wingflightsuit",
-		"price": 1192,
-		"category": "Apparel",
-		"defname": "PJ_RebBFlight"
-	},
-	{
-		"abr": "rebelcoldhelmet",
-		"price": 144,
-		"category": "Headgear",
-		"defname": "PJ_RebSnowHat"
-	},
-	{
-		"abr": "rebelflightsuit",
-		"price": 1242,
-		"category": "Apparel",
-		"defname": "PJ_RebFlight"
-	},
-	{
-		"abr": "rebelscouthelmet(brown)",
-		"price": 151,
-		"category": "Headgear",
-		"defname": "PJ_RebLAVHat"
-	},
-	{
-		"abr": "rebelscouthelmet(forest)",
-		"price": 151,
-		"category": "Headgear",
-		"defname": "PJ_RebScoutHat"
-	},
-	{
-		"abr": "reinforcedarmorvest",
-		"price": 1825,
-		"category": "Apparel",
-		"defname": "PJ_Apparel_XVestPlate"
-	},
-	{
 		"abr": "salvagebay",
 		"price": 3058,
 		"category": "Misc",
 		"defname": "ShipSalvageBay"
-	},
-	{
-		"abr": "scoutblaster",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_Scoutblaster"
-	},
-	{
-		"abr": "scoutjacket",
-		"price": 217,
-		"category": "Apparel",
-		"defname": "PJ_Reb_ScoutJacket"
-	},
-	{
-		"abr": "scoutjacket(brown)",
-		"price": 217,
-		"category": "Apparel",
-		"defname": "PJ_Reb_ScoutLAVJacket"
-	},
-	{
-		"abr": "scouttrooperhelmet",
-		"price": 1400,
-		"category": "Headgear",
-		"defname": "PJ_SCTHelm"
-	},
-	{
-		"abr": "se14blaster",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_SE14blaster"
 	},
 	{
 		"abr": "shieldgenerator",
@@ -21517,42 +19759,6 @@
 		"defname": "ShipInside_PassiveVent"
 	},
 	{
-		"abr": "ship-mountedhighshield",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_MortarShield"
-	},
-	{
-		"abr": "ship-mountedlowshield",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_BulletShield"
-	},
-	{
-		"abr": "shoretrooperarmor",
-		"price": 6650,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorSh"
-	},
-	{
-		"abr": "shoretrooperarmor(cpt)",
-		"price": 6925,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorShC"
-	},
-	{
-		"abr": "shoretrooperarmor(sl)",
-		"price": 6342,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorShSL"
-	},
-	{
-		"abr": "shoretrooperhelm",
-		"price": 1375,
-		"category": "Headgear",
-		"defname": "PJ_SHHelm"
-	},
-	{
 		"abr": "shuttlebay",
 		"price": 3058,
 		"category": "Misc",
@@ -21589,12 +19795,6 @@
 		"defname": "AB_SmoothedAncientMetals"
 	},
 	{
-		"abr": "smoothedcoral",
-		"price": 25,
-		"category": "Misc",
-		"defname": "BiomesIslands_SmoothedCoral"
-	},
-	{
 		"abr": "smoothedcragstone",
 		"price": 26,
 		"category": "Misc",
@@ -21629,12 +19829,6 @@
 		"price": 1042,
 		"category": "Misc",
 		"defname": "ShipInside_SolarGenerator"
-	},
-	{
-		"abr": "specopsvibrocell",
-		"price": 9775,
-		"category": "Vibroblade motors",
-		"defname": "PJ_SpecOpsCell"
 	},
 	{
 		"abr": "spinalamplifier",
@@ -21679,54 +19873,6 @@
 		"defname": "ShipSpinalEmitter"
 	},
 	{
-		"abr": "stormtrooperarmor",
-		"price": 6475,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmor"
-	},
-	{
-		"abr": "stormtrooperarmor(jo)",
-		"price": 6475,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorJO"
-	},
-	{
-		"abr": "stormtrooperarmor(nco)",
-		"price": 6825,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorNCO"
-	},
-	{
-		"abr": "stormtrooperarmor(so)",
-		"price": 6592,
-		"category": "Apparel",
-		"defname": "PJ_TroopArmorSO"
-	},
-	{
-		"abr": "stormtrooperhelm",
-		"price": 1308,
-		"category": "Headgear",
-		"defname": "PJ_STHelm"
-	},
-	{
-		"abr": "stormtrooperhelm",
-		"price": 1658,
-		"category": "Headgear",
-		"defname": "PJ_DTHelm"
-	},
-	{
-		"abr": "stormtrooperofficeruniform(inner)",
-		"price": 154,
-		"category": "Apparel",
-		"defname": "PJ_STOffUniform"
-	},
-	{
-		"abr": "sugarbananas",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "BiomesIslands_Bananas"
-	},
-	{
 		"abr": "sugarfamewort",
 		"price": 3,
 		"category": "Vegetarian",
@@ -21755,18 +19901,6 @@
 		"price": 500,
 		"category": "Furniture",
 		"defname": "O21_OR_DathomirSunLamp"
-	},
-	{
-		"abr": "sunfinangelfish",
-		"price": 25,
-		"category": "Animals",
-		"defname": "BMT_SunfinAngelfish"
-	},
-	{
-		"abr": "sunfinangelfishegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "BMT_EggSunfinAngelfishFertilized"
 	},
 	{
 		"abr": "sunflora",
@@ -21943,12 +20077,6 @@
 		"defname": "Android2Tier"
 	},
 	{
-		"abr": "t-21blasterrifle",
-		"price": 2767,
-		"category": "Ranged weapons",
-		"defname": "PJ_T21Rifle"
-	},
-	{
 		"abr": "t3android",
 		"price": -10,
 		"category": "Animal",
@@ -22025,12 +20153,6 @@
 		"price": 1025,
 		"category": "Animals",
 		"defname": "PW_Tangrowth"
-	},
-	{
-		"abr": "tankerbug",
-		"price": 5450,
-		"category": "Animal",
-		"defname": "Arachnid_TankerBug"
 	},
 	{
 		"abr": "targuzzler",
@@ -22339,22 +20461,10 @@
 		"defname": "Meat_Thrumbo"
 	},
 	{
-		"abr": "thrumbomilk",
-		"price": 350,
-		"category": "Drugs",
-		"defname": "ThrumboMilk"
-	},
-	{
 		"abr": "thrumbosaber",
 		"price": 5892,
 		"category": "Melee",
 		"defname": "TM_ThrumboSaber"
-	},
-	{
-		"abr": "thrumbowool",
-		"price": 38,
-		"category": "Wools",
-		"defname": "ThrumboWool"
 	},
 	{
 		"abr": "thrumbogirl",
@@ -22399,12 +20509,6 @@
 		"defname": "AA_Thunderbeast"
 	},
 	{
-		"abr": "tiepilothelmet",
-		"price": 2192,
-		"category": "Headgear",
-		"defname": "PJ_TIEHelm"
-	},
-	{
 		"abr": "tigermeat",
 		"price": 3,
 		"category": "Meat",
@@ -22433,30 +20537,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Tigrex"
-	},
-	{
-		"abr": "titanis",
-		"price": 1758,
-		"category": "Animals",
-		"defname": "Titanis"
-	},
-	{
-		"abr": "titanisegg(fert.)",
-		"price": 134,
-		"category": "Eggs (fert.)",
-		"defname": "EggTitanisFertilized"
-	},
-	{
-		"abr": "titanoboa",
-		"price": 4425,
-		"category": "Animals",
-		"defname": "Titanoboa"
-	},
-	{
-		"abr": "titanoboaegg(fert.)",
-		"price": 367,
-		"category": "Eggs (fert.)",
-		"defname": "EggTitanoboaFertilized"
 	},
 	{
 		"abr": "tobi-kadachi",
@@ -22693,12 +20773,6 @@
 		"defname": "ToughskinGland"
 	},
 	{
-		"abr": "toxicgrenadebelt",
-		"price": 1467,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeToxicBelt"
-	},
-	{
 		"abr": "toxicroak",
 		"price": 908,
 		"category": "Animals",
@@ -22753,28 +20827,10 @@
 		"defname": "SurgeonMindImplant"
 	},
 	{
-		"abr": "trooperjacket",
-		"price": 217,
-		"category": "Apparel",
-		"defname": "PJ_Reb_TroopJacket"
-	},
-	{
 		"abr": "tropius",
 		"price": 892,
 		"category": "Animals",
 		"defname": "PW_Tropius"
-	},
-	{
-		"abr": "trout",
-		"price": 203,
-		"category": "Animals",
-		"defname": "BiomesIslands_Trout"
-	},
-	{
-		"abr": "troutegg(fert.)",
-		"price": 51,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggTroutFertilized"
 	},
 	{
 		"abr": "t-seriestacticaldroid",
@@ -22787,18 +20843,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_OR_TacticalDroid"
-	},
-	{
-		"abr": "tuna",
-		"price": 500,
-		"category": "Animals",
-		"defname": "BiomesIslands_Tuna"
-	},
-	{
-		"abr": "tunaegg(fert.)",
-		"price": 61,
-		"category": "Eggs (fert.)",
-		"defname": "BiomesIslands_EggTunaFertilized"
 	},
 	{
 		"abr": "turkeymeat",
@@ -22831,40 +20875,10 @@
 		"defname": "O21_OR_TuskenRobes"
 	},
 	{
-		"abr": "tuskenvibrostaff",
-		"price": 21717,
-		"category": "Melee weapons",
-		"defname": "PJ_TStaff"
-	},
-	{
-		"abr": "twilek",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Twilek"
-	},
-	{
 		"abr": "twi'lek",
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_OR_Twilek"
-	},
-	{
-		"abr": "twilekculturalgarb",
-		"price": 136,
-		"category": "Apparel",
-		"defname": "Apparel_TwilekA"
-	},
-	{
-		"abr": "twilekleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_twilek"
-	},
-	{
-		"abr": "twilekmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alien_Twilek"
 	},
 	{
 		"abr": "typhlosion",
@@ -22939,18 +20953,6 @@
 		"defname": "Meat_TzitziYaKu"
 	},
 	{
-		"abr": "uintatherium",
-		"price": 1575,
-		"category": "Animals",
-		"defname": "Uintatherium"
-	},
-	{
-		"abr": "uintatheriummeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Uintatherium"
-	},
-	{
 		"abr": "ultraballbelt",
 		"price": 1200,
 		"category": "Poké Ball belts",
@@ -22985,12 +20987,6 @@
 		"price": 2133,
 		"category": "Skill books",
 		"defname": "UnfinishedArcane"
-	},
-	{
-		"abr": "uniformpants",
-		"price": 209,
-		"category": "Apparel",
-		"defname": "PJ_Apparel_Pants"
 	},
 	{
 		"abr": "unown",
@@ -23033,12 +21029,6 @@
 		"price": 50,
 		"category": "Manufactured",
 		"defname": "RepairKitAT"
-	},
-	{
-		"abr": "uplinkmodule",
-		"price": 96,
-		"category": "Misc",
-		"defname": "VFE_MechanoidUplink"
 	},
 	{
 		"abr": "uraniumfuelpod",
@@ -23245,30 +21235,6 @@
 		"defname": "PW_Vibrava"
 	},
 	{
-		"abr": "vibrodouble-blade",
-		"price": 4850,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibrodouble"
-	},
-	{
-		"abr": "vibroscythe",
-		"price": 5017,
-		"category": "Melee weapons",
-		"defname": "PJ_VScythe"
-	},
-	{
-		"abr": "vibroaxe",
-		"price": 4683,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibroaxe"
-	},
-	{
-		"abr": "vibrostaff",
-		"price": 20900,
-		"category": "Melee weapons",
-		"defname": "PJ_StaffX"
-	},
-	{
 		"abr": "victreebel",
 		"price": 925,
 		"category": "Animals",
@@ -23449,12 +21415,6 @@
 		"defname": "PW_Walrein"
 	},
 	{
-		"abr": "walrusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Gomphotaria"
-	},
-	{
 		"abr": "wandoffire",
 		"price": 792,
 		"category": "Magic foci",
@@ -23495,18 +21455,6 @@
 		"price": 3025,
 		"category": "Scrolls",
 		"defname": "SpellOf_PsychicShock"
-	},
-	{
-		"abr": "warriorbug",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Arachnid_WarriorBug"
-	},
-	{
-		"abr": "warriorbug",
-		"price": 232,
-		"category": "Animal",
-		"defname": "Arachnid_WarriorBugHive"
 	},
 	{
 		"abr": "wartortle",
@@ -23585,18 +21533,6 @@
 		"price": 1042,
 		"category": "Ranged weapons",
 		"defname": "O21_OR_WESTAR35Blaster"
-	},
-	{
-		"abr": "whale",
-		"price": 3000,
-		"category": "Animals",
-		"defname": "BiomesIslands_Whale"
-	},
-	{
-		"abr": "whaleskin",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "BiomesIslands_Leather_Whaleskin"
 	},
 	{
 		"abr": "whiscash",
@@ -23719,12 +21655,6 @@
 		"defname": "BenchWoolLoom"
 	},
 	{
-		"abr": "woollymammoth",
-		"price": 2333,
-		"category": "Animals",
-		"defname": "WoollyMammoth"
-	},
-	{
 		"abr": "wooper",
 		"price": 425,
 		"category": "Animals",
@@ -23797,12 +21727,6 @@
 		"defname": "PW_Yanmega"
 	},
 	{
-		"abr": "yellowflightsuit",
-		"price": 164,
-		"category": "Apparel",
-		"defname": "PJ_GenFlight_Y"
-	},
-	{
 		"abr": "yiankut-kuegg",
 		"price": 35,
 		"category": "Eggs (fert.)",
@@ -23861,12 +21785,6 @@
 		"price": 1042,
 		"category": "Ranged weapons",
 		"defname": "O21_OR_Z6RotaryBlaster"
-	},
-	{
-		"abr": "zabrak",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Zabrak"
 	},
 	{
 		"abr": "zamtrios",
@@ -23953,18 +21871,6 @@
 		"defname": "PW_Zubat"
 	},
 	{
-		"abr": "zygolophodon",
-		"price": 3008,
-		"category": "Animals",
-		"defname": "Zygolophodon"
-	},
-	{
-		"abr": "zygolophodontusk",
-		"price": 1725,
-		"category": "Items",
-		"defname": "ZygolophodonTusk"
-	},
-	{
 		"abr": "abyssalpearl",
 		"price": 1400,
 		"category": "Manufactured",
@@ -24049,120 +21955,6 @@
 		"defname": "MoyoMedicine"
 	},
 	{
-		"abr": "cartelarbalest",
-		"price": 2600,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CartelLongRifle"
-	},
-	{
-		"abr": "cartelbalisticarmor",
-		"price": 1892,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CBsuit"
-	},
-	{
-		"abr": "cartelbalistichelmet",
-		"price": 1575,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_CBhelmet"
-	},
-	{
-		"abr": "cartelcarbine",
-		"price": 1733,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CarteCarbine"
-	},
-	{
-		"abr": "cartelcombatknife",
-		"price": 2483,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_CombatKnife"
-	},
-	{
-		"abr": "cartelcompositesuit",
-		"price": 4183,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Cartelsuit"
-	},
-	{
-		"abr": "cartelencryptedcomponent",
-		"price": 833,
-		"category": "Manufactured",
-		"defname": "Cartel_AdvancedMachine"
-	},
-	{
-		"abr": "cartelexecutionerhelmet",
-		"price": 1592,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_CEhelmet"
-	},
-	{
-		"abr": "cartelexecutionersuit",
-		"price": 5650,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CEsuit"
-	},
-	{
-		"abr": "cartelexecutivecoata",
-		"price": 1342,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CartelRobeA"
-	},
-	{
-		"abr": "cartelexecutivecoatb",
-		"price": 1342,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CartelRobeB"
-	},
-	{
-		"abr": "cartelexecutivesuit",
-		"price": 1442,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CartelRoyalsuit"
-	},
-	{
-		"abr": "cartelhandcannon",
-		"price": 1533,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CartelRevolver"
-	},
-	{
-		"abr": "cartelhoodedcloak",
-		"price": 1650,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CartelStrikerHood"
-	},
-	{
-		"abr": "cartelpersonavibroedge",
-		"price": 4942,
-		"category": "Persona weapons",
-		"defname": "Moyo_PersonaKatana"
-	},
-	{
-		"abr": "cartelsidearm",
-		"price": 3092,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CartelPistol"
-	},
-	{
-		"abr": "cartelstrikergear",
-		"price": 2650,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_CSgear"
-	},
-	{
-		"abr": "cartelstrikerhelmet",
-		"price": 1092,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_CShelmet"
-	},
-	{
-		"abr": "cartelvibroedge",
-		"price": 3542,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Katana"
-	},
-	{
 		"abr": "clear-azure",
 		"price": 116,
 		"category": "Drugs",
@@ -24197,42 +21989,6 @@
 		"price": 114,
 		"category": "Drugs",
 		"defname": "DetoxerCobalt"
-	},
-	{
-		"abr": "drugsynthesisstation:blueburst",
-		"price": 7925,
-		"category": "Misc",
-		"defname": "Cartel_AutoSynthesys_BlueBurst"
-	},
-	{
-		"abr": "drugsynthesisstation:clear-azure",
-		"price": 8900,
-		"category": "Misc",
-		"defname": "Cartel_AutoSynthesys_Clensazure"
-	},
-	{
-		"abr": "drugsynthesisstation:detoxer-cobalt",
-		"price": 8608,
-		"category": "Misc",
-		"defname": "Cartel_AutoSynthesys_DetoxerCobalt"
-	},
-	{
-		"abr": "drugsynthesisstation:penoxy-blue",
-		"price": 9033,
-		"category": "Misc",
-		"defname": "Cartel_AutoSynthesys_PenoxyBlue"
-	},
-	{
-		"abr": "drugsynthesisstation:regene-blue",
-		"price": 7108,
-		"category": "Misc",
-		"defname": "Cartel_AutoSynthesys_BlueMed"
-	},
-	{
-		"abr": "drugsynthesisstation:sustainer-lapis",
-		"price": 7792,
-		"category": "Misc",
-		"defname": "Cartel_AutoSynthesys_SustainerLapis"
 	},
 	{
 		"abr": "ectoplasm",
@@ -26767,54 +24523,6 @@
 		"defname": "Gun_OrassanGrenadeLauncher"
 	},
 	{
-		"abr": "giantstartortoise",
-		"price": 592,
-		"category": "Animals",
-		"defname": "ZTT_GiantStarTortoise"
-	},
-	{
-		"abr": "giantstartortoiseegg(fert.)",
-		"price": 57,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggGiantStarTortoiseFertilized"
-	},
-	{
-		"abr": "mudturtle",
-		"price": 333,
-		"category": "Animals",
-		"defname": "ZTT_MudTurtle"
-	},
-	{
-		"abr": "mudturtleegg(fert.)",
-		"price": 39,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggMudTurtleFertilized"
-	},
-	{
-		"abr": "paintedsnapvineturtle",
-		"price": 400,
-		"category": "Animals",
-		"defname": "ZTT_PaintedSnapvine"
-	},
-	{
-		"abr": "paintedsnapvineturtleegg(fert.)",
-		"price": 38,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggPaintedSnapvineFertilized"
-	},
-	{
-		"abr": "cartelsmg",
-		"price": 1733,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CartelSMGa"
-	},
-	{
-		"abr": "flippers",
-		"price": 189,
-		"category": "Handwear and footwear",
-		"defname": "BMT_Apparel_Flippers"
-	},
-	{
 		"abr": "gastropodskin",
 		"price": 3,
 		"category": "Leathers",
@@ -26831,66 +24539,6 @@
 		"price": 7,
 		"category": "Leathers",
 		"defname": "BMT_Molluscashell"
-	},
-	{
-		"abr": "plasturtle",
-		"price": 2042,
-		"category": "Animals",
-		"defname": "ZTT_Plasturtle"
-	},
-	{
-		"abr": "plasturtleegg(fert.)",
-		"price": 57,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggPlasturtleFertilized"
-	},
-	{
-		"abr": "sandshellturtle",
-		"price": 433,
-		"category": "Animals",
-		"defname": "ZTT_SandshellTurtle"
-	},
-	{
-		"abr": "sandshellturtleegg(fert.)",
-		"price": 44,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggSandshellTurtleFertilized"
-	},
-	{
-		"abr": "steelshell",
-		"price": 1117,
-		"category": "Animals",
-		"defname": "ZTT_Steelshell"
-	},
-	{
-		"abr": "steelshellegg(fert.)",
-		"price": 46,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggSteelshellFertilized"
-	},
-	{
-		"abr": "toughback",
-		"price": 933,
-		"category": "Animals",
-		"defname": "ZTT_Toughback"
-	},
-	{
-		"abr": "toughbackegg(fert.)",
-		"price": 59,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggToughbackFertilized"
-	},
-	{
-		"abr": "wiggleneckturtle",
-		"price": 433,
-		"category": "Animals",
-		"defname": "ZTT_WiggleneckTurtle"
-	},
-	{
-		"abr": "wiggleneckturtleegg(fert.)",
-		"price": 53,
-		"category": "Eggs (fert.)",
-		"defname": "ZTT_EggWiggleneckTurtleFertilized"
 	},
 	{
 		"abr": "apron",
@@ -27019,18 +24667,6 @@
 		"defname": "VAE_Apparel_LabCoat"
 	},
 	{
-		"abr": "mendingkit",
-		"price": 15,
-		"category": "Manufactured",
-		"defname": "MendingKit"
-	},
-	{
-		"abr": "mendingworkbench",
-		"price": 2450,
-		"category": "Production",
-		"defname": "TableMending"
-	},
-	{
 		"abr": "militaryberet",
 		"price": 77,
 		"category": "Headgear",
@@ -27053,12 +24689,6 @@
 		"price": 1508,
 		"category": "Bionic",
 		"defname": "Nr_BioCatTail"
-	},
-	{
-		"abr": "braincrystal",
-		"price": 33,
-		"category": "Drugs",
-		"defname": "RB_Braincrystal"
 	},
 	{
 		"abr": "cathoodie",
@@ -27163,24 +24793,6 @@
 		"defname": "Nr_MiniSword"
 	},
 	{
-		"abr": "moonmachiningtable",
-		"price": 3833,
-		"category": "Production",
-		"defname": "RB_MoonTableMachining"
-	},
-	{
-		"abr": "moontailorbench",
-		"price": 1708,
-		"category": "Production",
-		"defname": "RB_MoonTailoringBench"
-	},
-	{
-		"abr": "moonthread",
-		"price": 8,
-		"category": "Textiles",
-		"defname": "Moonthread"
-	},
-	{
 		"abr": "n.p.crifle",
 		"price": 1292,
 		"category": "Nyaron ranged weapons",
@@ -27259,268 +24871,10 @@
 		"defname": "VAE_Apparel_PeltCoat"
 	},
 	{
-		"abr": "planetarium",
-		"price": 100,
-		"category": "Drugs",
-		"defname": "RefinedPlanetarium"
-	},
-	{
-		"abr": "planetariumtea",
-		"price": 100,
-		"category": "Drugs",
-		"defname": "PlanetariumTea"
-	},
-	{
 		"abr": "plasmsword",
 		"price": 1667,
 		"category": "Special melee weapons",
 		"defname": "Nr_PlasmSword"
-	},
-	{
-		"abr": "rabbie",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Rabbie"
-	},
-	{
-		"abr": "rabbieblazer",
-		"price": 330,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Blazer"
-	},
-	{
-		"abr": "rabbiecamisole",
-		"price": 39,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Camisole"
-	},
-	{
-		"abr": "rabbiecasualtshirts",
-		"price": 286,
-		"category": "Rabbie Apparel",
-		"defname": "RB_CasualTshirt"
-	},
-	{
-		"abr": "rabbiecommandercap",
-		"price": 383,
-		"category": "Rabbie Apparel",
-		"defname": "RB_SeniorOfficerhat"
-	},
-	{
-		"abr": "rabbiecommandercloak",
-		"price": 508,
-		"category": "Rabbie Apparel",
-		"defname": "RB_HighCloak"
-	},
-	{
-		"abr": "rabbiecommanderuniform",
-		"price": 875,
-		"category": "Rabbie Apparel",
-		"defname": "RB_SeniorOfficer"
-	},
-	{
-		"abr": "rabbiecooktuque",
-		"price": 206,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Cookhat"
-	},
-	{
-		"abr": "rabbiecookwear",
-		"price": 750,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Cookwear"
-	},
-	{
-		"abr": "rabbiedept.energygown",
-		"price": 500,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Energygown"
-	},
-	{
-		"abr": "rabbiedept.energysplyuniform",
-		"price": 625,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Energymanager"
-	},
-	{
-		"abr": "rabbiedoctorgown",
-		"price": 508,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Inteligown"
-	},
-	{
-		"abr": "rabbieearhoodjacket",
-		"price": 392,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Earjacket"
-	},
-	{
-		"abr": "rabbiefashionhat",
-		"price": 113,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Fashionhat"
-	},
-	{
-		"abr": "rabbiefieldarmyflakvest",
-		"price": 2000,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantryvest"
-	},
-	{
-		"abr": "rabbiefieldarmyhelmet",
-		"price": 1775,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Infantryhelmet"
-	},
-	{
-		"abr": "rabbiefieldarmysuittypea",
-		"price": 1825,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantryuniform"
-	},
-	{
-		"abr": "rabbiefieldarmysuittypeb",
-		"price": 1825,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantrynewuniform"
-	},
-	{
-		"abr": "rabbiehairribbon",
-		"price": 59,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Headribbon"
-	},
-	{
-		"abr": "rabbiehandyapron",
-		"price": 209,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Apron"
-	},
-	{
-		"abr": "rabbieintelliglasses",
-		"price": 105,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Glasses"
-	},
-	{
-		"abr": "rabbiemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rabbie"
-	},
-	{
-		"abr": "rabbiemetalpot",
-		"price": 62,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Metalpot"
-	},
-	{
-		"abr": "rabbienecktieshirts",
-		"price": 342,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Casualtieshirt"
-	},
-	{
-		"abr": "rabbieofficerberet",
-		"price": 259,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Subofficerhat"
-	},
-	{
-		"abr": "rabbieofficeruniform",
-		"price": 633,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Subofficer"
-	},
-	{
-		"abr": "rabbiepdw",
-		"price": 2317,
-		"category": "Ranged weapons",
-		"defname": "RB_F_PDW"
-	},
-	{
-		"abr": "rabbieregularamrypowerhelmet",
-		"price": 1517,
-		"category": "Rabbie Headgear",
-		"defname": "RB_RegularInfantryhelmet"
-	},
-	{
-		"abr": "rabbieregulararmypowerarmor",
-		"price": 3975,
-		"category": "Rabbie Apparel",
-		"defname": "RB_RegularInfantrySuit"
-	},
-	{
-		"abr": "rabbieribbonshirts",
-		"price": 342,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Casualribbonshirt"
-	},
-	{
-		"abr": "rabbiesafehelmet",
-		"price": 131,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Safehelmet"
-	},
-	{
-		"abr": "rabbiestarjacket",
-		"price": 392,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Starjacket"
-	},
-	{
-		"abr": "rabbiesummercardigan",
-		"price": 683,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Summerouter"
-	},
-	{
-		"abr": "rabbiesummerhat",
-		"price": 238,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Summerhat"
-	},
-	{
-		"abr": "rabbiesummerfit",
-		"price": 342,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Summerfit"
-	},
-	{
-		"abr": "rabbietechnicianjumpsuit",
-		"price": 533,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Technician"
-	},
-	{
-		"abr": "rabbiewinterflockhat",
-		"price": 110,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Winterhat"
-	},
-	{
-		"abr": "rabbiewintermuffler",
-		"price": 130,
-		"category": "Rabbie Headgear",
-		"defname": "RB_Neckscarf"
-	},
-	{
-		"abr": "rabbiewinterparka",
-		"price": 425,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Winterouter"
-	},
-	{
-		"abr": "rabbiewintersweater",
-		"price": 375,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Winterknit"
-	},
-	{
-		"abr": "rabbieworkergirlwear",
-		"price": 533,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Handygirl"
 	},
 	{
 		"abr": "raspberries",
@@ -27553,204 +24907,6 @@
 		"defname": "RM_ReinforcedCoilRifle"
 	},
 	{
-		"abr": "aethericcarbine",
-		"price": 2292,
-		"category": "Ranged weapons",
-		"defname": "ARR_Carbine"
-	},
-	{
-		"abr": "aethericcompositebow",
-		"price": 140,
-		"category": "Ranged weapons",
-		"defname": "ARR_CompositeBow"
-	},
-	{
-		"abr": "aethericcooler",
-		"price": 107,
-		"category": "A Rim Reborn",
-		"defname": "ARR_AethericCooler"
-	},
-	{
-		"abr": "aethericcraftingtable",
-		"price": 383,
-		"category": "Production",
-		"defname": "ARR_AetherCraftTable"
-	},
-	{
-		"abr": "aethericcraftingtable(linked)",
-		"price": 1750,
-		"category": "Production",
-		"defname": "ARR_AetherCraftTableLinked"
-	},
-	{
-		"abr": "aethericdoublepistol",
-		"price": 1517,
-		"category": "Ranged weapons",
-		"defname": "ARR_DoublePistol"
-	},
-	{
-		"abr": "aethericfalchion",
-		"price": 280,
-		"category": "Melee weapons",
-		"defname": "ARR_Falchion"
-	},
-	{
-		"abr": "aethericheater",
-		"price": 133,
-		"category": "A Rim Reborn",
-		"defname": "ARR_AethericHeater"
-	},
-	{
-		"abr": "aethericicecooler",
-		"price": 159,
-		"category": "A Rim Reborn",
-		"defname": "ARR_AethericIceCooler"
-	},
-	{
-		"abr": "aethericlink",
-		"price": 1625,
-		"category": "Misc",
-		"defname": "ARR_AethericLink"
-	},
-	{
-		"abr": "aethericlongbow",
-		"price": 167,
-		"category": "Ranged weapons",
-		"defname": "ARR_LongBow"
-	},
-	{
-		"abr": "aethericmachiningtable",
-		"price": 3917,
-		"category": "Production",
-		"defname": "ARR_AetherMachineTable"
-	},
-	{
-		"abr": "aethericpreptable",
-		"price": 330,
-		"category": "Production",
-		"defname": "ARR_AetherPrepTable"
-	},
-	{
-		"abr": "aethericpreptable(linked)",
-		"price": 383,
-		"category": "Production",
-		"defname": "ARR_AetherPrepTableLinked"
-	},
-	{
-		"abr": "aethericspear",
-		"price": 367,
-		"category": "Melee weapons",
-		"defname": "ARR_Spear"
-	},
-	{
-		"abr": "aetherictailoringtable",
-		"price": 383,
-		"category": "Production",
-		"defname": "ARR_AetherTailorTable"
-	},
-	{
-		"abr": "aetherictailoringtable(linked)",
-		"price": 1750,
-		"category": "Production",
-		"defname": "ARR_AetherTailorTableLinked"
-	},
-	{
-		"abr": "aethericthermostat",
-		"price": 1633,
-		"category": "A Rim Reborn",
-		"defname": "ARR_AethericThermostat"
-	},
-	{
-		"abr": "aethericzweihander",
-		"price": 483,
-		"category": "Melee weapons",
-		"defname": "ARR_Zweihander"
-	},
-	{
-		"abr": "aetheryte",
-		"price": 8033,
-		"category": "Misc",
-		"defname": "ARR_Aetheryte"
-	},
-	{
-		"abr": "alastair",
-		"price": 15,
-		"category": "Foods",
-		"defname": "RG-TF_Alastair"
-	},
-	{
-		"abr": "alchemicalmedicine",
-		"price": 27,
-		"category": "Medicine",
-		"defname": "ARR_MedicineAlchemical"
-	},
-	{
-		"abr": "aldenardbelladonna",
-		"price": 3,
-		"category": "Alchemical herbs",
-		"defname": "ARR_Belladonna"
-	},
-	{
-		"abr": "ancientpowerpole",
-		"price": 46,
-		"category": "Misc",
-		"defname": "RG-W_AncientPowerPole"
-	},
-	{
-		"abr": "animapendant",
-		"price": 125,
-		"category": "Utility",
-		"defname": "ARR_AnimaPendant"
-	},
-	{
-		"abr": "arcticdrak",
-		"price": 3083,
-		"category": "Animals",
-		"defname": "RG_ArcticDrak"
-	},
-	{
-		"abr": "arcticdrakmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_ArcticDrak"
-	},
-	{
-		"abr": "arcticluizicus",
-		"price": 2667,
-		"category": "Animals",
-		"defname": "RG_ArcticLuizicus"
-	},
-	{
-		"abr": "arcticluizicus(fert.)",
-		"price": 158,
-		"category": "Eggs (fert.)",
-		"defname": "RG_ArcticLuizicusEggFertilized"
-	},
-	{
-		"abr": "arcticluizicus(unfert.)",
-		"price": 158,
-		"category": "Eggs (fert.)",
-		"defname": "RG_ArcticLuizicusEggUnfertilized"
-	},
-	{
-		"abr": "arcticluizicusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_ArcticLuizicus"
-	},
-	{
-		"abr": "arcticluizicuswool",
-		"price": 11,
-		"category": "Wools",
-		"defname": "RG_ArcticLuizicusWool"
-	},
-	{
-		"abr": "bearmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandBear"
-	},
-	{
 		"abr": "bionicrodianantenna",
 		"price": 817,
 		"category": "Bionic",
@@ -27761,12 +24917,6 @@
 		"price": 817,
 		"category": "Bionic",
 		"defname": "StarWarsRaces_Twilek_BionicLekku"
-	},
-	{
-		"abr": "celestialaccumulator",
-		"price": 642,
-		"category": "Misc",
-		"defname": "ARR_CelestialAccumulator"
 	},
 	{
 		"abr": "clothrodianantenna",
@@ -27785,114 +24935,6 @@
 		"price": 136,
 		"category": "Prosthetic",
 		"defname": "StarWarsRaces_Twilek_ProstheticLekku"
-	},
-	{
-		"abr": "crystalsand",
-		"price": 27,
-		"category": "Crystals",
-		"defname": "ARR_CrystalSand"
-	},
-	{
-		"abr": "cuirass",
-		"price": 327,
-		"category": "Armor",
-		"defname": "ARR_LeatherCuirass"
-	},
-	{
-		"abr": "cuirass",
-		"price": 350,
-		"category": "Armor",
-		"defname": "ARR_MetalCuirass"
-	},
-	{
-		"abr": "deathsuperacidifier",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "VESWW_DeathSuperAcidifier"
-	},
-	{
-		"abr": "deathclaw",
-		"price": 4167,
-		"category": "Animals",
-		"defname": "RG-WF_WastelandDeathclaw"
-	},
-	{
-		"abr": "deathclawegg(fert.)",
-		"price": 208,
-		"category": "Eggs (fert.)",
-		"defname": "RG-WF_DeathclawEggFertilized"
-	},
-	{
-		"abr": "destroyedapc",
-		"price": 7525,
-		"category": "Misc",
-		"defname": "RG-W_APCWreck"
-	},
-	{
-		"abr": "destroyedtank",
-		"price": 18717,
-		"category": "Misc",
-		"defname": "RG-W_TankWreck"
-	},
-	{
-		"abr": "dodo",
-		"price": 533,
-		"category": "Animals",
-		"defname": "RG_Dodo"
-	},
-	{
-		"abr": "dodoegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_DodoEggFertilized"
-	},
-	{
-		"abr": "dodoegg(unfert.)",
-		"price": 58,
-		"category": "Eggs (unfert.)",
-		"defname": "RG_DodoEggUnfertilized"
-	},
-	{
-		"abr": "dragonfruits",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RG-D_RawDragonFruits"
-	},
-	{
-		"abr": "drakegg(fert.)",
-		"price": 158,
-		"category": "Eggs (fert.)",
-		"defname": "RG_DrakEggFertilized"
-	},
-	{
-		"abr": "drakegg(unfert.)",
-		"price": 158,
-		"category": "Eggs (fert.)",
-		"defname": "RG_DrakEggUnfertilized"
-	},
-	{
-		"abr": "earthcrystal",
-		"price": 1,
-		"category": "Crystals",
-		"defname": "ARR_EarthCrystal"
-	},
-	{
-		"abr": "electricaccumulator",
-		"price": 1642,
-		"category": "Misc",
-		"defname": "ARR_ElectricalAccumulator"
-	},
-	{
-		"abr": "eorzeanknife",
-		"price": 118,
-		"category": "Melee weapons",
-		"defname": "ARR_Knife"
-	},
-	{
-		"abr": "eorzeanseedstock",
-		"price": 153,
-		"category": "A Rim Reborn",
-		"defname": "ARR_SeedStock"
 	},
 	{
 		"abr": "ewok",
@@ -27919,100 +24961,10 @@
 		"defname": "StarWarsRaces_Ewok_Parka"
 	},
 	{
-		"abr": "firecrystal",
-		"price": 1,
-		"category": "Crystals",
-		"defname": "ARR_FireCrystal"
-	},
-	{
-		"abr": "geothermalaccumulator",
-		"price": 642,
-		"category": "Misc",
-		"defname": "ARR_GeothermalAccumulator"
-	},
-	{
-		"abr": "gilbun",
-		"price": 2,
-		"category": "Alchemical herbs",
-		"defname": "ARR_GilBun"
-	},
-	{
-		"abr": "gladefloorlamp",
-		"price": 80,
-		"category": "A Rim Reborn",
-		"defname": "ARR_FloorLampGlade"
-	},
-	{
-		"abr": "glamouredduster",
-		"price": 331,
-		"category": "A Rim Reborn",
-		"defname": "ARR_DusterGlamoured"
-	},
-	{
-		"abr": "glamouredjacket",
-		"price": 271,
-		"category": "A Rim Reborn",
-		"defname": "ARR_JacketGlamoured"
-	},
-	{
-		"abr": "glamouredparka",
-		"price": 310,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ParkaGlamoured"
-	},
-	{
-		"abr": "glamouredpothelm",
-		"price": 144,
-		"category": "Headwear",
-		"defname": "ARR_PotHelmGlamoured"
-	},
-	{
-		"abr": "glamouredsallet",
-		"price": 169,
-		"category": "Headwear",
-		"defname": "ARR_SalletGlamoured"
-	},
-	{
-		"abr": "hauberk",
-		"price": 558,
-		"category": "Armor",
-		"defname": "ARR_Hauberk"
-	},
-	{
-		"abr": "hi-potion",
-		"price": 133,
-		"category": "Potions",
-		"defname": "ARR_PotionHi"
-	},
-	{
 		"abr": "humanlikeleather",
 		"price": 7,
 		"category": "Leathers",
 		"defname": "StarWarsRaces_Leather_Humanlike"
-	},
-	{
-		"abr": "iceaccumulator",
-		"price": 258,
-		"category": "Misc",
-		"defname": "ARR_IceAccumulator"
-	},
-	{
-		"abr": "icecrystal",
-		"price": 1,
-		"category": "Crystals",
-		"defname": "ARR_IceCrystal"
-	},
-	{
-		"abr": "infusedanimapendant",
-		"price": 211,
-		"category": "Utility",
-		"defname": "ARR_AnimaPendantInfused"
-	},
-	{
-		"abr": "knitcap",
-		"price": 73,
-		"category": "Headwear",
-		"defname": "ARR_KnitCap"
 	},
 	{
 		"abr": "lekku",
@@ -28025,156 +24977,6 @@
 		"price": 417,
 		"category": "Natural",
 		"defname": "StarWarsRaces_Twilek_Thing_Lekku"
-	},
-	{
-		"abr": "lightningaccumulator",
-		"price": 258,
-		"category": "Misc",
-		"defname": "ARR_LightningAccumulator"
-	},
-	{
-		"abr": "lightningcrystal",
-		"price": 1,
-		"category": "Crystals",
-		"defname": "ARR_LightningCrystal"
-	},
-	{
-		"abr": "lightninggenerator",
-		"price": 1642,
-		"category": "A Rim Reborn",
-		"defname": "ARR_LightningGenerator"
-	},
-	{
-		"abr": "mammothmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_WoollyMammoth"
-	},
-	{
-		"abr": "mammothtusk",
-		"price": 133,
-		"category": "Items",
-		"defname": "RG_WoollyMammothTusk"
-	},
-	{
-		"abr": "matron'smistletoe",
-		"price": 3,
-		"category": "Alchemical herbs",
-		"defname": "ARR_Mistletoe"
-	},
-	{
-		"abr": "megalenhydris",
-		"price": 450,
-		"category": "Animals",
-		"defname": "RG_Megalenhydris"
-	},
-	{
-		"abr": "megalenhydrismeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_Megalenhydris"
-	},
-	{
-		"abr": "mutatedbear",
-		"price": 1333,
-		"category": "Animals",
-		"defname": "RG-WF_WastelandBear"
-	},
-	{
-		"abr": "mutatedbeaver",
-		"price": 917,
-		"category": "Animals",
-		"defname": "RG-WF_WastelandBeaver"
-	},
-	{
-		"abr": "mutatedbeavermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandBeaver"
-	},
-	{
-		"abr": "mutatedsquirrel",
-		"price": 50,
-		"category": "Animals",
-		"defname": "RG-WF_WastelandSquirrel"
-	},
-	{
-		"abr": "mutatedsquirrelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandSquirrel"
-	},
-	{
-		"abr": "pointedhat",
-		"price": 112,
-		"category": "Headwear",
-		"defname": "ARR_PointedHat"
-	},
-	{
-		"abr": "pothelm",
-		"price": 144,
-		"category": "Headwear",
-		"defname": "ARR_PotHelm"
-	},
-	{
-		"abr": "potion",
-		"price": 83,
-		"category": "Potions",
-		"defname": "ARR_Potion"
-	},
-	{
-		"abr": "potionbelt",
-		"price": 74,
-		"category": "Utility",
-		"defname": "ARR_PotionBelt"
-	},
-	{
-		"abr": "potionofdexterity",
-		"price": 133,
-		"category": "Potions",
-		"defname": "ARR_PotionDexterity"
-	},
-	{
-		"abr": "potionofstrength",
-		"price": 133,
-		"category": "Potions",
-		"defname": "ARR_PotionStrength"
-	},
-	{
-		"abr": "potionofvitality",
-		"price": 133,
-		"category": "Potions",
-		"defname": "ARR_PotionVitality"
-	},
-	{
-		"abr": "protoceratidae",
-		"price": 583,
-		"category": "Animals",
-		"defname": "RG_Protoceratidae"
-	},
-	{
-		"abr": "raptormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_Velociraptor"
-	},
-	{
-		"abr": "rimclawmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandDeathclaw"
-	},
-	{
-		"abr": "rimstag",
-		"price": 242,
-		"category": "Animals",
-		"defname": "RG-WF_WastelandDeer"
-	},
-	{
-		"abr": "riverafloorlamp",
-		"price": 80,
-		"category": "A Rim Reborn",
-		"defname": "ARR_FloorLampRiviera"
 	},
 	{
 		"abr": "rodian",
@@ -28199,24 +25001,6 @@
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_StarWarsRaces_Rodian"
-	},
-	{
-		"abr": "sabertoothsquirrel",
-		"price": 450,
-		"category": "Animals",
-		"defname": "RG_SabertoothSquirrel"
-	},
-	{
-		"abr": "sabertoothsquirrelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_SabertoothSquirrel"
-	},
-	{
-		"abr": "sallet",
-		"price": 169,
-		"category": "Headwear",
-		"defname": "ARR_Sallet"
 	},
 	{
 		"abr": "scarf",
@@ -28255,12 +25039,6 @@
 		"defname": "VAE_Apparel_Shorts"
 	},
 	{
-		"abr": "shroudlavender",
-		"price": 2,
-		"category": "Alchemical herbs",
-		"defname": "ARR_Lavender"
-	},
-	{
 		"abr": "skirt",
 		"price": 142,
 		"category": "Apparel",
@@ -28271,12 +25049,6 @@
 		"price": 5000,
 		"category": "Special",
 		"defname": "RM_Droid_SpartanBase"
-	},
-	{
-		"abr": "stegosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_WoollyStegosaurus"
 	},
 	{
 		"abr": "suitjacket",
@@ -28309,42 +25081,6 @@
 		"defname": "VAE_Apparel_TankTop"
 	},
 	{
-		"abr": "terrorbird",
-		"price": 2000,
-		"category": "Animals",
-		"defname": "RG_TerrorBird"
-	},
-	{
-		"abr": "terrorbirdegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_EggTerrorBirdFertilized"
-	},
-	{
-		"abr": "terrorbirdegg(unfert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_EggTerrorBirdUnfertilized"
-	},
-	{
-		"abr": "thrinaxodon",
-		"price": 200,
-		"category": "Animals",
-		"defname": "RG_Thrinaxodon"
-	},
-	{
-		"abr": "thrinaxodonegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_ThrinaxodonEggFertilized"
-	},
-	{
-		"abr": "thrinaxodonegg(unfert.)",
-		"price": 58,
-		"category": "Eggs (unfert.)",
-		"defname": "RG_ThrinaxodonEggUnfertilized"
-	},
-	{
 		"abr": "togruta",
 		"price": -10,
 		"category": "Animal",
@@ -28357,28 +25093,10 @@
 		"defname": "Meat_StarWarsRaces_Togruta"
 	},
 	{
-		"abr": "toxicbarrel",
-		"price": 98,
-		"category": "Misc",
-		"defname": "RG-W_ToxicBarrel"
-	},
-	{
-		"abr": "toxicsign",
-		"price": 36,
-		"category": "Misc",
-		"defname": "RG-W_ToxicSign"
-	},
-	{
 		"abr": "trapperhat",
 		"price": 130,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_TrapperHat"
-	},
-	{
-		"abr": "travelrations",
-		"price": 30,
-		"category": "Meals",
-		"defname": "ARR_MealTravel"
 	},
 	{
 		"abr": "tribalkilt",
@@ -28459,42 +25177,6 @@
 		"defname": "RM_VanometricMechanoidCell"
 	},
 	{
-		"abr": "velociraptor",
-		"price": 3333,
-		"category": "Animals",
-		"defname": "RG_Velociraptor"
-	},
-	{
-		"abr": "velociraptoregg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_EggVelociraptorFertilized"
-	},
-	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_Protoceratidae"
-	},
-	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandDeer"
-	},
-	{
-		"abr": "wateraccumulator",
-		"price": 258,
-		"category": "Misc",
-		"defname": "ARR_WaterAccumulator"
-	},
-	{
-		"abr": "watercrystal",
-		"price": 1,
-		"category": "Crystals",
-		"defname": "ARR_WaterCrystal"
-	},
-	{
 		"abr": "weathercontrolchip",
 		"price": 867,
 		"category": "Manufactured",
@@ -28505,24 +25187,6 @@
 		"price": 3708,
 		"category": "Misc",
 		"defname": "RM_WeatherController"
-	},
-	{
-		"abr": "windaccumulator",
-		"price": 258,
-		"category": "Misc",
-		"defname": "ARR_WindAccumulator"
-	},
-	{
-		"abr": "windcrystal",
-		"price": 1,
-		"category": "Crystals",
-		"defname": "ARR_WindCrystal"
-	},
-	{
-		"abr": "windtrap",
-		"price": 2725,
-		"category": "Misc",
-		"defname": "Planetariumrefinery"
 	},
 	{
 		"abr": "wookiee",
@@ -28543,54 +25207,6 @@
 		"defname": "Meat_StarWarsRaces_Wookiee"
 	},
 	{
-		"abr": "woollymammoth",
-		"price": 2167,
-		"category": "Animals",
-		"defname": "RG_WoollyMammoth"
-	},
-	{
-		"abr": "woollyrhinoceros",
-		"price": 1833,
-		"category": "Animals",
-		"defname": "RG_WoollyRhinoceros"
-	},
-	{
-		"abr": "woollyrhinocerosmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG_WoollyRhinoceros"
-	},
-	{
-		"abr": "woollyrhinoceroswool",
-		"price": 11,
-		"category": "Wools",
-		"defname": "RG_WoollyRhinocerosWool"
-	},
-	{
-		"abr": "woollystegosaurus",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "RG_WoollyStegosaurus"
-	},
-	{
-		"abr": "woollystegosauruswool",
-		"price": 11,
-		"category": "Wools",
-		"defname": "RG_WoollyStegosaurusWool"
-	},
-	{
-		"abr": "woollystegosaurus(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_EggWoollyStegosaurusFertilized"
-	},
-	{
-		"abr": "woollystegosaurus(unfert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG_EggWoollyStegosaurusUnfertilized"
-	},
-	{
 		"abr": "xeushammer",
 		"price": 1667,
 		"category": "Special melee weapons",
@@ -28609,18 +25225,6 @@
 		"defname": "Zombrella"
 	},
 	{
-		"abr": "달비단",
-		"price": 20,
-		"category": "Textiles",
-		"defname": "Moonsilk"
-	},
-	{
-		"abr": "생체공학래비꼬리",
-		"price": 1508,
-		"category": "Bionic",
-		"defname": "RB_BionicTail"
-	},
-	{
 		"abr": "aberrantfleshbeast",
 		"price": 17,
 		"category": "Animals",
@@ -28631,12 +25235,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_GR_AberrantFleshbeast"
-	},
-	{
-		"abr": "agepills",
-		"price": 100,
-		"category": "Drugs",
-		"defname": "GR_AgePills"
 	},
 	{
 		"abr": "almonds",
@@ -28993,12 +25591,6 @@
 		"defname": "GR_Toilet"
 	},
 	{
-		"abr": "animalimplant:animalmindcontroller",
-		"price": 250,
-		"category": "Hybrid implants",
-		"defname": "GR_AnimalControlImplant"
-	},
-	{
 		"abr": "animalimplant:bearleg",
 		"price": 417,
 		"category": "Hybrid implants",
@@ -29239,12 +25831,6 @@
 		"defname": "GR_AvianGenetic"
 	},
 	{
-		"abr": "aviangenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_AvianGenetrainer"
-	},
-	{
 		"abr": "avianparagon",
 		"price": 250,
 		"category": "Animals",
@@ -29407,12 +25993,6 @@
 		"defname": "GR_BoomalopeGenetic"
 	},
 	{
-		"abr": "boomgenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_BoomGenetrainer"
-	},
-	{
 		"abr": "boomabear",
 		"price": 625,
 		"category": "Animals",
@@ -29479,12 +26059,6 @@
 		"defname": "GR_Boomhorse"
 	},
 	{
-		"abr": "boomnotherium",
-		"price": 2667,
-		"category": "Animals",
-		"defname": "GR_Boomnotherium"
-	},
-	{
 		"abr": "boom-pustuletrap",
 		"price": 8,
 		"category": "Security",
@@ -29537,12 +26111,6 @@
 		"price": 17,
 		"category": "Genetic materials (tier 1)",
 		"defname": "GR_CanineGenetic"
-	},
-	{
-		"abr": "caninegenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_CanineGenetrainer"
 	},
 	{
 		"abr": "canineparagon",
@@ -29731,24 +26299,6 @@
 		"defname": "GR_ChickenlizardEggUnfertilized"
 	},
 	{
-		"abr": "chickenlodon",
-		"price": 2000,
-		"category": "Animals",
-		"defname": "GR_Chickenlodon"
-	},
-	{
-		"abr": "chickenlodonegg(fert.)",
-		"price": 33,
-		"category": "Eggs (fert.)",
-		"defname": "GR_ChickenlodonEggFertilized"
-	},
-	{
-		"abr": "chickenlodonegg(unfert.)",
-		"price": 33,
-		"category": "Eggs (unfert.)",
-		"defname": "GR_ChickenlodonEggUnfertilized"
-	},
-	{
 		"abr": "chickenlope",
 		"price": 158,
 		"category": "Animals",
@@ -29839,12 +26389,6 @@
 		"defname": "VCE_RawChickpeas"
 	},
 	{
-		"abr": "chitine",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Chitine"
-	},
-	{
 		"abr": "coconuts",
 		"price": 2,
 		"category": "Raw fruits",
@@ -29855,12 +26399,6 @@
 		"price": 1667,
 		"category": "Genetic materials (tiers 2 and 3)",
 		"defname": "GR_ThrumboGenetic"
-	},
-	{
-		"abr": "colossalgenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_ColossalGenetrainer"
 	},
 	{
 		"abr": "colossalparagon",
@@ -29891,12 +26429,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawCucumber"
-	},
-	{
-		"abr": "darkelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_DarkElf"
 	},
 	{
 		"abr": "deepchem",
@@ -29971,40 +26503,10 @@
 		"defname": "MH_RugLarge_Dodogama"
 	},
 	{
-		"abr": "doedicoon",
-		"price": 333,
-		"category": "Animals",
-		"defname": "GR_Doedicoon"
-	},
-	{
 		"abr": "dogman",
 		"price": 667,
 		"category": "Animals",
 		"defname": "GR_Dogman"
-	},
-	{
-		"abr": "dwarf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Dwarf"
-	},
-	{
-		"abr": "elasmobearium",
-		"price": 2167,
-		"category": "Animals",
-		"defname": "GR_Elasmobearium"
-	},
-	{
-		"abr": "elderbrain",
-		"price": 16667,
-		"category": "Manufactured",
-		"defname": "O21_FR_Item_ElderBrain"
-	},
-	{
-		"abr": "elderbrainpool",
-		"price": 17283,
-		"category": "Misc",
-		"defname": "O21_FR_Building_ElderBrainPool"
 	},
 	{
 		"abr": "electrowomb",
@@ -30017,12 +26519,6 @@
 		"price": 417,
 		"category": "Genetic materials (tiers 2 and 3)",
 		"defname": "GR_EquineGenetic"
-	},
-	{
-		"abr": "equinegenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_EquineGenetrainer"
 	},
 	{
 		"abr": "equineparagon",
@@ -30043,12 +26539,6 @@
 		"defname": "GR_FelineGenetic"
 	},
 	{
-		"abr": "felinegenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_FelineGenetrainer"
-	},
-	{
 		"abr": "felineparagon",
 		"price": 1417,
 		"category": "Animals",
@@ -30059,12 +26549,6 @@
 		"price": 47,
 		"category": "Boosters",
 		"defname": "GR_BoosterFertility"
-	},
-	{
-		"abr": "firbolg",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Firbolg"
 	},
 	{
 		"abr": "fleshflies",
@@ -30109,18 +26593,6 @@
 		"defname": "MH_RugMedium_Gastodon"
 	},
 	{
-		"abr": "genderselector:female",
-		"price": 47,
-		"category": "Boosters",
-		"defname": "GR_GenderSelector_Female"
-	},
-	{
-		"abr": "genderselector:male",
-		"price": 47,
-		"category": "Boosters",
-		"defname": "GR_GenderSelector_Male"
-	},
-	{
 		"abr": "gendromerug",
 		"price": 425,
 		"category": "Art",
@@ -30131,12 +26603,6 @@
 		"price": 1658,
 		"category": "Production",
 		"defname": "GR_GeneticsTinkeringTable"
-	},
-	{
-		"abr": "genetrainerbench",
-		"price": 1008,
-		"category": "Production",
-		"defname": "GR_GenetrainerBench"
 	},
 	{
 		"abr": "genoframe(awful)",
@@ -30217,34 +26683,16 @@
 		"defname": "MH_RugMedium_Girros"
 	},
 	{
-		"abr": "gith",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Gith"
-	},
-	{
 		"abr": "glavenusrug",
 		"price": 1733,
 		"category": "Art",
 		"defname": "MH_RugLarge_Glavenus"
 	},
 	{
-		"abr": "goblin",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Goblin"
-	},
-	{
 		"abr": "greenbeans",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawBeans"
-	},
-	{
-		"abr": "greenmilk",
-		"price": 5,
-		"category": "Animal products",
-		"defname": "GR_GreenMilk"
 	},
 	{
 		"abr": "groundffalo",
@@ -30265,28 +26713,10 @@
 		"defname": "GR_WolffaloMilk"
 	},
 	{
-		"abr": "halfling",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Halfling"
-	},
-	{
-		"abr": "half-orc",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_HalfOrc"
-	},
-	{
 		"abr": "harmonobooster",
 		"price": 20,
 		"category": "Boosters",
 		"defname": "GR_BoosterHarmono"
-	},
-	{
-		"abr": "hobgoblin",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Hobgoblin"
 	},
 	{
 		"abr": "hugebearpelt",
@@ -30463,12 +26893,6 @@
 		"defname": "GR_WolfMuscularFibers"
 	},
 	{
-		"abr": "humanoidbrain",
-		"price": 200,
-		"category": "Natural",
-		"defname": "O21_FR_Illithid_HumanoidBrain"
-	},
-	{
 		"abr": "humanoidgenome",
 		"price": 17,
 		"category": "Genetic materials (tier 1)",
@@ -30505,12 +26929,6 @@
 		"defname": "GR_HybridSilk"
 	},
 	{
-		"abr": "illithid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Illithid"
-	},
-	{
 		"abr": "immunobooster",
 		"price": 33,
 		"category": "Boosters",
@@ -30529,30 +26947,6 @@
 		"defname": "GR_ImprovedController"
 	},
 	{
-		"abr": "improvedcontrollerwithattackmodule",
-		"price": 583,
-		"category": "Boosters",
-		"defname": "GR_ControllerAttackBooster"
-	},
-	{
-		"abr": "improvedcontrollerwithdefendmodule",
-		"price": 583,
-		"category": "Boosters",
-		"defname": "GR_ControllerDefendBooster"
-	},
-	{
-		"abr": "improvedgenderselector:female",
-		"price": 83,
-		"category": "Boosters",
-		"defname": "GR_GenderSelectorMajor_Female"
-	},
-	{
-		"abr": "improvedgenderselector:male",
-		"price": 83,
-		"category": "Boosters",
-		"defname": "GR_GenderSelectorMajor_Male"
-	},
-	{
 		"abr": "improvedharmonobooster",
 		"price": 50,
 		"category": "Boosters",
@@ -30569,12 +26963,6 @@
 		"price": 417,
 		"category": "Genetic materials (tiers 2 and 3)",
 		"defname": "GR_InsectoidGenetic"
-	},
-	{
-		"abr": "insectoidgenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_InsectoidGenetrainer"
 	},
 	{
 		"abr": "insectoidparagon",
@@ -30601,22 +26989,10 @@
 		"defname": "MH_RugMedium_Kestodon"
 	},
 	{
-		"abr": "killoren",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Killoren"
-	},
-	{
 		"abr": "kirinrug",
 		"price": 2042,
 		"category": "Art",
 		"defname": "MH_RugMedium_Kirin"
-	},
-	{
-		"abr": "kobold",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Kobold"
 	},
 	{
 		"abr": "kuluya-kurug",
@@ -30671,12 +27047,6 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "GR_Lizardman"
-	},
-	{
-		"abr": "lizardochs",
-		"price": 1500,
-		"category": "Animals",
-		"defname": "GR_Lizardochs"
 	},
 	{
 		"abr": "loosecables",
@@ -30749,24 +27119,6 @@
 		"price": 333,
 		"category": "Animals",
 		"defname": "GR_Mansquirrel"
-	},
-	{
-		"abr": "mantistanis",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "GR_Mantistanis"
-	},
-	{
-		"abr": "mantistanisegg(fert.)",
-		"price": 33,
-		"category": "Eggs (fert.)",
-		"defname": "GR_MantistanisEggFertilized"
-	},
-	{
-		"abr": "mantistanisegg(unfert.)",
-		"price": 33,
-		"category": "Eggs (unfert.)",
-		"defname": "GR_MantistanisEggUnfertilized"
 	},
 	{
 		"abr": "manwolf",
@@ -30913,18 +27265,6 @@
 		"defname": "GR_Mechawolf"
 	},
 	{
-		"abr": "megafaunagenome",
-		"price": 417,
-		"category": "Genetic materials (tiers 2 and 3)",
-		"defname": "GR_MegafaunaGenetic"
-	},
-	{
-		"abr": "megafaunagenomeexcavator",
-		"price": 167,
-		"category": "Genome excavators",
-		"defname": "GR_MegafaunaGenomeExcavator"
-	},
-	{
 		"abr": "melons",
 		"price": 2,
 		"category": "Raw fruits",
@@ -30955,22 +27295,10 @@
 		"defname": "GR_Moleman"
 	},
 	{
-		"abr": "moonelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_MoonElf"
-	},
-	{
 		"abr": "muffalogenome",
 		"price": 17,
 		"category": "Genetic materials (tier 1)",
 		"defname": "GR_MuffaloGenetic"
-	},
-	{
-		"abr": "muffalogenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_MuffaloGenetrainer"
 	},
 	{
 		"abr": "muffaloparagon",
@@ -31129,28 +27457,10 @@
 		"defname": "VCE_RawOlives"
 	},
 	{
-		"abr": "orc",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Orc"
-	},
-	{
 		"abr": "paolumurug",
 		"price": 1067,
 		"category": "Art",
 		"defname": "MH_RugLarge_Paolumu"
-	},
-	{
-		"abr": "paraceramuffalo",
-		"price": 5833,
-		"category": "Animals",
-		"defname": "GR_Paraceramuffalo"
-	},
-	{
-		"abr": "paraceramuffalomilk",
-		"price": 5,
-		"category": "Animal products",
-		"defname": "GR_ParaMilk"
 	},
 	{
 		"abr": "parasaurolope",
@@ -31303,12 +27613,6 @@
 		"defname": "GR_ReptileGenetic"
 	},
 	{
-		"abr": "reptilegenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_ReptileGenetrainer"
-	},
-	{
 		"abr": "reptileparagon",
 		"price": 333,
 		"category": "Animals",
@@ -31325,12 +27629,6 @@
 		"price": 60,
 		"category": "Eggs (unfert.)",
 		"defname": "GR_ParagonIguanaEggUnfertilized"
-	},
-	{
-		"abr": "rodentgenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_RodentGenetrainer"
 	},
 	{
 		"abr": "rodentparagon",
@@ -31453,12 +27751,6 @@
 		"defname": "GR_StegothrumboEggUnfertilized"
 	},
 	{
-		"abr": "sunelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_SunElf"
-	},
-	{
 		"abr": "sunflowerseeds",
 		"price": 2,
 		"category": "Vegetarian",
@@ -31469,12 +27761,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawSweetPotatoes"
-	},
-	{
-		"abr": "tabaxi",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Tabaxi"
 	},
 	{
 		"abr": "taroroots",
@@ -31573,12 +27859,6 @@
 		"defname": "GR_Thrumbospider"
 	},
 	{
-		"abr": "thrumdraeodon",
-		"price": 3333,
-		"category": "Animals",
-		"defname": "GR_Thrumdraeodon"
-	},
-	{
 		"abr": "thrumffalo",
 		"price": 5833,
 		"category": "Animals",
@@ -31601,12 +27881,6 @@
 		"price": 4167,
 		"category": "Animals",
 		"defname": "GR_Thrumwolf"
-	},
-	{
-		"abr": "tiefling",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Tiefling"
 	},
 	{
 		"abr": "tigrexrug",
@@ -31675,12 +27949,6 @@
 		"defname": "GR_UrsineGenetic"
 	},
 	{
-		"abr": "ursinegenomegenetrainer",
-		"price": 167,
-		"category": "Genetrainers",
-		"defname": "GR_UrsineGenetrainer"
-	},
-	{
 		"abr": "ursineparagon",
 		"price": 1833,
 		"category": "Animals",
@@ -31721,12 +27989,6 @@
 		"price": 33,
 		"category": "Eggs (unfert.)",
 		"defname": "GR_VelociwolfEggUnfertilized"
-	},
-	{
-		"abr": "warforged",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_Warforged"
 	},
 	{
 		"abr": "waterchestnuts",
@@ -31831,18 +28093,6 @@
 		"defname": "GR_Wolfsnake"
 	},
 	{
-		"abr": "woodelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "O21_FR_WoodElf"
-	},
-	{
-		"abr": "woolywolf",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "GR_WoolyWolf"
-	},
-	{
 		"abr": "yellowbellpeppers",
 		"price": 2,
 		"category": "Vegetarian",
@@ -31865,90 +28115,6 @@
 		"price": 1733,
 		"category": "Art",
 		"defname": "MH_RugLarge_Zinogre"
-	},
-	{
-		"abr": "zombieextract",
-		"price": 17,
-		"category": "Serum",
-		"defname": "ZombieExtract"
-	},
-	{
-		"abr": "zombiemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Zombie"
-	},
-	{
-		"abr": "zombieserum10%",
-		"price": 200,
-		"category": "Serum",
-		"defname": "Zombie10Serum"
-	},
-	{
-		"abr": "zombieserum100%",
-		"price": 200,
-		"category": "Serum",
-		"defname": "ZombieSerumSimple"
-	},
-	{
-		"abr": "zombieserum100%",
-		"price": 2000,
-		"category": "Serum",
-		"defname": "Zombie100Serum"
-	},
-	{
-		"abr": "zombieserum20%",
-		"price": 400,
-		"category": "Serum",
-		"defname": "Zombie20Serum"
-	},
-	{
-		"abr": "zombieserum30%",
-		"price": 600,
-		"category": "Serum",
-		"defname": "Zombie30Serum"
-	},
-	{
-		"abr": "zombieserum40%",
-		"price": 800,
-		"category": "Serum",
-		"defname": "Zombie40Serum"
-	},
-	{
-		"abr": "zombieserum50%",
-		"price": 1000,
-		"category": "Serum",
-		"defname": "Zombie50Serum"
-	},
-	{
-		"abr": "zombieserum60%",
-		"price": 1200,
-		"category": "Serum",
-		"defname": "Zombie60Serum"
-	},
-	{
-		"abr": "zombieserum70%",
-		"price": 1400,
-		"category": "Serum",
-		"defname": "Zombie70Serum"
-	},
-	{
-		"abr": "zombieserum80%",
-		"price": 1600,
-		"category": "Serum",
-		"defname": "Zombie80Serum"
-	},
-	{
-		"abr": "zombieserum90%",
-		"price": 1800,
-		"category": "Serum",
-		"defname": "Zombie90Serum"
-	},
-	{
-		"abr": "zombieshocker",
-		"price": 433,
-		"category": "Misc",
-		"defname": "ZombieShocker"
 	},
 	{
 		"abr": "brutemauler",
@@ -32731,18 +28897,6 @@
 		"defname": "Ship_RepArquitensClassLightCruiser_Top"
 	},
 	{
-		"abr": "ceilingsurveillancecamera",
-		"price": 251,
-		"category": "Security",
-		"defname": "SurveillanceCamera_UnderRoof"
-	},
-	{
-		"abr": "centralcameraconsole",
-		"price": 642,
-		"category": "Misc",
-		"defname": "CameraConsole"
-	},
-	{
 		"abr": "chargerc70retrofitback",
 		"price": 900,
 		"category": "Corellian ship parts",
@@ -33445,42 +29599,6 @@
 		"defname": "Ship_ImpGozantiClassCruiser_RightB"
 	},
 	{
-		"abr": "groundsurveillancecamera",
-		"price": 267,
-		"category": "Security",
-		"defname": "SurveillanceCamera_Ground"
-	},
-	{
-		"abr": "inspectorchicken",
-		"price": 102,
-		"category": "Security",
-		"defname": "InspectorChicken"
-	},
-	{
-		"abr": "inspectorhare",
-		"price": 102,
-		"category": "Security",
-		"defname": "InspectorHare"
-	},
-	{
-		"abr": "inspectormonkey",
-		"price": 102,
-		"category": "Security",
-		"defname": "InspectorMonkey"
-	},
-	{
-		"abr": "inspectorrat",
-		"price": 102,
-		"category": "Security",
-		"defname": "InspectorRat"
-	},
-	{
-		"abr": "inspectorsquirrel",
-		"price": 102,
-		"category": "Security",
-		"defname": "InspectorSquirrel"
-	},
-	{
 		"abr": "ipv2cstealthcorvetteback",
 		"price": 4775,
 		"category": "Corellian ship parts",
@@ -33515,12 +29633,6 @@
 		"price": 983,
 		"category": "Corellian ship parts",
 		"defname": "Ship_IPV2StealthCorvette_Side"
-	},
-	{
-		"abr": "largesecuritybell",
-		"price": 33,
-		"category": "Security",
-		"defname": "SecurityBell"
 	},
 	{
 		"abr": "lasercannon(cr90corvette)",
@@ -33696,3672 +29808,6 @@
 		"category": "Misc",
 		"defname": "CEC_ShipTurretBase_LaserCannonC"
 	},
-	{
-		"abr": "selfsustainedsurveillancecamera",
-		"price": 408,
-		"category": "Security",
-		"defname": "SurveillanceCamera_Solar"
-	},
-	{
-		"abr": "smallsecuritybell",
-		"price": 18,
-		"category": "Security",
-		"defname": "SecurityBellSmall"
-	},
-	{
-		"abr": "spartanlaser",
-		"price": 92,
-		"category": "Manufactured",
-		"defname": "rce_SpartanLaserAmmo"
-	},
-	{
-		"abr": "sphyrna-classcorvetteendright",
-		"price": 1517,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_EndRight"
-	},
-	{
-		"abr": "sphyrna-classcorvetteengine1",
-		"price": 2717,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_EngineA"
-	},
-	{
-		"abr": "sphyrna-classcorvetteengine2",
-		"price": 2717,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_EngineB"
-	},
-	{
-		"abr": "sphyrna-classcorvetteengine3",
-		"price": 2717,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_EngineC"
-	},
-	{
-		"abr": "sphyrna-classcorvetteengineblock",
-		"price": 38975,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_EngineBlock"
-	},
-	{
-		"abr": "sphyrna-classcorvettefront",
-		"price": 4158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_Front"
-	},
-	{
-		"abr": "sphyrna-classcorvettefrontleft",
-		"price": 4158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_FrontLeft"
-	},
-	{
-		"abr": "sphyrna-classcorvettefrontright",
-		"price": 4158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_FrontRight"
-	},
-	{
-		"abr": "sphyrna-classcorvettesideendleft",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_SideEndLeft"
-	},
-	{
-		"abr": "sphyrna-classcorvettesideendright",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_SideEndRight"
-	},
-	{
-		"abr": "sphyrna-classcorvettesidefrontleft",
-		"price": 2225,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_SideFrontLeft"
-	},
-	{
-		"abr": "sphyrna-classcorvettesidefrontright",
-		"price": 2225,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_SideFrontRight"
-	},
-	{
-		"abr": "sphyrna-classcorvettesideleft",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_SideLeft"
-	},
-	{
-		"abr": "sphyrna-classcorvettesideright",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_SideRight"
-	},
-	{
-		"abr": "sphyrna-classcorvetteturretback",
-		"price": 808,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_TurretBack"
-	},
-	{
-		"abr": "sphyrna-classcorvetteturretright",
-		"price": 6575,
-		"category": "Corellian ship parts",
-		"defname": "Ship_SphyrnaClassCorvette_TurretRight"
-	},
-	{
-		"abr": "spnkrrocket",
-		"price": 92,
-		"category": "Manufactured",
-		"defname": "rce_RocketAmmo"
-	},
-	{
-		"abr": "surveillancecamerainabush",
-		"price": 333,
-		"category": "Security",
-		"defname": "SurveillanceCamera_Bush"
-	},
-	{
-		"abr": "surveillancecamerainadeadbush",
-		"price": 333,
-		"category": "Security",
-		"defname": "SurveillanceCamera_DeadBush"
-	},
-	{
-		"abr": "surveillancecamerapost",
-		"price": 700,
-		"category": "Security",
-		"defname": "SurveillanceCamera_High"
-	},
-	{
-		"abr": "torpedolauncher(dp20frigate)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TorpedoAL"
-	},
-	{
-		"abr": "torpedolauncher(dp20frigate)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TorpedoAR"
-	},
-	{
-		"abr": "torpedolauncher(ipv2cstealthcorvette)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TorpedoB"
-	},
-	{
-		"abr": "torpedolauncher(tiebomber)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TorpedoC"
-	},
-	{
-		"abr": "twolasercannons(tiefighter)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_LaserCannonTIE"
-	},
-	{
-		"abr": "unscassaultriffle",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "rce_assaultRifle_ce"
-	},
-	{
-		"abr": "unscassemblystation",
-		"price": 1075,
-		"category": "Production",
-		"defname": "rce_UNSCWorkbench"
-	},
-	{
-		"abr": "unscbattlerifle",
-		"price": 958,
-		"category": "Ranged weapons",
-		"defname": "rce_battleRifle"
-	},
-	{
-		"abr": "unscchainshotgun",
-		"price": 775,
-		"category": "Ranged weapons",
-		"defname": "rce_shotgun_bulldog"
-	},
-	{
-		"abr": "unsccombatknife",
-		"price": 550,
-		"category": "Melee weapons",
-		"defname": "rce_CombatKnife"
-	},
-	{
-		"abr": "unsccombatpistol",
-		"price": 458,
-		"category": "Ranged weapons",
-		"defname": "rce_sidekickPistol"
-	},
-	{
-		"abr": "unsccrewuniform",
-		"price": 290,
-		"category": "Apparel",
-		"defname": "rce_UNSCUniformCrew"
-	},
-	{
-		"abr": "unscdmr",
-		"price": 775,
-		"category": "Ranged weapons",
-		"defname": "rce_dmr"
-	},
-	{
-		"abr": "unscgrenadelauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "rce_grenadeLauncher"
-	},
-	{
-		"abr": "unscheavyassaultrifle",
-		"price": 958,
-		"category": "Ranged weapons",
-		"defname": "rce_Commando"
-	},
-	{
-		"abr": "unscheavybarricade",
-		"price": 1125,
-		"category": "Misc",
-		"defname": "rce_UNSCHeavyBarricade"
-	},
-	{
-		"abr": "unscheavymachinegun",
-		"price": 1133,
-		"category": "Security",
-		"defname": "rce_HMGTurret"
-	},
-	{
-		"abr": "unscheavymagnum",
-		"price": 525,
-		"category": "Ranged weapons",
-		"defname": "rce_heavyMagnum"
-	},
-	{
-		"abr": "unsclightbarricade",
-		"price": 375,
-		"category": "Misc",
-		"defname": "rce_UNSCLightBarricade"
-	},
-	{
-		"abr": "unsclightmagnum",
-		"price": 458,
-		"category": "Ranged weapons",
-		"defname": "rce_lightMagnum"
-	},
-	{
-		"abr": "unscmarinearmormk1",
-		"price": 767,
-		"category": "Apparel",
-		"defname": "rce_UNSCArmorCE"
-	},
-	{
-		"abr": "unscmarinearmormk2",
-		"price": 967,
-		"category": "Apparel",
-		"defname": "rce_UNSCArmorMarine"
-	},
-	{
-		"abr": "unscmarinebackpack",
-		"price": 222,
-		"category": "Utility",
-		"defname": "rce_MarineBackpack"
-	},
-	{
-		"abr": "unscmarinehelmetmk1",
-		"price": 592,
-		"category": "Headgear",
-		"defname": "rce_UNSCHelmetCE"
-	},
-	{
-		"abr": "unscmarinehelmetmk2",
-		"price": 842,
-		"category": "Headgear",
-		"defname": "rce_UNSCHelmetMarine"
-	},
-	{
-		"abr": "unscmarinehelmetmk2(visor)",
-		"price": 842,
-		"category": "Headgear",
-		"defname": "rce_UNSCHelmetMarineVisor"
-	},
-	{
-		"abr": "unscmisslepodlauncher",
-		"price": 1133,
-		"category": "Security",
-		"defname": "rce_MisslePodTurret"
-	},
-	{
-		"abr": "unscrocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "rce_rocketLauncher"
-	},
-	{
-		"abr": "unscshotgun",
-		"price": 775,
-		"category": "Ranged weapons",
-		"defname": "rce_shotgun_ce"
-	},
-	{
-		"abr": "unscsmg",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "rce_smg"
-	},
-	{
-		"abr": "unscsmg",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "rce_smgSilenced"
-	},
-	{
-		"abr": "unscsniperrifle",
-		"price": 1317,
-		"category": "Ranged weapons",
-		"defname": "rce_sniperRifle"
-	},
-	{
-		"abr": "unscspartanlaser",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "rce_SpartanLaser"
-	},
-	{
-		"abr": "venator-classstardestroyerback",
-		"price": 14033,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_Back"
-	},
-	{
-		"abr": "venator-classstardestroyerbackleft1",
-		"price": 35358,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_BackLeftA"
-	},
-	{
-		"abr": "venator-classstardestroyerbackleft2",
-		"price": 10333,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_BackLeftB"
-	},
-	{
-		"abr": "venator-classstardestroyerbackright1",
-		"price": 35358,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_BackRightA"
-	},
-	{
-		"abr": "venator-classstardestroyerbackright2",
-		"price": 10333,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_BackRightB"
-	},
-	{
-		"abr": "venator-classstardestroyerengineblockleft1",
-		"price": 14558,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineBlockLeftA"
-	},
-	{
-		"abr": "venator-classstardestroyerengineblockleft2",
-		"price": 18442,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineBlockLeftB"
-	},
-	{
-		"abr": "venator-classstardestroyerengineblockright1",
-		"price": 14558,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineBlockRightA"
-	},
-	{
-		"abr": "venator-classstardestroyerengineblockright2",
-		"price": 18442,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineBlockRightB"
-	},
-	{
-		"abr": "venator-classstardestroyerengineleft1",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineLA"
-	},
-	{
-		"abr": "venator-classstardestroyerengineright1",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineRA"
-	},
-	{
-		"abr": "venator-classstardestroyerfront",
-		"price": 6008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_Front"
-	},
-	{
-		"abr": "venator-classstardestroyerfrontleft1",
-		"price": 5042,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_FrontLeftA"
-	},
-	{
-		"abr": "venator-classstardestroyerfrontleft2",
-		"price": 5750,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_FrontLeftB"
-	},
-	{
-		"abr": "venator-classstardestroyerfrontleft3",
-		"price": 12183,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_FrontLeftC"
-	},
-	{
-		"abr": "venator-classstardestroyerfrontright1",
-		"price": 5042,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_FrontRightA"
-	},
-	{
-		"abr": "venator-classstardestroyerfrontright2",
-		"price": 5750,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_FrontRightB"
-	},
-	{
-		"abr": "venator-classstardestroyerfrontright3",
-		"price": 12183,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_FrontRightC"
-	},
-	{
-		"abr": "venator-classstardestroyerleft2",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineLB"
-	},
-	{
-		"abr": "venator-classstardestroyerright2",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_EngineRB"
-	},
-	{
-		"abr": "venator-classstardestroyersideleft1",
-		"price": 13417,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideLeftA"
-	},
-	{
-		"abr": "venator-classstardestroyersideleft2",
-		"price": 5392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideLeftB"
-	},
-	{
-		"abr": "venator-classstardestroyersideleft3",
-		"price": 5750,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideLeftC"
-	},
-	{
-		"abr": "venator-classstardestroyersideleft4",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideLeftD"
-	},
-	{
-		"abr": "venator-classstardestroyersideleft5",
-		"price": 2575,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideLeftE"
-	},
-	{
-		"abr": "venator-classstardestroyersideright1",
-		"price": 13417,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideRightA"
-	},
-	{
-		"abr": "venator-classstardestroyersideright2",
-		"price": 5392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideRightB"
-	},
-	{
-		"abr": "venator-classstardestroyersideright3",
-		"price": 5750,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideRightC"
-	},
-	{
-		"abr": "venator-classstardestroyersideright4",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideRightD"
-	},
-	{
-		"abr": "venator-classstardestroyersideright5",
-		"price": 2575,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_SideRightE"
-	},
-	{
-		"abr": "venator-classstardestroyertop",
-		"price": 1783,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VenatorClassStarDestroyer_Top"
-	},
-	{
-		"abr": "wallmountedsurveillancecamera",
-		"price": 182,
-		"category": "Security",
-		"defname": "SurveillanceCamera_Mounted"
-	},
-	{
-		"abr": "watchtelescope",
-		"price": 261,
-		"category": "Security",
-		"defname": "WatchTelescope"
-	},
-	{
-		"abr": "duallasercannon(raider-classcorvette)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_LaserCannonH"
-	},
-	{
-		"abr": "dualturbolaser(gladiator-classstardestroyer)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserN"
-	},
-	{
-		"abr": "dualturbolaser(onager-classstardestroyer)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserO"
-	},
-	{
-		"abr": "gladiator-classstardestroyerback",
-		"price": 5042,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_Back"
-	},
-	{
-		"abr": "gladiator-classstardestroyerbackleft1",
-		"price": 11917,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_BackLeftA"
-	},
-	{
-		"abr": "gladiator-classstardestroyerbackleft2",
-		"price": 7600,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_BackLeftB"
-	},
-	{
-		"abr": "gladiator-classstardestroyerbackright1",
-		"price": 11917,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_BackRightA"
-	},
-	{
-		"abr": "gladiator-classstardestroyerbackright2",
-		"price": 7600,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_BackRightB"
-	},
-	{
-		"abr": "gladiator-classstardestroyerengineleft",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_EngineL"
-	},
-	{
-		"abr": "gladiator-classstardestroyerengineright",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_EngineR"
-	},
-	{
-		"abr": "gladiator-classstardestroyerfrontleft1",
-		"price": 34917,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_FrontLeftA"
-	},
-	{
-		"abr": "gladiator-classstardestroyerfrontleft2",
-		"price": 7158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_FrontLeftB"
-	},
-	{
-		"abr": "gladiator-classstardestroyerfrontleft3",
-		"price": 6625,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_FrontLeftC"
-	},
-	{
-		"abr": "gladiator-classstardestroyerfrontright1",
-		"price": 34917,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_FrontRightA"
-	},
-	{
-		"abr": "gladiator-classstardestroyerfrontright2",
-		"price": 7158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_FrontRightB"
-	},
-	{
-		"abr": "gladiator-classstardestroyerfrontright3",
-		"price": 6625,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_FrontRightC"
-	},
-	{
-		"abr": "gladiator-classstardestroyersideleft1",
-		"price": 26725,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_SideLeftA"
-	},
-	{
-		"abr": "gladiator-classstardestroyersideleft2",
-		"price": 30925,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_SideLeftB"
-	},
-	{
-		"abr": "gladiator-classstardestroyersideright1",
-		"price": 26725,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_SideRightA"
-	},
-	{
-		"abr": "gladiator-classstardestroyersideright2",
-		"price": 30925,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_SideRightB"
-	},
-	{
-		"abr": "gladiator-classstardestroyertop",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_GladiatorClassStarDestroyer_Top"
-	},
-	{
-		"abr": "imperial-classstardestroyerback",
-		"price": 9183,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_Back"
-	},
-	{
-		"abr": "imperial-classstardestroyerbackleft1",
-		"price": 15267,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_BackLeftA"
-	},
-	{
-		"abr": "imperial-classstardestroyerbackleft2",
-		"price": 6100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_BackLeftB"
-	},
-	{
-		"abr": "imperial-classstardestroyerbackleft3",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_BackLeftC"
-	},
-	{
-		"abr": "imperial-classstardestroyerbackright1",
-		"price": 15267,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_BackRightA"
-	},
-	{
-		"abr": "imperial-classstardestroyerbackright2",
-		"price": 6100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_BackRightB"
-	},
-	{
-		"abr": "imperial-classstardestroyerbackright3",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_BackRightC"
-	},
-	{
-		"abr": "imperial-classstardestroyerengine",
-		"price": 6508,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_Engine"
-	},
-	{
-		"abr": "imperial-classstardestroyerengineleft",
-		"price": 6508,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_EngineL"
-	},
-	{
-		"abr": "imperial-classstardestroyerengineright",
-		"price": 6508,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_EngineR"
-	},
-	{
-		"abr": "imperial-classstardestroyerfront",
-		"price": 16942,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_Front"
-	},
-	{
-		"abr": "imperial-classstardestroyerfrontleft1",
-		"price": 7067,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_FrontLeftA"
-	},
-	{
-		"abr": "imperial-classstardestroyerfrontleft2",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_FrontLeftB"
-	},
-	{
-		"abr": "imperial-classstardestroyerfrontleft3",
-		"price": 21608,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_FrontLeftC"
-	},
-	{
-		"abr": "imperial-classstardestroyerfrontright1",
-		"price": 7067,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_FrontRightA"
-	},
-	{
-		"abr": "imperial-classstardestroyerfrontright2",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_FrontRightB"
-	},
-	{
-		"abr": "imperial-classstardestroyerfrontright3",
-		"price": 21608,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_FrontRightC"
-	},
-	{
-		"abr": "imperial-classstardestroyersideleft1",
-		"price": 13858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideLeftA"
-	},
-	{
-		"abr": "imperial-classstardestroyersideleft2",
-		"price": 1275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideLeftB"
-	},
-	{
-		"abr": "imperial-classstardestroyersideleft3",
-		"price": 1275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideLeftC"
-	},
-	{
-		"abr": "imperial-classstardestroyersideleft4",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideLeftD"
-	},
-	{
-		"abr": "imperial-classstardestroyersideright1",
-		"price": 13858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideRightA"
-	},
-	{
-		"abr": "imperial-classstardestroyersideright2",
-		"price": 1275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideRightB"
-	},
-	{
-		"abr": "imperial-classstardestroyersideright3",
-		"price": 1275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideRightC"
-	},
-	{
-		"abr": "imperial-classstardestroyersideright4",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_SideRightD"
-	},
-	{
-		"abr": "imperial-classstardestroyertop",
-		"price": 4158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImperialClassStarDestroyer_Top"
-	},
-	{
-		"abr": "magneticfieldairlock",
-		"price": 500,
-		"category": "Misc",
-		"defname": "CEC_MagneticShieldDoor"
-	},
-	{
-		"abr": "magneticfieldfloor",
-		"price": 9042,
-		"category": "Misc",
-		"defname": "CEC_HangarFloor"
-	},
-	{
-		"abr": "onager-classstardestroyerback",
-		"price": 7508,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_Back"
-	},
-	{
-		"abr": "onager-classstardestroyerbackleft1",
-		"price": 9275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_BackLeftA"
-	},
-	{
-		"abr": "onager-classstardestroyerbackleft2",
-		"price": 11033,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_BackLeftB"
-	},
-	{
-		"abr": "onager-classstardestroyerbackleft3",
-		"price": 35658,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_BackLeftC"
-	},
-	{
-		"abr": "onager-classstardestroyerbackright1",
-		"price": 9275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_BackRightA"
-	},
-	{
-		"abr": "onager-classstardestroyerbackright2",
-		"price": 11033,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_BackRightB"
-	},
-	{
-		"abr": "onager-classstardestroyerbackright3",
-		"price": 35658,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_BackRightC"
-	},
-	{
-		"abr": "onager-classstardestroyerengineleft",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_EngineL"
-	},
-	{
-		"abr": "onager-classstardestroyerengineright",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_EngineR"
-	},
-	{
-		"abr": "onager-classstardestroyersideleft1",
-		"price": 18792,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideLeftA"
-	},
-	{
-		"abr": "onager-classstardestroyersideleft2",
-		"price": 23725,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideLeftB"
-	},
-	{
-		"abr": "onager-classstardestroyersideleft3",
-		"price": 17117,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideLeftC"
-	},
-	{
-		"abr": "onager-classstardestroyersideleft4",
-		"price": 14033,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideLeftD"
-	},
-	{
-		"abr": "onager-classstardestroyersideright1",
-		"price": 18792,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideRightA"
-	},
-	{
-		"abr": "onager-classstardestroyersideright2",
-		"price": 23725,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideRightB"
-	},
-	{
-		"abr": "onager-classstardestroyersideright3",
-		"price": 17117,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideRightC"
-	},
-	{
-		"abr": "onager-classstardestroyersideright4",
-		"price": 14033,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SideRightD"
-	},
-	{
-		"abr": "onager-classstardestroyerspinalconnector",
-		"price": 14033,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SpinalConnection"
-	},
-	{
-		"abr": "onager-classstardestroyerspinalhead",
-		"price": 3542,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SpinalHead"
-	},
-	{
-		"abr": "onager-classstardestroyerspinaltail",
-		"price": 3542,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_SpinalTail"
-	},
-	{
-		"abr": "onager-classstardestroyertop",
-		"price": 2308,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_Top"
-	},
-	{
-		"abr": "onager-classstardestroyerwingleft1",
-		"price": 20200,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingLeftA"
-	},
-	{
-		"abr": "onager-classstardestroyerwingleft2",
-		"price": 6183,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingLeftB"
-	},
-	{
-		"abr": "onager-classstardestroyerwingleft3",
-		"price": 5308,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingLeftC"
-	},
-	{
-		"abr": "onager-classstardestroyerwingleft4",
-		"price": 3892,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingLeftD"
-	},
-	{
-		"abr": "onager-classstardestroyerwingleft5",
-		"price": 7508,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingLeftE"
-	},
-	{
-		"abr": "onager-classstardestroyerwingright1",
-		"price": 20200,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingRightA"
-	},
-	{
-		"abr": "onager-classstardestroyerwingright2",
-		"price": 6183,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingRightB"
-	},
-	{
-		"abr": "onager-classstardestroyerwingright3",
-		"price": 5308,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingRightC"
-	},
-	{
-		"abr": "onager-classstardestroyerwingright4",
-		"price": 3892,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingRightD"
-	},
-	{
-		"abr": "onager-classstardestroyerwingright5",
-		"price": 7508,
-		"category": "Corellian ship parts",
-		"defname": "Ship_OnagerClassStarDestroyer_WingRightE"
-	},
-	{
-		"abr": "quadturbolaser(imperial-classstardestroyer)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserP"
-	},
-	{
-		"abr": "quadturbolaser(victory-classstardestroyer)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserM"
-	},
-	{
-		"abr": "raider-classcorvettebackleft",
-		"price": 983,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_BackLeft"
-	},
-	{
-		"abr": "raider-classcorvettebackright",
-		"price": 983,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_BackRight"
-	},
-	{
-		"abr": "raider-classcorvetteengine",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_Engine"
-	},
-	{
-		"abr": "raider-classcorvettefront",
-		"price": 9708,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_Front"
-	},
-	{
-		"abr": "raider-classcorvettefrontleft",
-		"price": 3892,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_FrontLeft"
-	},
-	{
-		"abr": "raider-classcorvettefrontright",
-		"price": 3892,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_FrontRight"
-	},
-	{
-		"abr": "raider-classcorvettesideleft1",
-		"price": 6450,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_SideLeftA"
-	},
-	{
-		"abr": "raider-classcorvettesideleft2",
-		"price": 17733,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_SideLeftB"
-	},
-	{
-		"abr": "raider-classcorvettesideright1",
-		"price": 6450,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_SideRightA"
-	},
-	{
-		"abr": "raider-classcorvettesideright2",
-		"price": 17733,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RaiderClassCorvette_SideRightB"
-	},
-	{
-		"abr": "rebreather",
-		"price": 2158,
-		"category": "Apparel",
-		"defname": "CEC_Rebreather"
-	},
-	{
-		"abr": "simpleevahelmet",
-		"price": 725,
-		"category": "Headgear",
-		"defname": "CEC_SimpleEVA_Helmet"
-	},
-	{
-		"abr": "simpleevasuit",
-		"price": 236,
-		"category": "Apparel",
-		"defname": "CEC_SimpleEVA_Suit"
-	},
-	{
-		"abr": "simplerebreather",
-		"price": 1967,
-		"category": "Apparel",
-		"defname": "CEC_RebreatherSimple"
-	},
-	{
-		"abr": "spinalamplifier(onager-classstardestroyer)",
-		"price": 3175,
-		"category": "Misc",
-		"defname": "CEC_SpinalAmplifier_A"
-	},
-	{
-		"abr": "spinalbarrel(blue)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Blue"
-	},
-	{
-		"abr": "spinalbarrel(cyan)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Cyan"
-	},
-	{
-		"abr": "spinalbarrel(grenn)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Green"
-	},
-	{
-		"abr": "spinalbarrel(orange)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Orange"
-	},
-	{
-		"abr": "spinalbarrel(purple)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Purple"
-	},
-	{
-		"abr": "spinalbarrel(red)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Red"
-	},
-	{
-		"abr": "spinalbarrel(synthetic)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Synthetic"
-	},
-	{
-		"abr": "spinalbarrel(white)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_White"
-	},
-	{
-		"abr": "spinalbarrel(yellow)(onager-classstardestroyer)",
-		"price": 11050,
-		"category": "Misc",
-		"defname": "CEC_SpinalBarrel_A_Yellow"
-	},
-	{
-		"abr": "spinalcapacitor(onager-classstardestroyer)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_SpinalEmitter_A"
-	},
-	{
-		"abr": "tripleturbolaser(imperial-classstardestroyer)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserQ"
-	},
-	{
-		"abr": "victory-classstardestroyerback",
-		"price": 2842,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_Back"
-	},
-	{
-		"abr": "victory-classstardestroyerbackleft1",
-		"price": 8917,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_BackLeftA"
-	},
-	{
-		"abr": "victory-classstardestroyerbackleft2",
-		"price": 3100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_BackLeftB"
-	},
-	{
-		"abr": "victory-classstardestroyerbackright1",
-		"price": 8917,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_BackRightA"
-	},
-	{
-		"abr": "victory-classstardestroyerbackright2",
-		"price": 3100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_BackRightB"
-	},
-	{
-		"abr": "victory-classstardestroyerengine",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_Engine"
-	},
-	{
-		"abr": "victory-classstardestroyerengineleft",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_EngineL"
-	},
-	{
-		"abr": "victory-classstardestroyerengineright",
-		"price": 5675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_EngineR"
-	},
-	{
-		"abr": "victory-classstardestroyerfront",
-		"price": 13150,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_Front"
-	},
-	{
-		"abr": "victory-classstardestroyerfrontleft1",
-		"price": 16500,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_FrontLeftA"
-	},
-	{
-		"abr": "victory-classstardestroyerfrontleft2",
-		"price": 5750,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_FrontLeftB"
-	},
-	{
-		"abr": "victory-classstardestroyerfrontleft3",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_FrontLeftC"
-	},
-	{
-		"abr": "victory-classstardestroyerfrontright1",
-		"price": 16500,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_FrontRightA"
-	},
-	{
-		"abr": "victory-classstardestroyerfrontright2",
-		"price": 5750,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_FrontRightB"
-	},
-	{
-		"abr": "victory-classstardestroyerfrontright3",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_FrontRightC"
-	},
-	{
-		"abr": "victory-classstardestroyersideleft1",
-		"price": 9975,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideLeftA"
-	},
-	{
-		"abr": "victory-classstardestroyersideleft2",
-		"price": 23900,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideLeftB"
-	},
-	{
-		"abr": "victory-classstardestroyersideleft3",
-		"price": 23900,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideLeftC"
-	},
-	{
-		"abr": "victory-classstardestroyersideleft4",
-		"price": 13675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideLeftD"
-	},
-	{
-		"abr": "victory-classstardestroyersideright1",
-		"price": 9975,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideRightA"
-	},
-	{
-		"abr": "victory-classstardestroyersideright2",
-		"price": 23900,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideRightB"
-	},
-	{
-		"abr": "victory-classstardestroyersideright3",
-		"price": 23900,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideRightC"
-	},
-	{
-		"abr": "victory-classstardestroyersideright4",
-		"price": 13675,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_SideRightD"
-	},
-	{
-		"abr": "victory-classstardestroyertop",
-		"price": 1192,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VictoryClassStarDestroyer_Top"
-	},
-	{
-		"abr": "warmdurafiberbodysuit",
-		"price": 260,
-		"category": "Apparel",
-		"defname": "CEC_Bodysuit_Warm"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserback",
-		"price": 16325,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_Back"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserbackleft",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_BackLeft"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserbackright",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_BackRight"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserengineblock",
-		"price": 18700,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_EngineBlock"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserengineleft",
-		"price": 4008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_EngineL"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserengineright",
-		"price": 4008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_EngineR"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserfront",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_Front"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserfrontleft1",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_FrontLeftA"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserfrontleft2",
-		"price": 9275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_FrontLeftB"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserfrontright1",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_FrontRightA"
-	},
-	{
-		"abr": "dreadnaught-classheavycruiserfrontright2",
-		"price": 9275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_FrontRightB"
-	},
-	{
-		"abr": "dreadnaught-classheavycruisersideleft1",
-		"price": 9275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_SideLeftA"
-	},
-	{
-		"abr": "dreadnaught-classheavycruisersideleft2",
-		"price": 4075,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_SideLeftB"
-	},
-	{
-		"abr": "dreadnaught-classheavycruisersideleft3",
-		"price": 9708,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_SideLeftC"
-	},
-	{
-		"abr": "dreadnaught-classheavycruisersideright1",
-		"price": 9275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_SideRightA"
-	},
-	{
-		"abr": "dreadnaught-classheavycruisersideright2",
-		"price": 4075,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_SideRightB"
-	},
-	{
-		"abr": "dreadnaught-classheavycruisersideright3",
-		"price": 9708,
-		"category": "Corellian ship parts",
-		"defname": "Ship_DreadnaughtClassHeavyCruiser_SideRightC"
-	},
-	{
-		"abr": "duallasercannon(vigil-classcorvette)",
-		"price": 9133,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_LaserCannonI"
-	},
-	{
-		"abr": "dualturbolaser(lancer-classfrigate)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserR"
-	},
-	{
-		"abr": "dualturbolaser(lancer-classfrigate)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserRA"
-	},
-	{
-		"abr": "dualturbolaser(lancer-classfrigate)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserRB"
-	},
-	{
-		"abr": "dualturbolaser(nebulon-bfrigate)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserUA"
-	},
-	{
-		"abr": "dualturbolaser(nebulon-bfrigate)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserUB"
-	},
-	{
-		"abr": "dualturbolaser(quasar-classcarrier)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserS"
-	},
-	{
-		"abr": "dualturbolaser(vigil-classcorvette)",
-		"price": 11300,
-		"category": "Misc",
-		"defname": "CEC_ShipTurretBase_TurbolaserT"
-	},
-	{
-		"abr": "lancer-classfrigateback",
-		"price": 11567,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_Back"
-	},
-	{
-		"abr": "lancer-classfrigatebackleft",
-		"price": 6625,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_BackLeft"
-	},
-	{
-		"abr": "lancer-classfrigatebackright",
-		"price": 6625,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_BackRight"
-	},
-	{
-		"abr": "lancer-classfrigateengine",
-		"price": 4842,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_Engine"
-	},
-	{
-		"abr": "lancer-classfrigateengineblock",
-		"price": 13858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_EngineBlock"
-	},
-	{
-		"abr": "lancer-classfrigatefront",
-		"price": 2042,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_Front"
-	},
-	{
-		"abr": "lancer-classfrigatefrontleft1",
-		"price": 4425,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_FrontLeftA"
-	},
-	{
-		"abr": "lancer-classfrigatefrontleft2",
-		"price": 5925,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_FrontLeftB"
-	},
-	{
-		"abr": "lancer-classfrigatefrontright1",
-		"price": 1517,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_FrontRightA"
-	},
-	{
-		"abr": "lancer-classfrigatefrontright2",
-		"price": 5925,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_FrontRightB"
-	},
-	{
-		"abr": "lancer-classfrigatesideleft1",
-		"price": 4425,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_SideLeftA"
-	},
-	{
-		"abr": "lancer-classfrigatesideleft2",
-		"price": 4425,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_SideLeftB"
-	},
-	{
-		"abr": "lancer-classfrigatesideleft3",
-		"price": 3275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_SideLeftC"
-	},
-	{
-		"abr": "lancer-classfrigatesideright1",
-		"price": 4425,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_SideRightA"
-	},
-	{
-		"abr": "lancer-classfrigatesideright2",
-		"price": 4425,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_SideRightB"
-	},
-	{
-		"abr": "lancer-classfrigatesideright3",
-		"price": 550,
-		"category": "Corellian ship parts",
-		"defname": "Ship_LancerClassFrigate_SideRightC"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)backleft",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_BackLeft"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)backright",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_BackRight"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)engineblock",
-		"price": 12617,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_EngineBlock"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)engineleft",
-		"price": 4008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_EngineL"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)engineright",
-		"price": 4008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_EngineR"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)front",
-		"price": 1342,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_Front"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontleft1",
-		"price": 1692,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontLeftA"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontleft2",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontLeftB"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontleft3",
-		"price": 3275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontLeftC"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontleft4",
-		"price": 3100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontLeftD"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontright1",
-		"price": 1692,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontRightA"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontright2",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontRightB"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontright3",
-		"price": 3275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontRightC"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)frontright4",
-		"price": 3100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_FrontRightD"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)sideleft1",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_SideLeftA"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)sideleft2",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_SideLeftB"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)sideright1",
-		"price": 3633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_SideRightA"
-	},
-	{
-		"abr": "nebulon-bfrigate(imperial)sideright2",
-		"price": 7858,
-		"category": "Corellian ship parts",
-		"defname": "Ship_ImpNebulonBFrigate_SideRightB"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)backleft",
-		"price": 4158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_BackLeft"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)backright",
-		"price": 4158,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_BackRight"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)engineblock",
-		"price": 12617,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_EngineBlock"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)engineleft",
-		"price": 4008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_EngineL"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)engineright",
-		"price": 4008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_EngineR"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)front",
-		"price": 1342,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_Front"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontleft1",
-		"price": 1692,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontLeftA"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontleft2",
-		"price": 6008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontLeftB"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontleft3",
-		"price": 3275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontLeftC"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontleft4",
-		"price": 2225,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontLeftD"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontright1",
-		"price": 1692,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontRightA"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontright2",
-		"price": 6008,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontRightB"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontright3",
-		"price": 3275,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontRightC"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)frontright4",
-		"price": 2225,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_FrontRightD"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)sideleft1",
-		"price": 2042,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_SideLeftA"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)sideleft2",
-		"price": 3100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_SideLeftB"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)sideleft3",
-		"price": 1342,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_SideLeftC"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)sideright1",
-		"price": 2042,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_SideRightA"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)sideright2",
-		"price": 3100,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_SideRightB"
-	},
-	{
-		"abr": "nebulon-bfrigate(rebels)sideright3",
-		"price": 1342,
-		"category": "Corellian ship parts",
-		"defname": "Ship_RebNebulonBFrigate_SideRightC"
-	},
-	{
-		"abr": "quasar-classcarrierbackleft1",
-		"price": 1250,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_BackLeftA"
-	},
-	{
-		"abr": "quasar-classcarrierbackleft2",
-		"price": 15617,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_BackLeftB"
-	},
-	{
-		"abr": "quasar-classcarrierbackright1",
-		"price": 1250,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_BackRightA"
-	},
-	{
-		"abr": "quasar-classcarrierbackright2",
-		"price": 15617,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_BackRightB"
-	},
-	{
-		"abr": "quasar-classcarrierengine1",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineA"
-	},
-	{
-		"abr": "quasar-classcarrierengine2",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineB"
-	},
-	{
-		"abr": "quasar-classcarrierengine3",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineC"
-	},
-	{
-		"abr": "quasar-classcarrierengine4",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineD"
-	},
-	{
-		"abr": "quasar-classcarrierengine5",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineE"
-	},
-	{
-		"abr": "quasar-classcarrierengineblockcentre",
-		"price": 2842,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineBlockCentre"
-	},
-	{
-		"abr": "quasar-classcarrierengineblockleft",
-		"price": 6800,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineBlockLeft"
-	},
-	{
-		"abr": "quasar-classcarrierengineblockright",
-		"price": 6800,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_EngineBlockRight"
-	},
-	{
-		"abr": "quasar-classcarrierfront",
-		"price": 2308,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_Front"
-	},
-	{
-		"abr": "quasar-classcarrierfrontleft1",
-		"price": 5217,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_FrontLeftA"
-	},
-	{
-		"abr": "quasar-classcarrierfrontleft2",
-		"price": 7242,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_FrontLeftB"
-	},
-	{
-		"abr": "quasar-classcarrierfrontright1",
-		"price": 5217,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_FrontRightA"
-	},
-	{
-		"abr": "quasar-classcarrierfrontright2",
-		"price": 7242,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_FrontRightB"
-	},
-	{
-		"abr": "quasar-classcarriersideleft1",
-		"price": 12442,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideLeftA"
-	},
-	{
-		"abr": "quasar-classcarriersideleft2",
-		"price": 12442,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideLeftB"
-	},
-	{
-		"abr": "quasar-classcarriersideleft3",
-		"price": 5308,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideLeftC"
-	},
-	{
-		"abr": "quasar-classcarriersideleft4",
-		"price": 21608,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideLeftD"
-	},
-	{
-		"abr": "quasar-classcarriersideright1",
-		"price": 12442,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideRightA"
-	},
-	{
-		"abr": "quasar-classcarriersideright2",
-		"price": 12442,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideRightB"
-	},
-	{
-		"abr": "quasar-classcarriersideright3",
-		"price": 5308,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideRightC"
-	},
-	{
-		"abr": "quasar-classcarriersideright4",
-		"price": 21608,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideRightD"
-	},
-	{
-		"abr": "quasar-classcarriersidetop",
-		"price": 2575,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_SideTop"
-	},
-	{
-		"abr": "quasar-classcarriertop",
-		"price": 1692,
-		"category": "Corellian ship parts",
-		"defname": "Ship_QuasarClassCarrier_Top"
-	},
-	{
-		"abr": "vigil-classcorvetteback1",
-		"price": 7600,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_BackA"
-	},
-	{
-		"abr": "vigil-classcorvetteback2",
-		"price": 9708,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_BackB"
-	},
-	{
-		"abr": "vigil-classcorvettebackleft",
-		"price": 11742,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_BackLeft"
-	},
-	{
-		"abr": "vigil-classcorvettebackright",
-		"price": 11742,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_BackRight"
-	},
-	{
-		"abr": "vigil-classcorvetteengineleft1",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_EngineLA"
-	},
-	{
-		"abr": "vigil-classcorvetteengineleft2",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_EngineLB"
-	},
-	{
-		"abr": "vigil-classcorvetteengineright1",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_EngineRA"
-	},
-	{
-		"abr": "vigil-classcorvetteengineright2",
-		"price": 3175,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_EngineRB"
-	},
-	{
-		"abr": "vigil-classcorvettefront",
-		"price": 15000,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_Front"
-	},
-	{
-		"abr": "vigil-classcorvettefrontleft",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_FrontLeft"
-	},
-	{
-		"abr": "vigil-classcorvettefrontright",
-		"price": 8392,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_FrontRight"
-	},
-	{
-		"abr": "vigil-classcorvettesideleft1",
-		"price": 37475,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_SideLeftA"
-	},
-	{
-		"abr": "vigil-classcorvettesideleft2",
-		"price": 26633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_SideLeftB"
-	},
-	{
-		"abr": "vigil-classcorvettesideright1",
-		"price": 37475,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_SideRightA"
-	},
-	{
-		"abr": "vigil-classcorvettesideright2",
-		"price": 26633,
-		"category": "Corellian ship parts",
-		"defname": "Ship_VigilClassCorvette_SideRightB"
-	},
-	{
-		"abr": "ambusherskill:ambush",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_Ambush"
-	},
-	{
-		"abr": "ambusherskill:caltrops",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_Caltrops"
-	},
-	{
-		"abr": "ambusherskill:poisontrap",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_AmbusherPoisonTrap"
-	},
-	{
-		"abr": "ambusherskill:proximitycharge",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_ProximityCharge"
-	},
-	{
-		"abr": "ambusher/minerskill:thebigone",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_TheBigOne"
-	},
-	{
-		"abr": "ambusher'sbelt",
-		"price": 2667,
-		"category": "Utility",
-		"defname": "KeepersBelt"
-	},
-	{
-		"abr": "amuletofclarity",
-		"price": 4333,
-		"category": "Magic artifacts",
-		"defname": "TM_AmuletOfClarity"
-	},
-	{
-		"abr": "amuletofforce",
-		"price": 4333,
-		"category": "Magic artifacts",
-		"defname": "TM_AmuletOfForce"
-	},
-	{
-		"abr": "amuletofperception",
-		"price": 3667,
-		"category": "Magic artifacts",
-		"defname": "TM_AmuletOfPerception"
-	},
-	{
-		"abr": "amuletoftranquility",
-		"price": 3667,
-		"category": "Magic artifacts",
-		"defname": "TM_AmuletOfTranquility"
-	},
-	{
-		"abr": "apothecaryskill:refinedmanapotion",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_RefinedManaPotion"
-	},
-	{
-		"abr": "apothecary/blossombladerskill:beltpouch",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SkillOf_BeltPouch"
-	},
-	{
-		"abr": "arbormancerspell:bramblepatch",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SpellOf_BramblePatch"
-	},
-	{
-		"abr": "arcanespell:arcanewall",
-		"price": 2083,
-		"category": "Scrolls",
-		"defname": "SpellOf_ArcaneWallC"
-	},
-	{
-		"abr": "arcanespell:clearmind",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_ClearMindC"
-	},
-	{
-		"abr": "arcanespell:disarm",
-		"price": 2083,
-		"category": "Scrolls",
-		"defname": "SpellOf_Disarm"
-	},
-	{
-		"abr": "arcanespell:forcemissile",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_ForceMissile"
-	},
-	{
-		"abr": "arcanetome:arbormancer",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfArbormancer"
-	},
-	{
-		"abr": "arcanetome:architect",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfArchitect"
-	},
-	{
-		"abr": "arcanetome:blackmage",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfBlackMage"
-	},
-	{
-		"abr": "arcanetome:cleric",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfCleric"
-	},
-	{
-		"abr": "arcanetome:duskbringer",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfDuskbringer"
-	},
-	{
-		"abr": "arcanetome:elementalgunner",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfElementalGunner"
-	},
-	{
-		"abr": "arcanetome:guardian",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfGuardian"
-	},
-	{
-		"abr": "arcanetome:harbinger",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfHarbinger"
-	},
-	{
-		"abr": "arcanetome:keeper",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfKeeper"
-	},
-	{
-		"abr": "arcanetome:ninja",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfNinja"
-	},
-	{
-		"abr": "arcanetome:oracle",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfOracle"
-	},
-	{
-		"abr": "arcanetome:pridestalker",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfPridestalker"
-	},
-	{
-		"abr": "arcanetome:redmage",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfRedMage"
-	},
-	{
-		"abr": "arcanetome:runeknight",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfRuneKnight"
-	},
-	{
-		"abr": "arcanetome:scholar",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfScholar"
-	},
-	{
-		"abr": "arcanetome:shadowbringer",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfShadowbringer"
-	},
-	{
-		"abr": "arcanetome:troubadour",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfTroubadour"
-	},
-	{
-		"abr": "arcanetome:warden",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfWarden"
-	},
-	{
-		"abr": "arcanetome:windmage",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfWindMage"
-	},
-	{
-		"abr": "arcanewall",
-		"price": 2,
-		"category": "Misc",
-		"defname": "TM_ArchitectWallBD"
-	},
-	{
-		"abr": "arcanewall",
-		"price": 2,
-		"category": "Misc",
-		"defname": "TM_ArchitectWallTempBD"
-	},
-	{
-		"abr": "architectspell:elementalrift",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SpellOf_ElementalRift"
-	},
-	{
-		"abr": "archmage'sreceipt",
-		"price": 4667,
-		"category": "Utility",
-		"defname": "TM_ArchmagesReceipt"
-	},
-	{
-		"abr": "artificialreinforceclaw",
-		"price": 917,
-		"category": "Prosthetic",
-		"defname": "Nakin_ARClaw"
-	},
-	{
-		"abr": "assistedshootingmodule",
-		"price": 2208,
-		"category": "Prosthetic",
-		"defname": "AssistedShootingModule"
-	},
-	{
-		"abr": "beltofextravagance",
-		"price": 2667,
-		"category": "Utility",
-		"defname": "BeltOfExtravagance"
-	},
-	{
-		"abr": "beltofthewilds",
-		"price": 2000,
-		"category": "Utility",
-		"defname": "BeltOfTheWilds"
-	},
-	{
-		"abr": "bionicnakinarm",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "Bionic_Nakin_Arm"
-	},
-	{
-		"abr": "bionicnakintentacle",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "Bionic_Nakin_tentacle"
-	},
-	{
-		"abr": "blackmagespell:aetherialmanipulation",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SpellOf_AetherialManipulation"
-	},
-	{
-		"abr": "blackmagespell:despair",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_Despair"
-	},
-	{
-		"abr": "blackmagespell:manaward",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SpellOf_Manaward"
-	},
-	{
-		"abr": "blackmagespell:sharpcast",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Sharpcast"
-	},
-	{
-		"abr": "blackmagespell:xenoglossy",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Xenoglossy"
-	},
-	{
-		"abr": "bladedancerskill:blade'sedge",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_BladesEdge"
-	},
-	{
-		"abr": "blossombladerskill:bladestorm",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_Bladestorm"
-	},
-	{
-		"abr": "blossombladerskill:fallenleaf",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_FallenLeaf"
-	},
-	{
-		"abr": "bookofrecipes:chef",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfChef"
-	},
-	{
-		"abr": "bowskill:cripplingshot",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_CripplingShot"
-	},
-	{
-		"abr": "bowskill:grapplearrow",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_GrappleArrow"
-	},
-	{
-		"abr": "bowskill:marksman'svow",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_MarksmansVow"
-	},
-	{
-		"abr": "bowskill:quickshot",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_QuickShot"
-	},
-	{
-		"abr": "boxofdice:gambler",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfGambler"
-	},
-	{
-		"abr": "chempunkskill:juggernaut",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_Juggernaut"
-	},
-	{
-		"abr": "chempunkskill:noxiousblast",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_NoxiousBlast"
-	},
-	{
-		"abr": "chempunkskill:quickvent",
-		"price": 1583,
-		"category": "Scrolls",
-		"defname": "SkillOf_QuickVent"
-	},
-	{
-		"abr": "chempunkskill:regulator",
-		"price": 1583,
-		"category": "Scrolls",
-		"defname": "SkillOf_Regulator"
-	},
-	{
-		"abr": "child'steddybear",
-		"price": 2333,
-		"category": "Utility",
-		"defname": "ChildsTeddybear"
-	},
-	{
-		"abr": "chromamagespell:chromaticflash",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_ChromaticFlash"
-	},
-	{
-		"abr": "chronomancerspell:unstablesingularity",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_UnstableSingularity"
-	},
-	{
-		"abr": "combataugments:chempunk",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfChempunk"
-	},
-	{
-		"abr": "combataugments:railbreaker",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfRailbreaker"
-	},
-	{
-		"abr": "combatform:blossomblader",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfBlossomBlader"
-	},
-	{
-		"abr": "combatform:deadeye",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfDeadeye"
-	},
-	{
-		"abr": "combatform:dragoon",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfDragoon"
-	},
-	{
-		"abr": "combatform:gunbreaker",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfGunbreaker"
-	},
-	{
-		"abr": "combatform:gunner",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfGunner"
-	},
-	{
-		"abr": "combatform:gunslinger",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfGunslinger"
-	},
-	{
-		"abr": "combatform:holosmith",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfHolosmith"
-	},
-	{
-		"abr": "combatform:mechhunter",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfMechHunter"
-	},
-	{
-		"abr": "combatform:miner",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfMiner"
-	},
-	{
-		"abr": "combatform:mystic",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfMystic"
-	},
-	{
-		"abr": "combatform:nomad",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfNomad"
-	},
-	{
-		"abr": "combatform:scrapper",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfScrapper"
-	},
-	{
-		"abr": "combatform:spellbreaker",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfSpellbreaker"
-	},
-	{
-		"abr": "combatform:spellthief",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfSpellthief"
-	},
-	{
-		"abr": "combatform:striker",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfStriker"
-	},
-	{
-		"abr": "combatform:supportspecialist",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfSupportSpecialist"
-	},
-	{
-		"abr": "combatform:thunderblessed",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfThunderblessed"
-	},
-	{
-		"abr": "combatform:warrior",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfWarrior"
-	},
-	{
-		"abr": "combatinspiration:gadgeteer",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfGadgeteer"
-	},
-	{
-		"abr": "combatstyle:ambusher",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfAmbusher"
-	},
-	{
-		"abr": "combatstyle:berserker",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfBerserker"
-	},
-	{
-		"abr": "combatstyle:bombardier",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfBombardier"
-	},
-	{
-		"abr": "combatstyle:chainwarden",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfChainwarden"
-	},
-	{
-		"abr": "combatstyle:hawkeye",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfHawkeye"
-	},
-	{
-		"abr": "combatstyle:reaper",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfReaper"
-	},
-	{
-		"abr": "combatstyle:saboteur",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfSaboteur"
-	},
-	{
-		"abr": "combatstyle:samurai",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfSamurai"
-	},
-	{
-		"abr": "combatstyle:scion",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfScion"
-	},
-	{
-		"abr": "commanderskill:diplomaticnegotiations",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_DiplomaticNegotiationsC"
-	},
-	{
-		"abr": "commanderskill:fireatwill",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_FireAtWillC"
-	},
-	{
-		"abr": "commanderskill:provoke",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_ProvokeC"
-	},
-	{
-		"abr": "deadeyeskill:grapplinghook",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_GrapplingHookD"
-	},
-	{
-		"abr": "deadeyeskill:oneinthechamber",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_OneInTheChamber"
-	},
-	{
-		"abr": "deadeye/e-gunnerspell:bullettime",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_BulletTime"
-	},
-	{
-		"abr": "deathknightskill:abyssaldrain",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_AbyssalDrain"
-	},
-	{
-		"abr": "deathknightskill:darkgrasp",
-		"price": 1417,
-		"category": "Scrolls",
-		"defname": "SkillOf_DarkGrasp"
-	},
-	{
-		"abr": "deathknightskill:openingritual",
-		"price": 1417,
-		"category": "Scrolls",
-		"defname": "SkillOf_OpeningRitual"
-	},
-	{
-		"abr": "deathknightskill:theblackestnight",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_TheBlackestNight"
-	},
-	{
-		"abr": "demonkinspell:eldritchbarrage",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_EldritchBarrage"
-	},
-	{
-		"abr": "destructionscroll:skyfall",
-		"price": 3000,
-		"category": "Utility",
-		"defname": "TM_DestructionSkyfall"
-	},
-	{
-		"abr": "door",
-		"price": 2,
-		"category": "Misc",
-		"defname": "TM_ArchitectDoorBD"
-	},
-	{
-		"abr": "dragoonskill:bloodofthedragon",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_BloodOfTheDragon"
-	},
-	{
-		"abr": "dragoonskill:elusivejump",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_ElusiveJump"
-	},
-	{
-		"abr": "dragoonskill:stardiver",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_Stardiver"
-	},
-	{
-		"abr": "druidspell:barkskin",
-		"price": 1083,
-		"category": "Scrolls",
-		"defname": "SpellOf_BarkskinC"
-	},
-	{
-		"abr": "druidspell:tailwind",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SpellOf_TailwindC"
-	},
-	{
-		"abr": "druid/arbormancerspell:miracleofnature",
-		"price": 3083,
-		"category": "Scrolls",
-		"defname": "SpellOf_MiracleOfNature"
-	},
-	{
-		"abr": "enchanterspell:renew",
-		"price": 950,
-		"category": "Scrolls",
-		"defname": "SpellOf_Renew"
-	},
-	{
-		"abr": "fighterskill:evasiveleap",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_EvasiveLeap"
-	},
-	{
-		"abr": "fighterskill:explosivesatchel",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SkillOf_BackupGrenade"
-	},
-	{
-		"abr": "fighterskill:glare",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SkillOf_Glare"
-	},
-	{
-		"abr": "fighterskill:lightningsatchel",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SkillOf_EMPBomb"
-	},
-	{
-		"abr": "fighterskill:martialtraining",
-		"price": 208,
-		"category": "Scrolls",
-		"defname": "SkillOf_MartialTraining"
-	},
-	{
-		"abr": "fighterskill:smokesatchel",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SkillOf_SmokeSatchel"
-	},
-	{
-		"abr": "fighterskill:vengeance",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_Vengeance"
-	},
-	{
-		"abr": "firespell:incinerate",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_Incinerate"
-	},
-	{
-		"abr": "gadgeteer/minerskill:oldheadlight",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_OldHeadlight"
-	},
-	{
-		"abr": "gamblerskill:deckblast",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_DeckBlast"
-	},
-	{
-		"abr": "gamblerskill:royalroad",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_RoyalRoad"
-	},
-	{
-		"abr": "gamblerspell:destiny",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SpellOf_Destiny"
-	},
-	{
-		"abr": "gamblerspell:sleevedraw",
-		"price": 3667,
-		"category": "Scrolls",
-		"defname": "SpellOf_SleeveDraw"
-	},
-	{
-		"abr": "gladiatorskill:grandchallenge",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_GrandChallenge"
-	},
-	{
-		"abr": "gladiatorskill:shieldstance",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_ShieldStance"
-	},
-	{
-		"abr": "guardianskill:confiteor",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_Confiteor"
-	},
-	{
-		"abr": "guardianskill:requiescat",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_Requiescat"
-	},
-	{
-		"abr": "guardianskill:temperedwill",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_TemperedWill"
-	},
-	{
-		"abr": "guardianspell:circleofscorn",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_CircleOfScorn"
-	},
-	{
-		"abr": "gunbreakerskill:aethercall",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_RoughDivide"
-	},
-	{
-		"abr": "gunbreakerskill:continuation",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_Continuation"
-	},
-	{
-		"abr": "gunbreakerskill:doubledown",
-		"price": 4667,
-		"category": "Scrolls",
-		"defname": "SkillOf_DoubleDown"
-	},
-	{
-		"abr": "gunbreakerskill:hypervelocity",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_Hypervelocity"
-	},
-	{
-		"abr": "gunbreakerskill:superbolide",
-		"price": 4333,
-		"category": "Scrolls",
-		"defname": "SkillOf_Superbolide"
-	},
-	{
-		"abr": "gunnerskill:barrelstabilizer",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_BarrelStabilizer"
-	},
-	{
-		"abr": "gunnerskill:cleanreload",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_CleanReload"
-	},
-	{
-		"abr": "gunnerskill:flamesplitter",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_FlameSplitter"
-	},
-	{
-		"abr": "gunnerskill:headgraze",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_HeadGraze"
-	},
-	{
-		"abr": "gunnerskill:naniteshot",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_NaniteShot"
-	},
-	{
-		"abr": "gunslingerskill:breachfire",
-		"price": 2583,
-		"category": "Scrolls",
-		"defname": "SkillOf_Breachfire"
-	},
-	{
-		"abr": "gunslingerskill:breakstep",
-		"price": 2583,
-		"category": "Scrolls",
-		"defname": "SkillOf_Breakstep"
-	},
-	{
-		"abr": "gunslingerskill:coverfire",
-		"price": 1333,
-		"category": "Scrolls",
-		"defname": "SkillOf_CoverFire"
-	},
-	{
-		"abr": "gunslingerskill:nanoseeker",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_Nanoseeker"
-	},
-	{
-		"abr": "gunslinger/sniperskill:gunflame",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_Gunflame"
-	},
-	{
-		"abr": "harbingerspell:sacrificialpact",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_SacrificialPact"
-	},
-	{
-		"abr": "hippocraticoath:medic",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfMedic"
-	},
-	{
-		"abr": "holosmithskill:coldopen",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_ColdOpen"
-	},
-	{
-		"abr": "holosmithskill:coolantblast",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_CoolantBlast"
-	},
-	{
-		"abr": "holosmithskill:photonwall",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_PhotonWall"
-	},
-	{
-		"abr": "holosmithskill:primelightcannon",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SkillOf_PrimeLightCannon"
-	},
-	{
-		"abr": "icespell:frostarmor",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_FrostArmor"
-	},
-	{
-		"abr": "lightningspell:overcharge",
-		"price": 4000,
-		"category": "Scrolls",
-		"defname": "SpellOf_Overcharge"
-	},
-	{
-		"abr": "magespell:effulgence",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Effulgence"
-	},
-	{
-		"abr": "magespell:erase",
-		"price": 1333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Erase"
-	},
-	{
-		"abr": "magespell:magictraining",
-		"price": 208,
-		"category": "Scrolls",
-		"defname": "SpellOf_MagicTraining"
-	},
-	{
-		"abr": "mechhunterskill:blackpowder",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_Blackpowder"
-	},
-	{
-		"abr": "mechhunterskill:finalsalvo",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_FinalSalvo"
-	},
-	{
-		"abr": "mechhunterskill:orbitalemp",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_OrbitalEMP"
-	},
-	{
-		"abr": "micro-turret",
-		"price": 11,
-		"category": "Security",
-		"defname": "TM_MicroTurretBD"
-	},
-	{
-		"abr": "minerskill:collapsingcolumn",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_CollapsingColumn"
-	},
-	{
-		"abr": "minerskill:runeoflightning",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_RuneOfLightning"
-	},
-	{
-		"abr": "minerskill:truthofmountains",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SkillOf_TruthOfMountains"
-	},
-	{
-		"abr": "monkskill:serenity",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_SerenityC"
-	},
-	{
-		"abr": "monkskill:touchofdeath",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_TouchOfDeathC"
-	},
-	{
-		"abr": "monkskill:whistlingwind",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_WhistlingWind"
-	},
-	{
-		"abr": "mysticskill:ofudastorm",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_OfudaStorm"
-	},
-	{
-		"abr": "nakin",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "NakinRace"
-	},
-	{
-		"abr": "nakinglasses",
-		"price": 88,
-		"category": "Headgear",
-		"defname": "Apparel_NakinGlasses"
-	},
-	{
-		"abr": "nakinleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_Nakin"
-	},
-	{
-		"abr": "nakinmeat",
-		"price": 8,
-		"category": "Meat",
-		"defname": "Meat_NakinRace"
-	},
-	{
-		"abr": "nakintacticalballisticgoggles",
-		"price": 575,
-		"category": "Headgear",
-		"defname": "Apparel_NakinGogglesA"
-	},
-	{
-		"abr": "nakintentacle",
-		"price": 667,
-		"category": "Natural",
-		"defname": "Nakin_tentacle"
-	},
-	{
-		"abr": "ninjaspell:doton",
-		"price": 1250,
-		"category": "Scrolls",
-		"defname": "SpellOf_Doton"
-	},
-	{
-		"abr": "ninjaspell:hyoshoranryu",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_HyoshoRanryu"
-	},
-	{
-		"abr": "nomadskill:lightarrow",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_LightArrow"
-	},
-	{
-		"abr": "nomadskill:skirmisher'sshot",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_SkirmishersShot"
-	},
-	{
-		"abr": "nomad/strikerskill:riddleofflame",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_RiddleOfFlame"
-	},
-	{
-		"abr": "oraclespell:grandexpanse",
-		"price": 6250,
-		"category": "Scrolls",
-		"defname": "SpellOf_GrandExpanse"
-	},
-	{
-		"abr": "oraclespell:planetaryforce",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_PlanetaryForce"
-	},
-	{
-		"abr": "paladinspell:hammerbolt",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SpellOf_HammerBoltC"
-	},
-	{
-		"abr": "paladinspell:retribution",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_RetributionC"
-	},
-	{
-		"abr": "paladinspell:taunt",
-		"price": 1000,
-		"category": "Scrolls",
-		"defname": "SpellOf_TauntC"
-	},
-	{
-		"abr": "priestspell:flashheal",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_FlashHeal"
-	},
-	{
-		"abr": "priest/clericspell:blessitem",
-		"price": 950,
-		"category": "Scrolls",
-		"defname": "SpellOf_BlessItem"
-	},
-	{
-		"abr": "psionicskill:approachingstorm",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_ApproachingStorm"
-	},
-	{
-		"abr": "rangerskill:hunter'sshot",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_HuntersShot"
-	},
-	{
-		"abr": "rangerskill:poisonvolley",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_PoisonVolley"
-	},
-	{
-		"abr": "rangerskill:trollunguent",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_TrollUnguent"
-	},
-	{
-		"abr": "ravenousskill:livingartillery",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_LivingArtillery"
-	},
-	{
-		"abr": "ravenousskill:secondstomach",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_SecondStomach"
-	},
-	{
-		"abr": "ravenousskill:throneofgluttony",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_ThroneOfGluttony"
-	},
-	{
-		"abr": "redmagespell:contresixte",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SpellOf_ContreSixte"
-	},
-	{
-		"abr": "runeknightspell:balefire",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Balefire"
-	},
-	{
-		"abr": "runeknightspell:reflect",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Reflect"
-	},
-	{
-		"abr": "samuraiskill:bladeparry",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_BladeParry"
-	},
-	{
-		"abr": "samuraiskill:temperance",
-		"price": 1500,
-		"category": "Scrolls",
-		"defname": "SkillOf_Temperance"
-	},
-	{
-		"abr": "scholarspell:feyblessing",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SpellOf_FeyBlessing"
-	},
-	{
-		"abr": "scholarspell:guidinglight",
-		"price": 6250,
-		"category": "Scrolls",
-		"defname": "SpellOf_GuidingLight"
-	},
-	{
-		"abr": "scrollofdeimos",
-		"price": 2000,
-		"category": "Utility",
-		"defname": "TM_ScrollOfDeimos"
-	},
-	{
-		"abr": "scrollofenceladus",
-		"price": 3000,
-		"category": "Utility",
-		"defname": "ScrollOfEnceladus"
-	},
-	{
-		"abr": "scrollofganymede",
-		"price": 2000,
-		"category": "Utility",
-		"defname": "TM_ScrollOfGanymede"
-	},
-	{
-		"abr": "scrollofio",
-		"price": 2667,
-		"category": "Utility",
-		"defname": "TM_ScrollOfIo"
-	},
-	{
-		"abr": "scrollofoblivion",
-		"price": 4333,
-		"category": "Utility",
-		"defname": "TM_ScrollOfOblivion"
-	},
-	{
-		"abr": "scrolloftriton",
-		"price": 2000,
-		"category": "Utility",
-		"defname": "TM_ScrollOfTriton"
-	},
-	{
-		"abr": "shadowessence",
-		"price": 1833,
-		"category": "Drugs",
-		"defname": "ShadowEssence"
-	},
-	{
-		"abr": "shadowbringerskill:bloodweapon",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_BloodWeapon"
-	},
-	{
-		"abr": "shadowbringerskill:livingdead",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_LivingDead"
-	},
-	{
-		"abr": "shadowbringerskill:plunge",
-		"price": 1583,
-		"category": "Scrolls",
-		"defname": "SkillOf_Plunge"
-	},
-	{
-		"abr": "shadowbringerskill:quietus",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_Quietus"
-	},
-	{
-		"abr": "shadowbringerskill:syphonstrike",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_SyphonStrike"
-	},
-	{
-		"abr": "shadowbringerspell:callofdarkness",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_CallOfDarkness"
-	},
-	{
-		"abr": "shadowbringerspell:darkmind",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SpellOf_DarkMind"
-	},
-	{
-		"abr": "shadowbringerspell:oblation",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SpellOf_Oblation"
-	},
-	{
-		"abr": "sniperskill:death'sjudgment",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_DeathsJudgment"
-	},
-	{
-		"abr": "sniperskill:disarmingshot",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_DisarmingShot"
-	},
-	{
-		"abr": "sniperskill:heartpiercer",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_Heartpiercer"
-	},
-	{
-		"abr": "sniper/soldierskill:stimshot",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_StimShot"
-	},
-	{
-		"abr": "spellbreakerskill:stiflingwinds",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_StiflingWinds"
-	},
-	{
-		"abr": "spellthiefskill:pickpocket",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_Pickpocket"
-	},
-	{
-		"abr": "staminapotion",
-		"price": 150,
-		"category": "Drugs",
-		"defname": "RFS_StaminaPotion"
-	},
-	{
-		"abr": "strikerskill:howlingfist",
-		"price": 2500,
-		"category": "Scrolls",
-		"defname": "SkillOf_HowlingFist"
-	},
-	{
-		"abr": "strikerskill:rockbreaker",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_Rockbreaker"
-	},
-	{
-		"abr": "summonerspell:elementalcreation",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SpellOf_AspectChanneling"
-	},
-	{
-		"abr": "supersoldierskill:serumoverload",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_SerumOverload"
-	},
-	{
-		"abr": "supportspecialistskill:handheldrocket",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_HandheldRocket"
-	},
-	{
-		"abr": "supportspecialistskill:jumpshot",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_Equilibrium"
-	},
-	{
-		"abr": "techprint(nakinvisionrectification)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_NakinVisionRectification"
-	},
-	{
-		"abr": "tomeofinsight:explorer",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfExplorer"
-	},
-	{
-		"abr": "tornscript:arbormancer",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfArbormancer"
-	},
-	{
-		"abr": "tornscript:architect",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfArchitect"
-	},
-	{
-		"abr": "tornscript:blackmage",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfBlackMage"
-	},
-	{
-		"abr": "tornscript:chromamage",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfChromaMage"
-	},
-	{
-		"abr": "tornscript:cleric",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfCleric"
-	},
-	{
-		"abr": "tornscript:harbinger",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfHarbinger"
-	},
-	{
-		"abr": "tornscript:keeper",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfKeeper"
-	},
-	{
-		"abr": "tornscript:oracle",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfOracle"
-	},
-	{
-		"abr": "tornscript:runeknight",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfRuneKnight"
-	},
-	{
-		"abr": "tornscript:scholar",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfScholar"
-	},
-	{
-		"abr": "tornscript:troubadour",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfTroubadour"
-	},
-	{
-		"abr": "tornscript:windmage",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfWindMage"
-	},
-	{
-		"abr": "troubadourskill:apexarrow",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_ApexArrow"
-	},
-	{
-		"abr": "troubadourskill:burstshot",
-		"price": 2333,
-		"category": "Scrolls",
-		"defname": "SkillOf_BurstShot"
-	},
-	{
-		"abr": "troubadourskill:empyrealarrow",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_EmpyrealArrow"
-	},
-	{
-		"abr": "troubadourskill:misery'send",
-		"price": 2000,
-		"category": "Scrolls",
-		"defname": "SkillOf_MiserysEnd"
-	},
-	{
-		"abr": "troubadourskill:swiftsong",
-		"price": 1833,
-		"category": "Scrolls",
-		"defname": "SkillOf_Swiftsong"
-	},
-	{
-		"abr": "troubadourspell:impromptu",
-		"price": 2167,
-		"category": "Scrolls",
-		"defname": "SpellOf_Impromptu"
-	},
-	{
-		"abr": "troubadourspell:warden'spaean",
-		"price": 2167,
-		"category": "Scrolls",
-		"defname": "SpellOf_WardensPaean"
-	},
-	{
-		"abr": "twistedinspiration:plaguedoctor",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfPlaguedoctor"
-	},
-	{
-		"abr": "wandererspell:flight",
-		"price": 1417,
-		"category": "Scrolls",
-		"defname": "SpellOf_FlightW"
-	},
-	{
-		"abr": "wandererspell:luckystar",
-		"price": 583,
-		"category": "Scrolls",
-		"defname": "SpellOf_LuckyStar"
-	},
-	{
-		"abr": "wardenspell:churningearth",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_ChurningEarth"
-	},
-	{
-		"abr": "wardenspell:eruption",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_Eruption"
-	},
-	{
-		"abr": "wardenspell:magneticaura",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SpellOf_MagneticAura"
-	},
-	{
-		"abr": "warriorskill:infuriate",
-		"price": 2667,
-		"category": "Scrolls",
-		"defname": "SkillOf_InfuriateW"
-	},
-	{
-		"abr": "warriorskill:innerchaos",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_InnerChaos"
-	},
-	{
-		"abr": "warriorskill:onslaught",
-		"price": 1667,
-		"category": "Scrolls",
-		"defname": "SkillOf_Onslaught"
-	},
-	{
-		"abr": "warriorskill:shakeitoff",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SkillOf_ShakeItOff"
-	},
-	{
-		"abr": "warrior/guardianskill:sheltron",
-		"price": 2167,
-		"category": "Scrolls",
-		"defname": "SkillOf_Sheltron"
-	},
-	{
-		"abr": "wayfarerskill:haste",
-		"price": 833,
-		"category": "Scrolls",
-		"defname": "SkillOf_HasteC"
-	},
-	{
-		"abr": "wayfarerskill:medigel",
-		"price": 1417,
-		"category": "Scrolls",
-		"defname": "SkillOf_MedigelC"
-	},
-	{
-		"abr": "windmagespell:feywinds",
-		"price": 3000,
-		"category": "Scrolls",
-		"defname": "SpellOf_FeyWindsLearnable"
-	}
 	],
-	"total": 6227
+	"total": 5615
 }
